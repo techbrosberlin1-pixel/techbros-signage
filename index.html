@@ -50,11 +50,11 @@ img{-webkit-user-drag:none}
 
 /* ---------- Kopfzeile ---------- */
 #head{display:flex;align-items:center;justify-content:space-between}
-.brand{display:flex;align-items:center;gap:22px;min-width:0}
+.brand{display:flex;align-items:center;min-width:0}
 /* Inline-SVG statt Bilddatei: so lassen sich Monogramm und Claim per CSS
    auf Weiß setzen (im Original sind sie schwarz und auf dunklem Grund
    unsichtbar) — keine weiße Plakette nötig, keine zweite HTTP-Anfrage. */
-#logo{height:124px;width:auto;display:block;flex:0 0 auto}
+#logo{height:124px;width:auto;display:block;flex:0 0 auto;margin-right:22px}
 #logo .lg-red{fill:var(--accent)}
 #logo .lg-ink{fill:var(--logo-ink)}
 #clock{text-align:right}
@@ -88,25 +88,27 @@ img{-webkit-user-drag:none}
 
 #badge{
   position:absolute;top:34px;left:34px;z-index:3;
-  display:inline-flex;align-items:center;gap:12px;
+  display:inline-flex;align-items:center;
   padding:16px 28px;border-radius:999px;
   background:rgba(8,9,12,.72);backdrop-filter:blur(14px);
   border:1px solid rgba(226,38,46,.70);
   color:var(--accent-lite);font-size:25px;font-weight:800;
   letter-spacing:2.8px;text-transform:uppercase;
 }
-#badge::before{content:"";width:12px;height:12px;border-radius:50%;background:var(--accent-lite);box-shadow:0 0 14px var(--accent)}
+#badge::before{content:"";width:12px;height:12px;flex:0 0 12px;margin-right:12px;border-radius:50%;background:var(--accent-lite);box-shadow:0 0 14px var(--accent)}
 
 /* ---------- Textblock ---------- */
-#info{display:flex;flex-direction:column;justify-content:flex-start;gap:30px;min-height:0}
-#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim)}
+/* Abstaende bewusst als margin, nicht als flex-gap: aeltere TV-Browser
+   (Chromium < 84) ignorieren gap in Flex-Containern stillschweigend. */
+#info{display:flex;flex-direction:column;justify-content:flex-start;min-height:0}
+#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim);margin-bottom:30px}
 #title{
   font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1.2px;
   display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
 }
-#priceRow{display:flex;align-items:flex-end;justify-content:space-between;gap:32px;margin-top:auto}
+#priceRow{display:flex;align-items:flex-end;justify-content:space-between;margin-top:auto}
 #price{
-  display:inline-flex;align-items:baseline;gap:16px;
+  display:inline-flex;align-items:baseline;
   padding:22px 46px 26px;border-radius:30px;
   background:linear-gradient(160deg,var(--accent),var(--accent-2));
   color:var(--accent-ink);
@@ -114,9 +116,9 @@ img{-webkit-user-drag:none}
 }
 #price .amount{font-size:132px;font-weight:800;line-height:.92;letter-spacing:-4px;font-variant-numeric:tabular-nums}
 #price .amount.txt{font-size:56px;letter-spacing:-1.2px;line-height:1.05;white-space:nowrap}
-#price .cur{font-size:66px;font-weight:800;line-height:1}
-#price .vb{font-size:36px;font-weight:800;opacity:.80;letter-spacing:1px}
-#cta{text-align:right;padding-bottom:14px;white-space:nowrap;flex:0 0 auto}
+#price .cur{font-size:66px;font-weight:800;line-height:1;margin-left:16px}
+#price .vb{font-size:36px;font-weight:800;opacity:.80;letter-spacing:1px;margin-left:16px}
+#cta{text-align:right;padding-bottom:14px;white-space:nowrap;flex:0 0 auto;margin-left:32px}
 #cta b{display:block;font-size:28px;font-weight:800;letter-spacing:-.2px}
 #cta span{display:block;font-size:20px;color:var(--fg-dim);letter-spacing:2.2px;text-transform:uppercase;margin-top:8px}
 
@@ -212,6 +214,13 @@ img{-webkit-user-drag:none}
    KONFIGURATION
    ============================================================ */
 const CONFIG = {
+  // Drehung fuer Player ohne eigene Bildrotation (Hisense/VIDAA, viele Smart-TVs):
+  //   'off'  = keine Drehung (Player liefert bereits Hochformat)
+  //   '90'   = 90 Grad im Uhrzeigersinn  -> TV im Uhrzeigersinn gedreht montiert
+  //   '270'  = 90 Grad gegen den Uhrzeigersinn
+  //   'auto' = dreht, sobald das Browserfenster im Querformat ist
+  ROTATE: 'auto',
+  OVERSCAN_PCT: 0,       // TVs, die die Bildraender abschneiden: 2-5 eintragen
   DATA_URL: 'ads.json',  // vom Scraper erzeugte Live-Daten. '' = nur eingebaute Liste
   DATA_REFRESH_MIN: 30,  // ads.json alle N Minuten neu laden (0 = nie)
   SLIDE_MS: 7000,        // Anzeigedauer pro Produkt (6000–8000 empfohlen)
@@ -293,9 +302,17 @@ const imgUrl = v => v.startsWith('http')
 
 function isAnkauf(a){ return !/\d/.test(a.p) && /ankauf|verkaufen/i.test(a.t); }
 
+// Unicode-Property-Escapes (\p{...}) kennen aeltere TV-Browser nicht. Als
+// Literal geschrieben wuerde die Datei dort gar nicht erst geparst und die
+// Seite bliebe schwarz - deshalb zur Laufzeit bauen, mit einfacherem Ersatz.
+const RE_DEKO = (function(){
+  try { return new RegExp('[\\p{Extended_Pictographic}\\uFE0F\\u2B00-\\u2BFF]', 'gu'); }
+  catch (e) { return /[\u2190-\u2BFF\u2600-\u27BF\uFE0F\uD800-\uDFFF]/g; }
+})();
+
 // Deko-Emoji entfernen, "TOP ANGEBOT" wandert ins Badge
 function cleanTitle(raw){
-  let s = raw.replace(/[\p{Extended_Pictographic}️⬀-⯿]/gu, ' ');
+  let s = raw.replace(RE_DEKO, ' ');
   s = s.replace(/\bTOP\s*ANGEBOT\b/gi, ' ').replace(/^\s*TOP\b/i, ' ');
   s = s.replace(/\s{2,}/g, ' ').trim();
   s = s.replace(/^[|\-–•·,:]+\s*/, '').replace(/\s*[|\-–•·,:]+$/, '').trim();
@@ -361,13 +378,36 @@ async function loadAds(){
    1080x1920-Bühne auf jede Portrait-Auflösung skalieren
    ============================================================ */
 const stage = document.getElementById('stage');
-function fit(){
-  const s = Math.min(innerWidth / 1080, innerHeight / 1920);
-  const x = (innerWidth  - 1080 * s) / 2;
-  const y = (innerHeight - 1920 * s) / 2;
-  stage.style.transform = 'translate(' + x + 'px,' + y + 'px) scale(' + s + ')';
+
+function rotation(){
+  if (CONFIG.ROTATE === 'auto') return innerWidth > innerHeight ? 90 : 0;
+  const n = parseInt(CONFIG.ROTATE, 10);
+  return (n === 90 || n === 270) ? n : 0;
 }
-addEventListener('resize', fit); fit();
+
+function fit(){
+  const rot  = rotation();
+  const trim = 1 - (CONFIG.OVERSCAN_PCT || 0) / 100;
+  let t;
+
+  if (rot === 0){
+    const s = Math.min(innerWidth / 1080, innerHeight / 1920) * trim;
+    t = 'translate(' + ((innerWidth - 1080 * s) / 2) + 'px,'
+                     + ((innerHeight - 1920 * s) / 2) + 'px) scale(' + s + ')';
+  } else {
+    // Gedreht belegt die 1080x1920-Buehne 1920 breit und 1080 hoch.
+    const s  = Math.min(innerWidth / 1920, innerHeight / 1080) * trim;
+    const ox = (innerWidth  - 1920 * s) / 2;
+    const oy = (innerHeight - 1080 * s) / 2;
+    t = rot === 90
+      ? 'translate(' + (ox + 1920 * s) + 'px,' + oy + 'px) rotate(90deg) scale(' + s + ')'
+      : 'translate(' + ox + 'px,' + (oy + 1080 * s) + 'px) rotate(-90deg) scale(' + s + ')';
+  }
+  stage.style.transform = t;
+}
+addEventListener('resize', fit);
+addEventListener('orientationchange', fit);
+fit();
 
 /* ============================================================
    KARUSSELL — Endlosschleife, Crossfade, Bild-Vorladen
