@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080, height=1920, initial-scale=1">
+<title>TechBros – Digitales Schaufenster (Portrait 1080×1920)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#08090c;
+  --bg2:#101319;
+  --panel:#15181f;
+  --line:rgba(255,255,255,.10);
+  --fg:#f5f6f8;
+  --fg-dim:#9aa1ad;
+  --accent:#e82c31;          /* TechBros-Rot, exakt aus logo-quer.svg */
+  --accent-2:#b81a21;        /* dunklere Variante für Verläufe */
+  --accent-lite:#ff5a60;     /* aufgehellt: Rot-Text auf dunklem Grund */
+  --logo-ink:#ffffff;        /* Monogramm + Claim (im Original schwarz) */
+  --accent-ink:#ffffff;      /* Schrift auf dem Preisschild */
+  --font:'Manrope',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  --slide-ms:7000ms;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{
+  width:100%;height:100%;overflow:hidden;background:#000;
+  font-family:var(--font);color:var(--fg);
+  -webkit-font-smoothing:antialiased;
+  user-select:none;-webkit-user-select:none;cursor:none;
+}
+img{-webkit-user-drag:none}
+
+/* ---------- Skalierbare 1080x1920 Bühne ---------- */
+#viewport{position:fixed;inset:0;background:#000;overflow:hidden}
+#stage{
+  position:absolute;top:0;left:0;
+  width:1080px;height:1920px;
+  transform-origin:top left;
+  background:
+    radial-gradient(1200px 900px at 78% -8%, rgba(232,44,49,.15), transparent 62%),
+    radial-gradient(1000px 800px at 10% 108%, rgba(80,120,255,.10), transparent 60%),
+    linear-gradient(178deg,var(--bg) 0%,var(--bg2) 55%,var(--bg) 100%);
+  display:grid;
+  grid-template-rows:170px 968px 1fr 132px;
+  padding:44px 56px 40px;
+  gap:26px;
+}
+
+/* ---------- Kopfzeile ---------- */
+#head{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:22px;min-width:0}
+/* Inline-SVG statt Bilddatei: so lassen sich Monogramm und Claim per CSS
+   auf Weiß setzen (im Original sind sie schwarz und auf dunklem Grund
+   unsichtbar) — keine weiße Plakette nötig, keine zweite HTTP-Anfrage. */
+#logo{height:124px;width:auto;display:block;flex:0 0 auto}
+#logo .lg-red{fill:var(--accent)}
+#logo .lg-ink{fill:var(--logo-ink)}
+#clock{text-align:right}
+#clock b{display:block;font-size:52px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-1px;line-height:1}
+#clock span{display:block;font-size:21px;color:var(--fg-dim);letter-spacing:2.6px;text-transform:uppercase;margin-top:8px}
+
+/* ---------- Medienfläche ---------- */
+#media{
+  position:relative;border-radius:38px;overflow:hidden;
+  background:var(--panel);
+  border:1px solid var(--line);
+  box-shadow:0 40px 90px rgba(0,0,0,.62), inset 0 1px 0 rgba(255,255,255,.06);
+}
+.layer{position:absolute;inset:0;opacity:0;transition:opacity 1100ms ease}
+.layer.on{opacity:1}
+.blurbg{
+  position:absolute;inset:-8%;
+  background-size:cover;background-position:center;
+  filter:blur(46px) saturate(135%) brightness(.5);
+  transform:scale(1.14);
+}
+.shade{position:absolute;inset:0;background:radial-gradient(75% 68% at 50% 42%,transparent 0%,rgba(0,0,0,.55) 100%)}
+.photo{
+  position:absolute;inset:44px;
+  background-size:contain;background-position:center;background-repeat:no-repeat;
+  filter:drop-shadow(0 26px 46px rgba(0,0,0,.55));
+  will-change:transform;
+}
+.layer.on .photo{animation:kenburns var(--slide-ms) linear both}
+@keyframes kenburns{from{transform:scale(1) translateY(0)}to{transform:scale(1.075) translateY(-14px)}}
+
+#badge{
+  position:absolute;top:34px;left:34px;z-index:3;
+  display:inline-flex;align-items:center;gap:12px;
+  padding:16px 28px;border-radius:999px;
+  background:rgba(8,9,12,.72);backdrop-filter:blur(14px);
+  border:1px solid rgba(226,38,46,.70);
+  color:var(--accent-lite);font-size:25px;font-weight:800;
+  letter-spacing:2.8px;text-transform:uppercase;
+}
+#badge::before{content:"";width:12px;height:12px;border-radius:50%;background:var(--accent-lite);box-shadow:0 0 14px var(--accent)}
+
+/* ---------- Textblock ---------- */
+#info{display:flex;flex-direction:column;justify-content:flex-start;gap:30px;min-height:0}
+#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim)}
+#title{
+  font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1.2px;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+}
+#priceRow{display:flex;align-items:flex-end;justify-content:space-between;gap:32px;margin-top:auto}
+#price{
+  display:inline-flex;align-items:baseline;gap:16px;
+  padding:22px 46px 26px;border-radius:30px;
+  background:linear-gradient(160deg,var(--accent),var(--accent-2));
+  color:var(--accent-ink);
+  box-shadow:0 26px 60px rgba(226,38,46,.34);
+}
+#price .amount{font-size:132px;font-weight:800;line-height:.92;letter-spacing:-4px;font-variant-numeric:tabular-nums}
+#price .amount.txt{font-size:56px;letter-spacing:-1.2px;line-height:1.05;white-space:nowrap}
+#price .cur{font-size:66px;font-weight:800;line-height:1}
+#price .vb{font-size:36px;font-weight:800;opacity:.80;letter-spacing:1px}
+#cta{text-align:right;padding-bottom:14px;white-space:nowrap;flex:0 0 auto}
+#cta b{display:block;font-size:28px;font-weight:800;letter-spacing:-.2px}
+#cta span{display:block;font-size:20px;color:var(--fg-dim);letter-spacing:2.2px;text-transform:uppercase;margin-top:8px}
+
+/* ---------- Fußzeile ---------- */
+#foot{
+  display:flex;align-items:center;justify-content:space-between;
+  border-top:1px solid var(--line);padding-top:26px;
+}
+#foot .l b{display:block;font-size:27px;font-weight:800}
+#foot .l span{display:block;font-size:22px;color:var(--fg-dim);margin-top:6px}
+#count{font-size:24px;color:var(--fg-dim);letter-spacing:3px;text-transform:uppercase;font-variant-numeric:tabular-nums}
+/* Platz für optionalen QR-Code: <img id="qr" src="..."> hier einsetzen
+#qr{width:104px;height:104px;border-radius:14px;background:#fff;padding:8px} */
+
+#bar{position:absolute;left:0;bottom:0;height:7px;width:100%;background:rgba(255,255,255,.07)}
+#bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),#ff8f93);box-shadow:0 0 18px rgba(226,38,46,.75)}
+</style>
+</head>
+<body>
+<div id="viewport"><div id="stage">
+
+  <header id="head">
+    <div class="brand">
+      <svg id="logo" viewBox="0 0 698 221" xmlns="http://www.w3.org/2000/svg"
+           role="img" aria-label="TechBros – An- und Verkauf Berlin">
+      <path class="lg-red" d="M265.2,73.5h-17.2l3.1-15.4h54.3l-3.1,15.4h-17.2l-8.7,43.4h-19.8l8.7-43.4h0Z"/>
+      <path class="lg-red" d="M346.5,98.4h-32.2c.8,3.9,3.9,5.4,8.8,5.4s7.1-1,10-3.2l7.9,11.5c-6.3,4.3-13.1,5.7-20.1,5.7-15.1,0-25.3-8.2-25.3-21.3s11.3-26.4,28.5-26.4,23.4,8.4,23.4,20.2-.4,5.5-1,8h0ZM315.1,89.2h15c0-3.9-2.8-6.1-6.8-6.1s-7,2.6-8.2,6.1Z"/>
+      <path class="lg-red" d="M350,96.5c0-15.1,12-26.4,29-26.4s19.5,5.1,22.8,13.4l-16.1,7.4c-1.6-4.3-4.4-5.9-7.6-5.9-5.1,0-8.8,4.1-8.8,10.2s2.5,7.5,7.2,7.5,6.4-1.6,8.6-5.9l13.9,8.1c-4.5,8.1-13,12.8-23.9,12.8s-25-8.4-25-21.3h0Z"/>
+      <path class="lg-red" d="M455.9,85.9c0,1.8-.2,3.6-.6,5.6l-5,25.4h-19l4.6-23.1c.2-1,.3-1.9.3-2.8,0-3.3-1.6-5-4.8-5s-7.3,2.8-8.5,8.7l-4.5,22.1h-19l12.4-62.3h19l-3.9,19.9c3.8-3,8.2-4.4,12.4-4.4,9.4,0,16.5,5.3,16.5,15.8h.1Z"/>
+      <path class="lg-red" d="M520.5,98.2c0,13-12.4,18.7-27.5,18.7h-33.9l11.8-58.8h31.2c13.9,0,21.1,5.1,21.1,14s-4,11.8-10.5,14.5c5,2.2,7.9,6.1,7.9,11.5h-.1ZM500.9,97.7c0-2.6-2.3-3.9-4.9-3.9h-12.8l-1.8,9.2h12.8c3.9,0,6.7-1.8,6.7-5.4h0ZM487.6,72l-1.8,8.7h10.1c4.5,0,6.6-1.9,6.6-5.1s-1.9-3.6-5.2-3.6h-9.7Z"/>
+      <path class="lg-red" d="M565.7,70.2l-3.4,16.8c-1.6-.3-2.8-.3-4.1-.3-6.3,0-10.2,2.6-11.5,9.1l-4.3,21.3h-19l9.2-45.9h17.9l-.9,4.7c3.9-3.9,9.6-5.5,16.1-5.5v-.2h0Z"/>
+      <path class="lg-red" d="M563.4,96.5c0-15.1,11.9-26.4,28.6-26.4s24.9,8.4,24.9,21.3-11.9,26.4-28.6,26.4-24.9-8.4-24.9-21.3ZM597.7,92.3c0-4.3-2.5-7.2-6.8-7.2s-8.3,4.1-8.3,10.5,2.5,7.2,6.8,7.2,8.3-4.1,8.3-10.5Z"/>
+      <path class="lg-red" d="M617.1,113.6l6.6-12.9c4.5,2.8,10.8,4.2,16,4.2s5.6-.9,5.6-2.2c0-3.9-23.2.3-23.2-15.1s11.5-17.4,25.9-17.4,13.2,1.3,18,3.4l-6.6,12.9c-4.8-2.8-9.8-3.4-13.7-3.4s-5.8,1.2-5.8,2.3c0,4.2,23.1-.2,23.1,15.2s-11.6,17.2-25.7,17.2-16.1-1.8-20.2-4.2h0Z"/>
+      <path class="lg-ink" d="M271.1,156.6h-8.6l-1.7,4h-3.3l7.7-17.1h3.1l7.7,17.1h-3.3l-1.7-4h.1ZM270.1,154.1l-3.2-7.5-3.2,7.5s6.4,0,6.4,0Z"/>
+      <path class="lg-ink" d="M295.5,143.4v17.1h-2.6l-9.4-11.6v11.6h-3.2v-17.1h2.6l9.4,11.6v-11.6h3.2Z"/>
+      <path class="lg-ink" d="M301.4,150.6h6.7v2.5h-6.7v-2.5Z"/>
+      <path class="lg-ink" d="M322.5,153.1v-9.7h3.2v9.5c0,3.5,1.6,5,4.4,5s4.3-1.5,4.3-5v-9.5h3.1v9.7c0,5-2.8,7.7-7.5,7.7s-7.5-2.7-7.5-7.7Z"/>
+      <path class="lg-ink" d="M359.1,143.4v17.1h-2.6l-9.4-11.6v11.6h-3.2v-17.1h2.6l9.4,11.6v-11.6h3.2Z"/>
+      <path class="lg-ink" d="M365.7,143.4h7.5c5.6,0,9.3,3.4,9.3,8.6s-3.8,8.6-9.3,8.6h-7.5v-17.1h0ZM373,157.9c3.8,0,6.3-2.3,6.3-5.9s-2.5-5.9-6.3-5.9h-4.2v11.7h4.2Z"/>
+      <path class="lg-ink" d="M412.2,143.4l-7.5,17.1h-3.1l-7.5-17.1h3.5l5.7,13.2,5.8-13.2h3.2,0Z"/>
+      <path class="lg-ink" d="M428.9,157.9v2.7h-12.8v-17.1h12.5v2.7h-9.3v4.5h8.3v2.6h-8.3v4.7h9.7,0Z"/>
+      <path class="lg-ink" d="M445.6,160.6l-3.5-5h-4.6v5h-3.2v-17.1h7c4.5,0,7.3,2.3,7.3,6.1s-1.3,4.5-3.6,5.4l3.9,5.6h-3.4.1ZM441.3,146.1h-3.7v6.8h3.7c2.8,0,4.2-1.3,4.2-3.4s-1.4-3.4-4.2-3.4Z"/>
+      <path class="lg-ink" d="M460.1,153.4l-2.7,2.8v4.4h-3.2v-17.1h3.2v8.8l8.5-8.8h3.6l-7.2,7.7,7.6,9.5h-3.7l-6-7.2h0Z"/>
+      <path class="lg-ink" d="M484.4,156.6h-8.6l-1.7,4h-3.3l7.7-17.1h3.1l7.7,17.1h-3.3l-1.7-4h0ZM483.3,154.1l-3.2-7.5-3.2,7.5h6.4Z"/>
+      <path class="lg-ink" d="M493,153.1v-9.7h3.2v9.5c0,3.5,1.6,5,4.4,5s4.3-1.5,4.3-5v-9.5h3.1v9.7c0,5-2.8,7.7-7.5,7.7s-7.5-2.7-7.5-7.7Z"/>
+      <path class="lg-ink" d="M517.6,146.1v5.2h8.3v2.7h-8.3v6.6h-3.2v-17.1h12.5v2.7h-9.3Z"/>
+      <path class="lg-ink" d="M555.9,155.9c0,2.9-2.3,4.7-6.7,4.7h-8.5v-17.1h8c4.1,0,6.3,1.7,6.3,4.5s-.9,3.1-2.2,3.8c1.8.6,3.1,2,3.1,4.3v-.2h0ZM543.9,145.9v4.7h4.5c2.2,0,3.5-.8,3.5-2.3s-1.2-2.4-3.5-2.4h-4.5ZM552.7,155.6c0-1.7-1.3-2.5-3.7-2.5h-5.1v4.9h5.1c2.4,0,3.7-.8,3.7-2.5h0Z"/>
+      <path class="lg-ink" d="M574.1,157.9v2.7h-12.8v-17.1h12.5v2.7h-9.3v4.5h8.3v2.6h-8.3v4.7h9.7-.1Z"/>
+      <path class="lg-ink" d="M590.8,160.6l-3.5-5h-4.6v5h-3.2v-17.1h7c4.5,0,7.3,2.3,7.3,6.1s-1.3,4.5-3.6,5.4l3.9,5.6h-3.4.1ZM586.5,146.1h-3.7v6.8h3.7c2.8,0,4.2-1.3,4.2-3.4s-1.4-3.4-4.2-3.4Z"/>
+      <path class="lg-ink" d="M599.5,143.4h3.2v14.4h9v2.7h-12.1v-17.1h-.1Z"/>
+      <path class="lg-ink" d="M616.1,143.4h3.2v17.1h-3.2v-17.1Z"/>
+      <path class="lg-ink" d="M641.1,143.4v17.1h-2.6l-9.4-11.6v11.6h-3.2v-17.1h2.6l9.4,11.6v-11.6h3.2Z"/>
+      <path class="lg-ink" d="M194.7,107.3c12.8-5.6,22.1-15.6,22.1-27.5s-14.1-24.8-35.4-24.8h-56.7l-5.3,24.3h52.2c6.8,0,10.5,3.4,10.7,8.5,0,7.5-6.5,10.6-15.3,10.6h-50.6l-4,20.4h51c7.2,0,11.2,3.7,11.2,9,0,7.7-7.2,13.4-16.3,13.4h-50.3l-4.7,23.5h56c26.3,0,49.4-14.6,49.4-36.3s-4.9-16.9-13.8-21.1h-.2Z"/>
+      <path class="lg-ink" d="M129.9,79.2h-29.5l-17.1,85.4h-29.2l17.1-85.4h-30.3l4.8-24.3h89l-4.8,24.3h0Z"/>
+      <path class="lg-ink" d="M87.1,50.8l1.8-15.1c.5-4.5,4.7-7.8,9.2-7.3l16.4,2-.4,3.4c-.1,1.1.6,2.1,1.7,2.2l31.8,3.8c1.1.1,2.1-.6,2.2-1.7l.4-3.4,16.4,2c4.5.5,7.8,4.7,7.3,9.2l-.6,4.9h3.9l.5-4.4c.8-6.7-4-12.7-10.6-13.5l-68.6-8.2c-6.7-.8-12.7,4-13.5,10.6l-1.9,15.6h4Z"/>
+      <path class="lg-ink" d="M159.3,168.8l-2.2,18.4c-.5,4.5-4.7,7.8-9.2,7.3l-68.6-8.2c-4.5-.5-7.8-4.7-7.3-9.2l1-8.1h-3.9l-.9,7.7c-.8,6.7,4,12.7,10.6,13.5l68.6,8.2c6.7.8,12.7-4,13.5-10.6l2.3-18.8h-3.9v-.2h0Z"/>
+      </svg>
+    </div>
+    <div id="clock"><b>--:--</b><span>12099 Tempelhof</span></div>
+  </header>
+
+  <section id="media">
+    <div id="badge">Sofort verfügbar</div>
+    <div class="layer" id="lA"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
+    <div class="layer" id="lB"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
+  </section>
+
+  <section id="info">
+    <div id="kicker">Aktuelles Angebot</div>
+    <h1 id="title">Lade Angebote…</h1>
+    <div id="priceRow">
+      <div id="price"><span class="amount txt">–</span></div>
+      <div id="cta">
+        <b>Fragen? Einfach reinkommen.</b>
+        <span>Alle Anzeigen auf Kleinanzeigen</span>
+      </div>
+    </div>
+  </section>
+
+  <footer id="foot">
+    <div class="l">
+      <b>TechBros An- und Verkauf</b>
+      <span>Gewerblicher Händler · 12099 Berlin-Tempelhof</span>
+    </div>
+    <div id="count">– / –</div>
+  </footer>
+
+  <div id="bar"><i></i></div>
+</div></div>
+
+<script>
+/* ============================================================
+   KONFIGURATION
+   ============================================================ */
+const CONFIG = {
+  DATA_URL: 'ads.json',  // vom Scraper erzeugte Live-Daten. '' = nur eingebaute Liste
+  DATA_REFRESH_MIN: 30,  // ads.json alle N Minuten neu laden (0 = nie)
+  SLIDE_MS: 7000,        // Anzeigedauer pro Produkt (6000–8000 empfohlen)
+  IMG_RULE: '$_57.AUTO', // Bildgröße: $_57.AUTO = 1448px, $_59.AUTO = 960px, $_2.AUTO = 200px
+  SHOW_ANKAUF: true,     // Ankauf-/Service-Anzeigen (Preis "VB") mitlaufen lassen
+  SHUFFLE: false,        // true = Reihenfolge bei jedem Start mischen
+  RELOAD_AFTER_H: 12     // Seite alle N Stunden neu laden (Speicher/Stabilität 24/7)
+};
+
+/* ============================================================
+   FALLBACK-DATEN — Bestandsliste TechBros An- und Verkauf (userId 150382420)
+   Stand: 03.09.2026 · 49 aktive Anzeigen
+
+   Diese Liste läuft nur, solange CONFIG.DATA_URL (ads.json) nicht erreichbar
+   ist. Sobald scrape_ads.py eine ads.json daneben legt, gewinnt die.
+   Das Display bleibt dadurch auch bei Netzausfall gefüllt.
+
+   Felder: t = Anzeigentitel, p = Preis, i = Bild-ID oder volle Bild-URL
+   ============================================================ */
+const IMG_BASE = 'https://img.kleinanzeigen.de/api/v1/prod-ads/images/';
+const ADS = [
+  {t:'Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld',            p:'VB',      i:'a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12'},
+  {t:'⭐️ ASUS VIVOBOOK FLIP 14” TOUCH • i5 • 512GB SSD • 8GB RAM ⭐️',          p:'229 €',   i:'f6/f69d7902-ce6d-4272-8390-de9003eb4800'},
+  {t:'Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort',       p:'VB',      i:'b4/b41183ac-75f4-4c7b-b135-08bd47714208'},
+  {t:'MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld',             p:'VB',      i:'8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78'},
+  {t:'iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max',       p:'VB',      i:'b1/b16adfd5-492b-4bc3-b392-450098a98595'},
+  {t:'⭐️ TOP ANGEBOT ⭐️ APPLE iPAD 10. GEN 64GB WiFi PINK',                    p:'189 €',   i:'42/420008b1-5b0d-479b-8935-9e9f209d9ce2'},
+  {t:'⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️',              p:'1.129 €', i:'bd/bd1e04e1-669f-452d-a6cb-c32f43d7db20'},
+  {t:'⭐️ MACBOOK PRO 15,4” INTEL i7 • 16GB • 256GB SSD ⭐️',                    p:'279 €',   i:'df/df515ecd-a8bf-4f1f-8735-b90f0879b16b'},
+  {t:'⭐️ Apple iMac 27” Retina 5K 2017 i5 32GB RAM 512GB SSD ⭐️',              p:'379 €',   i:'17/17355c83-127a-475a-b976-973411c80b3a'},
+  {t:'⭐️ iMac Retina 5K 27” 2017 | i7 | 64GB | 512GB SSD ⭐️',                  p:'449 €',   i:'bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7'},
+  {t:'⭐️ RØDE M1S DYNAMISCHES GESANGSMIKROFON | OHNE OVP ⭐️',                  p:'69 €',    i:'d5/d5a6d5eb-14e5-4154-a010-a2889279667c'},
+  {t:'⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️',              p:'479 €',   i:'20/205823a9-856a-4676-a3bd-5f86dc843895'},
+  {t:'MSI MAG Infinite S3 i5-14400F RTX 5060 16GB 1TB SSD NEU OVP',           p:'969 €',   i:'0c/0c5e812d-43c6-4541-8eac-d95ad34df5d4'},
+  {t:'⭐️ TOP ANGEBOT ⭐️ THERMOMIX TM6 BLACK DIAMOND ⭐️',                       p:'829 €',   i:'60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd'},
+  {t:'Revox B77 4-Spur Bandmaschine Tonbandgerät + Original Haube',           p:'1.299 €', i:'45/452ada52-b427-4f5a-832c-02bb56fead5d'},
+  {t:'⭐️ iPhone 16e 128GB OVP | TOP Zustand | 4 Zyklen | RUS SIMLOCK ⭐️',      p:'299 €',   i:'40/40941e6c-1a87-437b-8b6b-e9da7bd3fbd2'},
+  {t:'⭐TOP ⭐ Samsung Galaxy S26+ 512GB ⭐ NEU & VERSIEGELT ⭐',                 p:'799 €',   i:'c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246'},
+  {t:'⭐️ MSI GEFORCE RTX 5080 16GB Grafikkarte Neu & Versiegelt ⭐️',           p:'1.299 €', i:'4c/4c61a05a-8e37-40d8-93a1-8420186814b1'},
+  {t:'⭐️ DELL G16 7630 GAMING LAPTOP – RTX 4060 & 32GB ⭐️',                    p:'999 €',   i:'96/96d9b6ff-61a7-4a23-8ccf-c37d59a4368d'},
+  {t:'Apple iPad Air M3 11” Wi-Fi 256GB +Pencil Pro Batteriezustand 98%',     p:'629 €',   i:'4e/4eeb0457-1b98-42c2-91df-2868bf67b520'},
+  {t:'⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND',                   p:'89 €',    i:'2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d'},
+  {t:'⚡ CORSAIR RM850x 850W NETZTEIL ⚡ VOLLMODULAR | 80 PLUS GOLD',           p:'89 €',    i:'d2/d22d97d7-f6df-4088-b007-346b9e8c684b'},
+  {t:'⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD',          p:'149 €',   i:'37/37b27fe7-c776-4b23-9533-e77726714584'},
+  {t:'⚡ SAMSUNG 990 EVO PLUS 2TB NVMe SSD ⚡',                                 p:'210 €',   i:'54/54c1f233-7b62-4063-a181-9c389c9a392a'},
+  {t:'ASUS ROG Strix G713P 17” Ryzen 9 RTX 4060 16GB 1TB SSD',                p:'1.049 €', i:'29/2977b914-b915-4ecc-9324-3261516dd69e'},
+  {t:'Nintendo Switch 2 256GB mit 3 Spielen & Zubehör ⭐ TOP Zustand',         p:'429 €',   i:'cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d'},
+  {t:'iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027',           p:'729 €',   i:'44/446b11f1-e651-421c-bcdd-e88313ee83b6'},
+  {t:'⭐️ TOP ANGEBOT ⭐️ iPhone 16 Pro Max 256GB 94% Akku Case & Folie',        p:'759 €',   i:'de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5'},
+  {t:'ACEMAGIC LX15 Pro 15,6" Ryzen 3 16GB 512GB SSD Win11 Laptop',           p:'249 €',   i:'88/882e8d77-ba93-4809-90dc-2b156b4bf12c'},
+  {t:'Nokia 8800 Silber mit OVP ⭐ Top Zustand Sammlerstück Luxus',            p:'480 €',   i:'65/65650c57-6529-4620-8a2b-949c095b4fad'},
+  {t:'iPhone 17 Ankauf Berlin | iPhone 17 Pro & Pro Max verkaufen',           p:'VB',      i:'0b/0be2e037-5818-4faa-a9d0-eda8a628a08b'},
+  {t:'DJ Equipment Ankauf Berlin | Pioneer, Denon, Allen & Heath',            p:'VB',      i:'ca/cac6c010-7859-49da-9814-f1296cfdefb0'},
+  {t:'HiFi Anlage verkaufen | Ankauf Berlin',                                 p:'VB',      i:'93/935682a4-033b-4f68-8161-f38b85bd0108'},
+  {t:'Kamera Ankauf Berlin | Canon Sony Nikon verkaufen',                     p:'VB',      i:'17/17354843-301a-48bd-b4a5-0196c32a4fca'},
+  {t:'DJI Drohnen Ankauf Berlin | Drone verkaufen',                           p:'VB',      i:'26/264cbdd6-4a47-45ae-bd55-7791b1003ac5'},
+  {t:'Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen',                  p:'VB',      i:'24/24b66f5a-b72c-499f-9876-cb827a368dfb'},
+  {t:'iPad Ankauf Berlin | Jetzt iPad verkaufen',                             p:'VB',      i:'0e/0e5ecaaa-65da-4361-b05d-ac0ec9af615b'},
+  {t:'MacBook verkaufen in Berlin | Faire Ankaufspreise',                     p:'VB',      i:'74/7496605a-6729-4371-a055-2df591dccbc5'},
+  {t:'iPhone Ankauf Berlin | Sofort Geld für dein iPhone',                    p:'VB',      i:'90/907ff98c-0e18-44a2-a79a-e87f7f43da8a'},
+  {t:'⭐️ Lenovo IdeaPad 5 Pro 14" i5-1240P 16GB 512GB OVP Laptop ⭐️',          p:'419 €',   i:'9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7'},
+  {t:'⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️',                       p:'179 €',   i:'08/087db6c9-fff2-4319-b726-793561ed3bdd'},
+  {t:'Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top',             p:'159 €',   i:'78/7888a053-87f2-4018-9106-211e80beb070'},
+  {t:'⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB',       p:'999 €',   i:'42/42367083-af46-4d36-aca2-a48acd094aaf'},
+  {t:'⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️',                       p:'279 €',   i:'c7/c7592384-2406-4476-8e26-8700cda5b66d'},
+  {t:'⭐ CANON EOS M5 + 18–150MM OBJEKTIV FULLKIT + 2 AKKUS ⭐',                p:'399 €',   i:'60/60276b36-c35f-4a25-a065-50d908983f39'},
+  {t:'⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️',            p:'399 €',   i:'52/52d7ee00-938c-45a2-a1ac-f223ffeced71'},
+  {t:'⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️',           p:'399 €',   i:'55/5593229d-ce09-4bff-9183-771813106344'},
+  {t:'Empfangstheke mit Beratungsplatz Verkaufstresen',                       p:'479 €',   i:'28/2847d0b8-452f-4269-a870-3315d67a5ba8'},
+  {t:'⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️',                     p:'149 €',   i:'b3/b365a21a-566b-4f3f-998e-e959a9c15359'}
+];
+
+/* ============================================================
+   AUFBEREITUNG
+   ============================================================ */
+const imgUrl = v => v.startsWith('http')
+  ? (v.includes('?') ? v : v + '?rule=' + CONFIG.IMG_RULE)   // volle URL aus ads.json
+  : IMG_BASE + v + '?rule=' + CONFIG.IMG_RULE;               // kurze ID aus der Fallback-Liste
+
+function isAnkauf(a){ return !/\d/.test(a.p) && /ankauf|verkaufen/i.test(a.t); }
+
+// Deko-Emoji entfernen, "TOP ANGEBOT" wandert ins Badge
+function cleanTitle(raw){
+  let s = raw.replace(/[\p{Extended_Pictographic}️⬀-⯿]/gu, ' ');
+  s = s.replace(/\bTOP\s*ANGEBOT\b/gi, ' ').replace(/^\s*TOP\b/i, ' ');
+  s = s.replace(/\s{2,}/g, ' ').trim();
+  s = s.replace(/^[|\-–•·,:]+\s*/, '').replace(/\s*[|\-–•·,:]+$/, '').trim();
+  return s || raw.trim();
+}
+
+function badgeFor(a){
+  const T = a.t.toUpperCase();
+  if (isAnkauf(a))                              return 'Ankauf · Sofort Bargeld';
+  if (/VERSIEGELT|NAGELNEU/.test(T))            return 'Neu & versiegelt';
+  if (/\bNEU\b/.test(T))                        return 'Neuware';
+  if (/\bOVP\b/.test(T) && !/OHNE OVP/.test(T)) return 'Mit Originalverpackung';
+  if (/TOP ANGEBOT/.test(T))                    return 'Top Angebot';
+  if (/TOP ZUSTAND|WIE NEU/.test(T))            return 'Top Zustand';
+  return 'Sofort verfügbar';
+}
+
+// "1.299 €" -> {amount:'1.299', cur:'€'} | "150 € VB" -> + vb | "VB" -> Textmodus
+function parsePrice(a){
+  if (isAnkauf(a)) return {text:'Preis auf Anfrage'};
+  const m = a.p.match(/([\d.]+)\s*€/);
+  if (!m) return {text: a.p && a.p !== 'VB' ? a.p : 'Preis auf Anfrage'};
+  return {amount:m[1], cur:'€', vb:/\bVB\b/i.test(a.p)};
+}
+
+function build(list){
+  const out = list.filter(a => CONFIG.SHOW_ANKAUF || !isAnkauf(a)).map(a => ({
+    title: cleanTitle(a.t),
+    badge: badgeFor(a),
+    price: parsePrice(a),
+    img:   imgUrl(a.i),
+    ankauf: isAnkauf(a)
+  }));
+  if (CONFIG.SHUFFLE) out.sort(() => Math.random() - .5);
+  return out;
+}
+let items = build(ADS);
+
+/* ============================================================
+   LIVE-DATEN — ads.json vom Scraper, mit Rückfall auf die eingebaute Liste
+   ============================================================ */
+async function loadAds(){
+  if (!CONFIG.DATA_URL) return;
+  try {
+    const r = await fetch(CONFIG.DATA_URL + '?t=' + Date.now(), {cache:'no-store'});
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const j = await r.json();
+    const list = Array.isArray(j) ? j : j.ads;
+    // Plausibilitätsprüfung: eine leere oder verstümmelte Datei darf die
+    // laufende Anzeige nicht leeren.
+    if (!Array.isArray(list) || list.length < 3) throw new Error('zu wenige Anzeigen');
+    if (!list.every(a => a && a.t && a.i))        throw new Error('Felder fehlen');
+    const next = build(list);
+    if (!next.length) throw new Error('nach Filter leer');
+    items = next;
+    if (idx >= items.length) idx = items.length - 1;
+  } catch (e) {
+    console.warn('[signage] ads.json nicht nutzbar, Fallback-Liste bleibt aktiv:', e.message);
+  }
+}
+
+/* ============================================================
+   1080x1920-Bühne auf jede Portrait-Auflösung skalieren
+   ============================================================ */
+const stage = document.getElementById('stage');
+function fit(){
+  const s = Math.min(innerWidth / 1080, innerHeight / 1920);
+  const x = (innerWidth  - 1080 * s) / 2;
+  const y = (innerHeight - 1920 * s) / 2;
+  stage.style.transform = 'translate(' + x + 'px,' + y + 'px) scale(' + s + ')';
+}
+addEventListener('resize', fit); fit();
+
+/* ============================================================
+   KARUSSELL — Endlosschleife, Crossfade, Bild-Vorladen
+   ============================================================ */
+const layers = [document.getElementById('lA'), document.getElementById('lB')];
+const elTitle = document.getElementById('title');
+const elBadge = document.getElementById('badge');
+const elPrice = document.getElementById('price');
+const elKick  = document.getElementById('kicker');
+const elCount = document.getElementById('count');
+const elBar   = document.querySelector('#bar i');
+
+document.documentElement.style.setProperty('--slide-ms', CONFIG.SLIDE_MS + 'ms');
+
+let idx = -1, front = 0;
+
+function preload(url){
+  return new Promise(res => {
+    const im = new Image();
+    let done = false;
+    const finish = ok => { if (!done) { done = true; res(ok); } };
+    im.onload = () => finish(true);
+    im.onerror = () => finish(false);
+    im.src = url;
+    setTimeout(() => finish(false), 4000); // nie am Netz hängenbleiben
+  });
+}
+
+function renderPrice(p){
+  if (p.text) { elPrice.innerHTML = '<span class="amount txt"></span>';
+                elPrice.firstChild.textContent = p.text; return; }
+  elPrice.innerHTML =
+    '<span class="amount"></span><span class="cur">€</span>' + (p.vb ? '<span class="vb">VB</span>' : '');
+  elPrice.querySelector('.amount').textContent = p.amount;
+}
+
+async function show(n){
+  const it = items[n];
+  await preload(it.img);
+
+  const back = layers[1 - front];
+  back.querySelector('.blurbg').style.backgroundImage = 'url("' + it.img + '")';
+  back.querySelector('.photo').style.backgroundImage  = 'url("' + it.img + '")';
+
+  // Ken-Burns-Animation für die einblendende Ebene neu starten
+  const ph = back.querySelector('.photo');
+  ph.style.animation = 'none'; void ph.offsetWidth; ph.style.animation = '';
+
+  back.classList.add('on');
+  layers[front].classList.remove('on');
+  front = 1 - front;
+
+  elTitle.textContent = it.title;
+  elBadge.textContent = it.badge;
+  elKick.textContent  = it.ankauf ? 'Wir kaufen an' : 'Aktuelles Angebot';
+  renderPrice(it.price);
+  elCount.textContent = 'Anzeige ' + (n + 1) + ' / ' + items.length;
+
+  // Fortschrittsbalken
+  elBar.style.transition = 'none';  elBar.style.width = '0%';
+  void elBar.offsetWidth;
+  elBar.style.transition = 'width ' + CONFIG.SLIDE_MS + 'ms linear';
+  elBar.style.width = '100%';
+
+  preload(items[(n + 1) % items.length].img); // nächstes Bild vorbereiten
+}
+
+function tick(){
+  idx = (idx + 1) % items.length;   // Modulo = echte Endlosschleife
+  show(idx);
+}
+loadAds().then(() => {
+  tick();
+  setInterval(tick, CONFIG.SLIDE_MS);
+  if (CONFIG.DATA_REFRESH_MIN > 0){
+    setInterval(loadAds, CONFIG.DATA_REFRESH_MIN * 60 * 1000);
+  }
+});
+
+/* ---------- Uhr ---------- */
+const elClock = document.querySelector('#clock b');
+function clock(){
+  elClock.textContent = new Date().toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'});
+}
+clock(); setInterval(clock, 15000);
+
+/* ---------- 24/7-Stabilität: periodischer Reload ---------- */
+if (CONFIG.RELOAD_AFTER_H > 0){
+  setTimeout(() => location.reload(), CONFIG.RELOAD_AFTER_H * 3600 * 1000);
+}
+</script>
+</body>
+</html>
