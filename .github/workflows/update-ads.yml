@@ -1,0 +1,39 @@
+name: Bestandsliste aktualisieren
+
+on:
+  schedule:
+    # GitHub Actions rechnet in UTC. 10:00 UTC = 12:00 Berliner Sommerzeit.
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ads
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Anzeigen abrufen
+        run: python3 scrape_ads.py --out ads.json
+
+      - name: Aenderung committen
+        run: |
+          if git diff --quiet -- ads.json; then
+            echo "Keine Aenderung an ads.json."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ads.json
+          git commit -m "chore: Bestandsliste aktualisiert"
+          git push
