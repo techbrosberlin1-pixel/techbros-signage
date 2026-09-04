@@ -25,12 +25,8 @@
   --glow-b:rgba(80,120,255,.10);
   --schatten:rgba(0,0,0,.62);
   --kante-innen:rgba(255,255,255,.06);
-  --vignette:rgba(0,0,0,.55);
-  --foto-schatten:rgba(0,0,0,.55);
-  --badge-bg:rgba(8,9,12,.72);
   --badge-fg:var(--accent-lite);
   --bar-spur:rgba(255,255,255,.07);
-  --blur-helligkeit:.5;
   --font:'Manrope',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
   --slide-ms:7000ms;
 }
@@ -58,15 +54,9 @@ html.hell{
   --glow-b:rgba(80,120,255,.05);
   --schatten:rgba(0,0,0,.16);
   --kante-innen:rgba(0,0,0,.03);
-  --vignette:rgba(0,0,0,0);
-  --foto-schatten:rgba(0,0,0,.20);
-  --badge-bg:rgba(255,255,255,.88);
   --badge-fg:var(--accent-lite);
   --bar-spur:rgba(0,0,0,.10);
-  --blur-helligkeit:1;
 }
-html.hell .blurbg,
-html.hell .shade{display:none}          /* weiße Fläche statt Foto-Weichzeichner */
 
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{
@@ -108,54 +98,60 @@ img{-webkit-user-drag:none}
 #clock span{display:block;font-size:21px;color:var(--fg-dim);letter-spacing:2.6px;text-transform:uppercase;margin-top:8px}
 
 /* ---------- Medienfläche ---------- */
+/* Die Zelle füllt die Rasterzeile, die Box sitzt darin zentriert. Ihre Größe
+   setzt das Skript auf das Seitenverhältnis des jeweiligen Bildes - dadurch
+   füllt das Bild die Box randlos aus und es bleibt ein einziger Rahmen,
+   ohne dass etwas abgeschnitten wird. */
+#mediaZelle{display:flex;align-items:center;justify-content:center;min-height:0;min-width:0}
 #media{
-  position:relative;border-radius:38px;overflow:hidden;min-height:0;
+  position:relative;border-radius:38px;overflow:hidden;
+  max-width:100%;max-height:100%;
   background:var(--panel);
   border:1px solid var(--line);
   box-shadow:0 40px 90px var(--schatten), inset 0 1px 0 var(--kante-innen);
+  transition:width .45s ease, height .45s ease;
 }
 .layer{position:absolute;inset:0;opacity:0;transition:opacity var(--fade,1100ms) ease}
 .layer.on{opacity:1}
-.blurbg{
-  position:absolute;inset:-8%;
-  background-size:cover;background-position:center;
-  filter:blur(46px) saturate(135%) brightness(var(--blur-helligkeit));
-  transform:scale(1.14);
-}
-.shade{position:absolute;inset:0;background:radial-gradient(75% 68% at 50% 42%,transparent 0%,var(--vignette) 100%)}
+/* Der frühere Weichzeichner hinter dem Bild ist entfallen: er füllte nur den
+   Leerraum, den es ohne randloses Bild gab. Auf einem TV-Browser kostete der
+   46-Pixel-Blur außerdem spürbar Rechenleistung. */
 .photo{
-  position:absolute;inset:44px;
-  background-size:contain;background-position:center;background-repeat:no-repeat;
-  filter:drop-shadow(0 26px 46px var(--foto-schatten));
+  position:absolute;inset:0;
+  background-size:cover;background-position:center;background-repeat:no-repeat;
   will-change:transform;
 }
-.layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linear both}
+html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linear both}
 @keyframes kenburns{from{transform:scale(1) translateY(0)}to{transform:scale(1.075) translateY(-14px)}}
 
-#badges{position:absolute;top:34px;left:34px;z-index:3;display:flex;flex-direction:column;align-items:flex-start}
+/* Die Badges lagen früher auf dem Bild. Seit es die Box randlos füllt,
+   verdeckten sie dort die Überschrift der Plakate - deshalb stehen sie jetzt
+   in der Zeile über dem Titel. Umbruch erlaubt: "Mit Originalverpackung" und
+   "Ankauf · Sofort Bargeld" sind lang genug, um die Zeile zu sprengen. */
+#kickerZeile{display:flex;align-items:center;flex-wrap:wrap;margin-bottom:20px}
+#badges{display:flex;align-items:center;flex-wrap:wrap}
 #badgeNeu{
-  display:none;align-items:center;margin-bottom:14px;
-  padding:16px 28px;border-radius:999px;
+  display:none;align-items:center;margin:0 14px 10px 0;
+  padding:11px 22px;border-radius:999px;
   background:var(--accent);color:#fff;
-  font-size:25px;font-weight:800;letter-spacing:2.8px;text-transform:uppercase;
-  box-shadow:0 10px 30px rgba(226,38,46,.45);
+  font-size:21px;font-weight:800;letter-spacing:2.2px;text-transform:uppercase;
+  box-shadow:0 8px 22px rgba(226,38,46,.38);
 }
 #badgeNeu.on{display:inline-flex}
 #badge{
-  display:inline-flex;align-items:center;
-  padding:16px 28px;border-radius:999px;
-  background:var(--badge-bg);backdrop-filter:blur(14px);
+  display:inline-flex;align-items:center;margin:0 0 10px 0;
+  padding:11px 22px;border-radius:999px;
   border:1px solid rgba(226,38,46,.70);
-  color:var(--badge-fg);font-size:25px;font-weight:800;
-  letter-spacing:2.8px;text-transform:uppercase;
+  color:var(--badge-fg);font-size:21px;font-weight:800;
+  letter-spacing:2.2px;text-transform:uppercase;
 }
-#badge::before{content:"";width:12px;height:12px;flex:0 0 12px;margin-right:12px;border-radius:50%;background:var(--badge-fg);box-shadow:0 0 14px var(--accent)}
+#badge::before{content:"";width:10px;height:10px;flex:0 0 10px;margin-right:11px;border-radius:50%;background:var(--badge-fg)}
 
 /* ---------- Textblock ---------- */
 /* Abstaende bewusst als margin, nicht als flex-gap: aeltere TV-Browser
    (Chromium < 84) ignorieren gap in Flex-Containern stillschweigend. */
 #info{display:flex;flex-direction:column;justify-content:flex-start;min-height:0;min-width:0}
-#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim);margin-bottom:30px}
+#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim);margin:0 22px 10px 0}
 #title{
   font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1.2px;
   display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
@@ -274,17 +270,19 @@ img{-webkit-user-drag:none}
     <div id="clock"><b>--:--</b><span>12099 Tempelhof</span></div>
   </header>
 
-  <section id="media">
-    <div id="badges">
-      <div id="badgeNeu">Neu eingetroffen</div>
-      <div id="badge">Sofort verfügbar</div>
-    </div>
-    <div class="layer" id="lA"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
-    <div class="layer" id="lB"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
-  </section>
+  <section id="mediaZelle"><div id="media">
+    <div class="layer" id="lA"><div class="photo"></div></div>
+    <div class="layer" id="lB"><div class="photo"></div></div>
+  </div></section>
 
   <section id="info">
-    <div id="kicker">Aktuelles Angebot</div>
+    <div id="kickerZeile">
+      <div id="kicker">Aktuelles Angebot</div>
+      <div id="badges">
+        <div id="badgeNeu">Neu eingetroffen</div>
+        <div id="badge">Sofort verfügbar</div>
+      </div>
+    </div>
     <h1 id="title">Lade Angebote…</h1>
     <div id="priceRow">
       <div id="price">
@@ -312,7 +310,7 @@ img{-webkit-user-drag:none}
 /* ============================================================
    KONFIGURATION
    ============================================================ */
-const BUILD = '2026-09-04-1';   // erscheint in der Diagnose (?debug=1)
+const BUILD = '2026-09-04-3';   // erscheint in der Diagnose (?debug=1)
 
 const CONFIG = {
   // Drehung fuer Player ohne eigene Bildrotation (Hisense/VIDAA, viele Smart-TVs):
@@ -350,6 +348,16 @@ const CONFIG = {
   DUNKEL_AB: 19,         // ab dieser Stunde wieder dunkel
   NEU_TAGE: 3,           // bis zu N Tage alte Anzeigen bekommen "Neu eingetroffen"
   MAX_BILDER: 3,         // Bilder je Anzeige, die innerhalb eines Slides wechseln
+
+  // Wie das Bild die Box füllt:
+  //   'anpassen' = die Box übernimmt das Seitenverhältnis des Bildes. Das Bild
+  //                füllt randlos, es bleibt ein einziger Rahmen und nichts wird
+  //                abgeschnitten. Die Bilder sind unterschiedlich proportioniert
+  //                (rund die Hälfte hoch, ein Drittel quer), deshalb ändert die
+  //                Box beim Wechsel weich ihre Größe.
+  //   'fuellen'  = die Box bleibt immer maximal, das Bild wird beschnitten.
+  //                Ruhiger im Ablauf, kostet je nach Bild 20-30 % des Motivs.
+  BILD_MODUS: 'anpassen',
   SHUFFLE: false,        // true = Reihenfolge bei jedem Start mischen
   RELOAD_AFTER_H: 12     // Seite alle N Stunden neu laden (Speicher/Stabilität 24/7)
 };
@@ -660,6 +668,8 @@ fit();
    KARUSSELL — Endlosschleife, Crossfade, Bild-Vorladen
    ============================================================ */
 const layers = [document.getElementById('lA'), document.getElementById('lB')];
+const elZelle = document.getElementById('mediaZelle');
+const elMedia = document.getElementById('media');
 const elBadgeNeu = document.getElementById('badgeNeu');
 const elAlt   = document.getElementById('priceAlt');
 const elCtaTxt= document.getElementById('ctaTxt');
@@ -709,12 +719,17 @@ function laufband(){
 // sind bei Kleinanzeigen verwaist; ein toter Link darf keine leere Fläche
 // hinterlassen. Der Scraper siebt sie bereits aus, das hier fängt die Fälle
 // ab, die zwischen zwei Läufen verschwinden.
+const bildVerhaeltnis = {};   // URL -> Breite/Höhe, beim Vorladen gefüllt
+
 function preload(url){
   return new Promise(res => {
     const im = new Image();
     let done = false;
     const finish = v => { if (!done) { done = true; res(v); } };
-    im.onload  = () => finish(url);
+    im.onload  = () => {
+      if (im.naturalHeight) bildVerhaeltnis[url] = im.naturalWidth / im.naturalHeight;
+      finish(url);
+    };
     im.onerror = () => finish(null);
     im.src = url;
     setTimeout(() => finish(null), 6000); // nie am Netz hängenbleiben
@@ -739,9 +754,29 @@ function renderPrice(p){
   z.querySelector('.amount').textContent = p.amount;
 }
 
+// Box auf das Seitenverhältnis des Bildes bringen. Die Rasterzeile behält
+// ihre Höhe, nur die Box darin wird kleiner und bleibt zentriert - das Layout
+// darunter verrutscht dadurch nicht.
+function boxAnpassen(url){
+  document.documentElement.classList.toggle('fuellen', CONFIG.BILD_MODUS === 'fuellen');
+  const v = bildVerhaeltnis[url];
+  if (CONFIG.BILD_MODUS !== 'anpassen' || !v){
+    elMedia.style.width = ''; elMedia.style.height = '';
+    return;
+  }
+  // clientWidth/clientHeight statt getBoundingClientRect: letzteres liefert
+  // Maße im Bildschirm-Koordinatensystem und vertauscht daher Breite und Höhe,
+  // sobald die Bühne für ein hochkant montiertes Display um 90 Grad gedreht
+  // ist. Die Box wäre dann nach den falschen Grenzen berechnet worden.
+  const pB = elZelle.clientWidth, pH = elZelle.clientHeight;
+  const b = Math.min(pB, pH * v);
+  elMedia.style.width  = Math.round(b) + 'px';
+  elMedia.style.height = Math.round(b / v) + 'px';
+}
+
 function zeigeBild(url, dauer){
+  boxAnpassen(url);
   const back = layers[1 - front];
-  back.querySelector('.blurbg').style.backgroundImage = 'url("' + url + '")';
   const ph = back.querySelector('.photo');
   ph.style.backgroundImage = 'url("' + url + '")';
 
