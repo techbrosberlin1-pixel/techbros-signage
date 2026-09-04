@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=1080, height=1920, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TechBros – Digitales Schaufenster (Portrait 1080×1920)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,7 +43,7 @@ img{-webkit-user-drag:none}
     radial-gradient(1000px 800px at 10% 108%, rgba(80,120,255,.10), transparent 60%),
     linear-gradient(178deg,var(--bg) 0%,var(--bg2) 55%,var(--bg) 100%);
   display:grid;
-  grid-template-rows:170px 968px 1fr 132px;
+  grid-template-rows:170px 1fr auto 176px;
   padding:44px 56px 40px;
   gap:26px;
 }
@@ -63,12 +63,12 @@ img{-webkit-user-drag:none}
 
 /* ---------- Medienfläche ---------- */
 #media{
-  position:relative;border-radius:38px;overflow:hidden;
+  position:relative;border-radius:38px;overflow:hidden;min-height:0;
   background:var(--panel);
   border:1px solid var(--line);
   box-shadow:0 40px 90px rgba(0,0,0,.62), inset 0 1px 0 rgba(255,255,255,.06);
 }
-.layer{position:absolute;inset:0;opacity:0;transition:opacity 1100ms ease}
+.layer{position:absolute;inset:0;opacity:0;transition:opacity var(--fade,1100ms) ease}
 .layer.on{opacity:1}
 .blurbg{
   position:absolute;inset:-8%;
@@ -83,11 +83,19 @@ img{-webkit-user-drag:none}
   filter:drop-shadow(0 26px 46px rgba(0,0,0,.55));
   will-change:transform;
 }
-.layer.on .photo{animation:kenburns var(--slide-ms) linear both}
+.layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linear both}
 @keyframes kenburns{from{transform:scale(1) translateY(0)}to{transform:scale(1.075) translateY(-14px)}}
 
+#badges{position:absolute;top:34px;left:34px;z-index:3;display:flex;flex-direction:column;align-items:flex-start}
+#badgeNeu{
+  display:none;align-items:center;margin-bottom:14px;
+  padding:16px 28px;border-radius:999px;
+  background:var(--accent);color:#fff;
+  font-size:25px;font-weight:800;letter-spacing:2.8px;text-transform:uppercase;
+  box-shadow:0 10px 30px rgba(226,38,46,.45);
+}
+#badgeNeu.on{display:inline-flex}
 #badge{
-  position:absolute;top:34px;left:34px;z-index:3;
   display:inline-flex;align-items:center;
   padding:16px 28px;border-radius:999px;
   background:rgba(8,9,12,.72);backdrop-filter:blur(14px);
@@ -106,10 +114,16 @@ img{-webkit-user-drag:none}
   font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1.2px;
   display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
 }
-#priceRow{display:flex;align-items:flex-end;justify-content:space-between;margin-top:auto}
+#priceRow{display:flex;align-items:flex-end;justify-content:space-between;margin-top:28px}
+#priceAlt{
+  display:none;font-size:34px;font-weight:700;color:rgba(255,255,255,.78);
+  text-decoration:line-through;text-decoration-thickness:3px;margin-bottom:4px;
+}
+#priceAlt.on{display:block}
+#priceZeile{display:flex;align-items:baseline}
 #price{
-  display:inline-flex;align-items:baseline;
-  padding:22px 46px 26px;border-radius:30px;
+  display:inline-flex;flex-direction:column;align-items:flex-start;
+  padding:20px 46px 26px;border-radius:30px;
   background:linear-gradient(160deg,var(--accent),var(--accent-2));
   color:var(--accent-ink);
   box-shadow:0 26px 60px rgba(226,38,46,.34);
@@ -123,16 +137,38 @@ img{-webkit-user-drag:none}
 #cta span{display:block;font-size:20px;color:var(--fg-dim);letter-spacing:2.2px;text-transform:uppercase;margin-top:8px}
 
 /* ---------- Fußzeile ---------- */
-#foot{
-  display:flex;align-items:center;justify-content:space-between;
-  border-top:1px solid var(--line);padding-top:26px;
-}
-#foot .l b{display:block;font-size:27px;font-weight:800}
-#foot .l span{display:block;font-size:22px;color:var(--fg-dim);margin-top:6px}
-#count{font-size:24px;color:var(--fg-dim);letter-spacing:3px;text-transform:uppercase;font-variant-numeric:tabular-nums}
 /* Platz für optionalen QR-Code: <img id="qr" src="..."> hier einsetzen
 #qr{width:104px;height:104px;border-radius:14px;background:#fff;padding:8px} */
 
+#dbg{
+  position:fixed;top:0;left:0;z-index:9999;display:none;
+  background:#000;color:#0f0;font:16px/1.5 monospace;padding:14px 18px;
+  border:2px solid #0f0;white-space:pre;
+}
+#dbg.on{display:block}
+/* Laufband: zwei identische Haelften, die Animation schiebt um genau 50 % -
+   dadurch laeuft der Text ohne sichtbaren Sprung endlos weiter. */
+/* Laufband, zwei Zeilen: oben die feste Aussage, darunter die Warengruppen
+   im Durchlauf. Zwei identische Haelften, die Animation schiebt um genau
+   50 % - dadurch laeuft der Text ohne sichtbaren Sprung endlos weiter. */
+#ticker{
+  display:flex;flex-direction:column;justify-content:center;
+  border-top:1px solid var(--line);padding-top:22px;overflow:hidden;
+}
+#tickerKopf{
+  white-space:nowrap;line-height:1.1;margin-bottom:16px;
+}
+#tickerKopf span{
+  display:inline-block;
+  font-size:44px;font-weight:800;letter-spacing:1.4px;
+  text-transform:uppercase;color:var(--accent-lite);
+}
+#tickerLauf{overflow:hidden}
+#tickerTrack{display:flex;white-space:nowrap;will-change:transform;
+  animation:tick var(--tick,60s) linear infinite}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tk{display:inline-block;font-size:38px;font-weight:800;letter-spacing:.4px;color:var(--fg)}
+.tk i{color:var(--accent);font-style:normal;padding:0 26px}
 #bar{position:absolute;left:0;bottom:0;height:7px;width:100%;background:rgba(255,255,255,.07)}
 #bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),#ff8f93);box-shadow:0 0 18px rgba(226,38,46,.75)}
 </style>
@@ -181,7 +217,10 @@ img{-webkit-user-drag:none}
   </header>
 
   <section id="media">
-    <div id="badge">Sofort verfügbar</div>
+    <div id="badges">
+      <div id="badgeNeu">Neu eingetroffen</div>
+      <div id="badge">Sofort verfügbar</div>
+    </div>
     <div class="layer" id="lA"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
     <div class="layer" id="lB"><div class="blurbg"></div><div class="shade"></div><div class="photo"></div></div>
   </section>
@@ -190,7 +229,10 @@ img{-webkit-user-drag:none}
     <div id="kicker">Aktuelles Angebot</div>
     <h1 id="title">Lade Angebote…</h1>
     <div id="priceRow">
-      <div id="price"><span class="amount txt">–</span></div>
+      <div id="price">
+        <div id="priceAlt"></div>
+        <div id="priceZeile"><span class="amount txt">–</span></div>
+      </div>
       <div id="cta">
         <b>Fragen? Einfach reinkommen.</b>
         <span>Alle Anzeigen auf Kleinanzeigen</span>
@@ -198,21 +240,21 @@ img{-webkit-user-drag:none}
     </div>
   </section>
 
-  <footer id="foot">
-    <div class="l">
-      <b>TechBros An- und Verkauf</b>
-      <span>Gewerblicher Händler · 12099 Berlin-Tempelhof</span>
-    </div>
-    <div id="count">– / –</div>
-  </footer>
+  <section id="ticker">
+    <div id="tickerKopf"><span></span></div>
+    <div id="tickerLauf"><div id="tickerTrack"></div></div>
+  </section>
 
   <div id="bar"><i></i></div>
 </div></div>
+<div id="dbg"></div>
 
 <script>
 /* ============================================================
    KONFIGURATION
    ============================================================ */
+const BUILD = '2026-09-03-4';   // erscheint in der Diagnose (?debug=1)
+
 const CONFIG = {
   // Drehung fuer Player ohne eigene Bildrotation (Hisense/VIDAA, viele Smart-TVs):
   //   'off'  = keine Drehung (Player liefert bereits Hochformat)
@@ -224,8 +266,24 @@ const CONFIG = {
   DATA_URL: 'ads.json',  // vom Scraper erzeugte Live-Daten. '' = nur eingebaute Liste
   DATA_REFRESH_MIN: 30,  // ads.json alle N Minuten neu laden (0 = nie)
   SLIDE_MS: 7000,        // Anzeigedauer pro Produkt (6000–8000 empfohlen)
-  IMG_RULE: '$_57.AUTO', // Bildgröße: $_57.AUTO = 1448px, $_59.AUTO = 960px, $_2.AUTO = 200px
-  SHOW_ANKAUF: true,     // Ankauf-/Service-Anzeigen (Preis "VB") mitlaufen lassen
+  // Gilt nur für die eingebaute Fallback-Liste. Aus ads.json kommen die
+  // Bild-URLs samt eigener rule und werden unverändert übernommen: nicht
+  // jedes Bild existiert in jeder Größe, $_59 ist die verlässliche Stufe.
+  IMG_RULE: '$_59.AUTO',
+  // Ankauf-Anzeigen: 'laufband' nimmt sie aus dem Karussell und zeigt die
+  // Themen stattdessen dauerhaft im Laufband unten. In der Bestandsliste
+  // stehen sie als Block hintereinander - im Karussell liefen dadurch bis zu
+  // neun am Stueck, also ueber eine Minute ohne ein einziges Geraet.
+  // 'gemischt'  = Themen im Laufband UND die Anzeigen gleichmäßig verteilt
+  //               im Karussell. Gleichmäßig, nicht wirklich zufällig: in der
+  //               Bestandsliste stehen sie als Block hintereinander, rein
+  //               zufälliges Einstreuen würde solche Häufungen wieder erzeugen.
+  // 'nur-laufband' = nur unten im Laufband
+  // 'aus'          = gar nicht
+  ANKAUF: 'gemischt',
+  LAUFBAND_KOPF: 'Wir kaufen an und zahlen sofort Bargeld',
+  NEU_TAGE: 3,           // bis zu N Tage alte Anzeigen bekommen "Neu eingetroffen"
+  MAX_BILDER: 3,         // Bilder je Anzeige, die innerhalb eines Slides wechseln
   SHUFFLE: false,        // true = Reihenfolge bei jedem Start mischen
   RELOAD_AFTER_H: 12     // Seite alle N Stunden neu laden (Speicher/Stabilität 24/7)
 };
@@ -319,6 +377,41 @@ function cleanTitle(raw){
   return s || raw.trim();
 }
 
+// Anzeigenalter in Tagen aus dem vom Scraper gesetzten ISO-Datum.
+// Die Fallback-Liste kennt kein ts - dort gibt es dann kein Neu-Badge.
+function alterTage(a){
+  if (!a.ts) return null;
+  const t = Date.parse(a.ts + 'T00:00:00');
+  if (isNaN(t)) return null;
+  return Math.floor((Date.now() - t) / 86400000);
+}
+
+function istNeu(a){
+  const d = alterTage(a);
+  return d !== null && d <= CONFIG.NEU_TAGE;
+}
+
+// Aus "Kamera Ankauf Berlin | Canon Sony Nikon verkaufen" wird "Kamera":
+// alles vor dem ersten Ankauf-/Verkaufs-Wort ist das Thema.
+function thema(titel){
+  let s = cleanTitle(titel).split(/\b(?:ankaufspreise|ankauf|verkaufen|verkauf)\b/i)[0];
+  return s.replace(/\s{2,}/g, ' ').replace(/[|\-–•·,:]+\s*$/, '').trim();
+}
+
+function themenListe(ankaufAnzeigen){
+  const roh = ankaufAnzeigen.map(a => thema(a.t)).filter(Boolean);
+  const out = [];
+  roh.forEach(t => {
+    if (out.some(v => v.toLowerCase() === t.toLowerCase())) return;
+    // "iPhone 17" faellt weg, wenn "iPhone" schon in der Liste steht.
+    if (out.some(v => t.toLowerCase().startsWith(v.toLowerCase() + ' '))) return;
+    out.push(t);
+  });
+  // Umgekehrter Fall: spaeter kam das kuerzere Thema dazu.
+  return out.filter((t, i) =>
+    !out.some((v, j) => j !== i && t.toLowerCase().startsWith(v.toLowerCase() + ' ')));
+}
+
 function badgeFor(a){
   const T = a.t.toUpperCase();
   if (isAnkauf(a))                              return 'Ankauf · Sofort Bargeld';
@@ -338,17 +431,68 @@ function parsePrice(a){
   return {amount:m[1], cur:'€', vb:/\bVB\b/i.test(a.p)};
 }
 
+// Bilder einer Anzeige: der Scraper liefert imgs, die Fallback-Liste nur das
+// Aufmacherbild.
+function bilderVon(a){
+  const roh = (a.imgs && a.imgs.length) ? a.imgs : [a.i];
+  return roh.slice(0, Math.max(1, CONFIG.MAX_BILDER)).map(imgUrl);
+}
+
+let ankaufThemen = [];
+
+// Ankauf-Anzeigen gleichmäßig zwischen die Produkte legen. Die Positionen
+// werden über die ganze Liste verteilt berechnet, damit zwischen zwei
+// Ankauf-Anzeigen immer mehrere Produkte liegen; die Reihenfolge der
+// Ankauf-Anzeigen selbst ist gemischt, sodass der Durchlauf nicht jeden Tag
+// gleich aussieht.
+function verteile(produkte, ankauf){
+  if (!ankauf.length) return produkte;
+  if (!produkte.length) return ankauf;
+
+  const misch = ankauf.slice().sort(() => Math.random() - .5);
+  const stellen = new Set();
+  for (let j = 1; j <= misch.length; j++){
+    stellen.add(Math.round(j * produkte.length / (misch.length + 1)));
+  }
+
+  const out = [];
+  let k = 0;
+  produkte.forEach((p, i) => {
+    out.push(p);
+    if (k < misch.length && stellen.has(i + 1)) out.push(misch[k++]);
+  });
+  while (k < misch.length) out.push(misch[k++]);   // falls Stellen zusammenfielen
+  return out;
+}
+
 function build(list){
-  const out = list.filter(a => CONFIG.SHOW_ANKAUF || !isAnkauf(a)).map(a => ({
+  const produkte = [], ankauf = [];
+  list.forEach(a => (isAnkauf(a) ? ankauf : produkte).push(a));
+  ankaufThemen = themenListe(ankauf);
+
+  const quelle = CONFIG.ANKAUF === 'gemischt' ? verteile(produkte, ankauf) : produkte;
+  const out = quelle.map(a => ({
     title: cleanTitle(a.t),
     badge: badgeFor(a),
+    neu:   istNeu(a),
     price: parsePrice(a),
-    img:   imgUrl(a.i),
+    alt:   a.p_alt || '',
+    imgs:  bilderVon(a),
     ankauf: isAnkauf(a)
   }));
   if (CONFIG.SHUFFLE) out.sort(() => Math.random() - .5);
-  return out;
+  return out.length ? out : build2(list);
 }
+
+// Notnagel: filtert die Anzeigenart alles weg, laufen lieber alle Anzeigen
+// als ein leeres Schaufenster.
+function build2(list){
+  return list.map(a => ({
+    title: cleanTitle(a.t), badge: badgeFor(a), neu: istNeu(a),
+    price: parsePrice(a), alt: a.p_alt || '', imgs: bilderVon(a), ankauf: isAnkauf(a)
+  }));
+}
+
 let items = build(ADS);
 
 /* ============================================================
@@ -369,6 +513,7 @@ async function loadAds(){
     if (!next.length) throw new Error('nach Filter leer');
     items = next;
     if (idx >= items.length) idx = items.length - 1;
+    laufband();
   } catch (e) {
     console.warn('[signage] ads.json nicht nutzbar, Fallback-Liste bleibt aktiv:', e.message);
   }
@@ -404,67 +549,177 @@ function fit(){
       : 'translate(' + ox + 'px,' + (oy + 1080 * s) + 'px) rotate(-90deg) scale(' + s + ')';
   }
   stage.style.transform = t;
+
+  const dbg = document.getElementById('dbg');
+  if (dbg.classList.contains('on')){
+    const fs = !!(document.fullscreenElement || document.webkitFullscreenElement);
+    dbg.textContent =
+      'BUILD    ' + BUILD + '\n' +
+      'Fenster  ' + innerWidth + ' x ' + innerHeight + '\n' +
+      'Schirm   ' + screen.width + ' x ' + screen.height + '\n' +
+      'Pixel    ' + devicePixelRatio + '\n' +
+      'Drehung  ' + rot + ' Grad\n' +
+      'Vollbild ' + (fs ? 'ja' : 'nein') + '\n' +
+      'Transform\n  ' + t;
+  }
 }
 addEventListener('resize', fit);
 addEventListener('orientationchange', fit);
+
+// Diagnose mit ?debug=1 an die Adresse anhaengen.
+if (location.search.indexOf('debug') > -1){
+  document.getElementById('dbg').classList.add('on');
+}
+
+// TV-Browser starten nie im Vollbild. Die Fullscreen-API darf nur aus einer
+// Nutzeraktion heraus ausgeloest werden - ein Druck auf OK oder ein Klick
+// genuegt, danach bleibt es bis zum Verlassen der Seite bestehen.
+function goFullscreen(){
+  const el = document.documentElement;
+  const fn = el.requestFullscreen || el.webkitRequestFullscreen
+          || el.mozRequestFullScreen || el.msRequestFullscreen;
+  const aktiv = document.fullscreenElement || document.webkitFullscreenElement;
+  if (fn && !aktiv){ try { fn.call(el); } catch (e) {} }
+}
+addEventListener('click', goFullscreen);
+addEventListener('keydown', goFullscreen);
+addEventListener('fullscreenchange', fit);
+addEventListener('webkitfullscreenchange', fit);
+
 fit();
 
 /* ============================================================
    KARUSSELL — Endlosschleife, Crossfade, Bild-Vorladen
    ============================================================ */
 const layers = [document.getElementById('lA'), document.getElementById('lB')];
+const elBadgeNeu = document.getElementById('badgeNeu');
+const elAlt   = document.getElementById('priceAlt');
+const elTrack = document.getElementById('tickerTrack');
 const elTitle = document.getElementById('title');
 const elBadge = document.getElementById('badge');
 const elPrice = document.getElementById('price');
 const elKick  = document.getElementById('kicker');
-const elCount = document.getElementById('count');
+const elCount = document.getElementById('count');   // entfällt seit die Fußzeile weg ist
 const elBar   = document.querySelector('#bar i');
 
 document.documentElement.style.setProperty('--slide-ms', CONFIG.SLIDE_MS + 'ms');
 
-let idx = -1, front = 0;
+let idx = -1, front = 0, bildTimer = null;
 
+// Laufband aus den Themen der Ankauf-Anzeigen. Zwei identische Haelften,
+// damit die 50-%-Verschiebung nahtlos umschlaegt; die Dauer richtet sich nach
+// der Textbreite, sonst laeuft kurzer Text zu schnell und langer zu langsam.
+// Der Kopftext soll in CONFIG frei änderbar sein. Statt einer fest
+// gewählten Schriftgröße, die beim nächsten Wortwechsel umbricht, wird sie so
+// weit verkleinert, bis die Zeile in die Breite passt.
+function laufbandKopf(){
+  const box = document.getElementById('tickerKopf');
+  const sp  = box.firstElementChild;
+  sp.textContent = CONFIG.LAUFBAND_KOPF;
+  for (let px = 44; px >= 24; px -= 2){
+    sp.style.fontSize = px + 'px';
+    if (sp.offsetWidth <= box.clientWidth) break;
+  }
+}
+
+function laufband(){
+  laufbandKopf();
+  if (!ankaufThemen.length){ elTrack.innerHTML = ''; return; }
+  const haelfte = '<span class="tk">'
+                + ankaufThemen.map(t => t + '<i>•</i>').join('')
+                + '</span>';
+  elTrack.innerHTML = haelfte + haelfte;
+  requestAnimationFrame(() => {
+    const breite = elTrack.scrollWidth / 2;            // eine Hälfte
+    const sek = Math.max(20, Math.round(breite / 90)); // rund 90 px je Sekunde
+    elTrack.style.setProperty('--tick', sek + 's');
+  });
+}
+
+// Liefert die URL zurück, wenn das Bild lädt, sonst null. Einzelne Bilder
+// sind bei Kleinanzeigen verwaist; ein toter Link darf keine leere Fläche
+// hinterlassen. Der Scraper siebt sie bereits aus, das hier fängt die Fälle
+// ab, die zwischen zwei Läufen verschwinden.
 function preload(url){
   return new Promise(res => {
     const im = new Image();
     let done = false;
-    const finish = ok => { if (!done) { done = true; res(ok); } };
-    im.onload = () => finish(true);
-    im.onerror = () => finish(false);
+    const finish = v => { if (!done) { done = true; res(v); } };
+    im.onload  = () => finish(url);
+    im.onerror = () => finish(null);
     im.src = url;
-    setTimeout(() => finish(false), 4000); // nie am Netz hängenbleiben
+    setTimeout(() => finish(null), 6000); // nie am Netz hängenbleiben
   });
 }
 
-function renderPrice(p){
-  if (p.text) { elPrice.innerHTML = '<span class="amount txt"></span>';
-                elPrice.firstChild.textContent = p.text; return; }
-  elPrice.innerHTML =
-    '<span class="amount"></span><span class="cur">€</span>' + (p.vb ? '<span class="vb">VB</span>' : '');
-  elPrice.querySelector('.amount').textContent = p.amount;
+// Erstes ladbares Bild einer Anzeige.
+async function ersteBild(liste){
+  for (let k = 0; k < liste.length; k++){
+    const u = await preload(liste[k]);
+    if (u) return u;
+  }
+  return null;
 }
 
-async function show(n){
-  const it = items[n];
-  await preload(it.img);
+function renderPrice(p){
+  const z = document.getElementById('priceZeile');
+  if (p.text) { z.innerHTML = '<span class="amount txt"></span>';
+                z.firstChild.textContent = p.text; return; }
+  z.innerHTML =
+    '<span class="amount"></span><span class="cur">€</span>' + (p.vb ? '<span class="vb">VB</span>' : '');
+  z.querySelector('.amount').textContent = p.amount;
+}
 
+function zeigeBild(url, dauer){
   const back = layers[1 - front];
-  back.querySelector('.blurbg').style.backgroundImage = 'url("' + it.img + '")';
-  back.querySelector('.photo').style.backgroundImage  = 'url("' + it.img + '")';
+  back.querySelector('.blurbg').style.backgroundImage = 'url("' + url + '")';
+  const ph = back.querySelector('.photo');
+  ph.style.backgroundImage = 'url("' + url + '")';
 
   // Ken-Burns-Animation für die einblendende Ebene neu starten
-  const ph = back.querySelector('.photo');
   ph.style.animation = 'none'; void ph.offsetWidth; ph.style.animation = '';
+  ph.style.setProperty('--kb', dauer + 'ms');
 
   back.classList.add('on');
   layers[front].classList.remove('on');
   front = 1 - front;
+}
+
+async function show(n){
+  const it = items[n];
+  clearInterval(bildTimer);
+
+  // Mehrere Bilder teilen sich die Standzeit des Slides. Die Überblendung
+  // muss dann kürzer sein, sonst blendet es noch, während schon gewechselt wird.
+  const dauer = Math.round(CONFIG.SLIDE_MS / it.imgs.length);
+  document.documentElement.style.setProperty(
+    '--fade', Math.min(1100, Math.round(dauer * 0.35)) + 'ms');
+
+  const erste = await ersteBild(it.imgs);
+  // Lädt kein einziges Bild, bleibt das vorherige stehen statt einer
+  // schwarzen Fläche - Text und Preis wechseln trotzdem.
+  if (erste) zeigeBild(erste, dauer);
+
+  if (it.imgs.length > 1){
+    const rest = await Promise.all(it.imgs.filter(u => u !== erste).map(preload));
+    const liste = (erste ? [erste] : []).concat(rest.filter(Boolean));
+    if (liste.length > 1){
+      let b = 0;
+      bildTimer = setInterval(function(){
+        b = (b + 1) % liste.length;
+        zeigeBild(liste[b], dauer);
+      }, dauer);
+    }
+  }
 
   elTitle.textContent = it.title;
   elBadge.textContent = it.badge;
+  elBadgeNeu.classList.toggle('on', !!it.neu);
   elKick.textContent  = it.ankauf ? 'Wir kaufen an' : 'Aktuelles Angebot';
   renderPrice(it.price);
-  elCount.textContent = 'Anzeige ' + (n + 1) + ' / ' + items.length;
+  elAlt.textContent = it.alt ? 'statt ' + it.alt : '';
+  elAlt.classList.toggle('on', !!it.alt);
+  if (elCount) elCount.textContent = 'Anzeige ' + (n + 1) + ' / ' + items.length;
 
   // Fortschrittsbalken
   elBar.style.transition = 'none';  elBar.style.width = '0%';
@@ -472,7 +727,7 @@ async function show(n){
   elBar.style.transition = 'width ' + CONFIG.SLIDE_MS + 'ms linear';
   elBar.style.width = '100%';
 
-  preload(items[(n + 1) % items.length].img); // nächstes Bild vorbereiten
+  preload(items[(n + 1) % items.length].imgs[0]); // nächste Anzeige vorbereiten
 }
 
 function tick(){
@@ -480,6 +735,7 @@ function tick(){
   show(idx);
 }
 loadAds().then(() => {
+  laufband();
   tick();
   setInterval(tick, CONFIG.SLIDE_MS);
   if (CONFIG.DATA_REFRESH_MIN > 0){
