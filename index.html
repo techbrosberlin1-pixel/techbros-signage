@@ -20,12 +20,57 @@
   --accent-lite:#ff5a60;     /* aufgehellt: Rot-Text auf dunklem Grund */
   --logo-ink:#ffffff;        /* Monogramm + Claim (im Original schwarz) */
   --accent-ink:#ffffff;      /* Schrift auf dem Preisschild */
+  --void:#000000;            /* Fläche neben der Bühne bei abweichendem Seitenverhältnis */
+  --glow-a:rgba(232,44,49,.15);
+  --glow-b:rgba(80,120,255,.10);
+  --schatten:rgba(0,0,0,.62);
+  --kante-innen:rgba(255,255,255,.06);
+  --vignette:rgba(0,0,0,.55);
+  --foto-schatten:rgba(0,0,0,.55);
+  --badge-bg:rgba(8,9,12,.72);
+  --badge-fg:var(--accent-lite);
+  --bar-spur:rgba(255,255,255,.07);
+  --blur-helligkeit:.5;
   --font:'Manrope',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
   --slide-ms:7000ms;
 }
+/* ---------- Helles Schaufenster-Thema ----------
+   Im Fenster addiert das Glas die Spiegelung auf das, was der Bildschirm
+   abstrahlt. Das Kontrastverhältnis bleibt dabei rechnerisch gleich, aber
+   auf einer dunklen Fläche liegt das Spiegelbild auf Schwarz und ist voll
+   sichtbar - der Bildschirm wird dort zum Spiegel. Eine helle, selbst
+   leuchtende Fläche verdünnt es zum Schleier. Deshalb tagsüber hell.
+
+   Aus demselben Grund entfällt hier der dunkle Weichzeichner hinter dem
+   Produktbild: er kostet genau die Lichtmenge, die gegen die Spiegelung
+   arbeiten soll. */
+html.hell{
+  --bg:#ffffff;
+  --bg2:#f1f3f6;
+  --panel:#ffffff;
+  --line:rgba(0,0,0,.14);
+  --fg:#0c0e12;
+  --fg-dim:#5b626e;
+  --accent-lite:#c8161c;     /* dunkleres Rot: auf Weiß muss es tragen */
+  --logo-ink:#101216;
+  --void:#e9eaee;
+  --glow-a:rgba(232,44,49,.07);
+  --glow-b:rgba(80,120,255,.05);
+  --schatten:rgba(0,0,0,.16);
+  --kante-innen:rgba(0,0,0,.03);
+  --vignette:rgba(0,0,0,0);
+  --foto-schatten:rgba(0,0,0,.20);
+  --badge-bg:rgba(255,255,255,.88);
+  --badge-fg:var(--accent-lite);
+  --bar-spur:rgba(0,0,0,.10);
+  --blur-helligkeit:1;
+}
+html.hell .blurbg,
+html.hell .shade{display:none}          /* weiße Fläche statt Foto-Weichzeichner */
+
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{
-  width:100%;height:100%;overflow:hidden;background:#000;
+  width:100%;height:100%;overflow:hidden;background:var(--void);
   font-family:var(--font);color:var(--fg);
   -webkit-font-smoothing:antialiased;
   user-select:none;-webkit-user-select:none;cursor:none;
@@ -33,14 +78,14 @@ html,body{
 img{-webkit-user-drag:none}
 
 /* ---------- Skalierbare 1080x1920 Bühne ---------- */
-#viewport{position:fixed;inset:0;background:#000;overflow:hidden}
+#viewport{position:fixed;inset:0;background:var(--void);overflow:hidden}
 #stage{
   position:absolute;top:0;left:0;
   width:1080px;height:1920px;
   transform-origin:top left;
   background:
-    radial-gradient(1200px 900px at 78% -8%, rgba(232,44,49,.15), transparent 62%),
-    radial-gradient(1000px 800px at 10% 108%, rgba(80,120,255,.10), transparent 60%),
+    radial-gradient(1200px 900px at 78% -8%, var(--glow-a), transparent 62%),
+    radial-gradient(1000px 800px at 10% 108%, var(--glow-b), transparent 60%),
     linear-gradient(178deg,var(--bg) 0%,var(--bg2) 55%,var(--bg) 100%);
   display:grid;
   grid-template-columns:minmax(0,1fr);
@@ -67,21 +112,21 @@ img{-webkit-user-drag:none}
   position:relative;border-radius:38px;overflow:hidden;min-height:0;
   background:var(--panel);
   border:1px solid var(--line);
-  box-shadow:0 40px 90px rgba(0,0,0,.62), inset 0 1px 0 rgba(255,255,255,.06);
+  box-shadow:0 40px 90px var(--schatten), inset 0 1px 0 var(--kante-innen);
 }
 .layer{position:absolute;inset:0;opacity:0;transition:opacity var(--fade,1100ms) ease}
 .layer.on{opacity:1}
 .blurbg{
   position:absolute;inset:-8%;
   background-size:cover;background-position:center;
-  filter:blur(46px) saturate(135%) brightness(.5);
+  filter:blur(46px) saturate(135%) brightness(var(--blur-helligkeit));
   transform:scale(1.14);
 }
-.shade{position:absolute;inset:0;background:radial-gradient(75% 68% at 50% 42%,transparent 0%,rgba(0,0,0,.55) 100%)}
+.shade{position:absolute;inset:0;background:radial-gradient(75% 68% at 50% 42%,transparent 0%,var(--vignette) 100%)}
 .photo{
   position:absolute;inset:44px;
   background-size:contain;background-position:center;background-repeat:no-repeat;
-  filter:drop-shadow(0 26px 46px rgba(0,0,0,.55));
+  filter:drop-shadow(0 26px 46px var(--foto-schatten));
   will-change:transform;
 }
 .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linear both}
@@ -99,12 +144,12 @@ img{-webkit-user-drag:none}
 #badge{
   display:inline-flex;align-items:center;
   padding:16px 28px;border-radius:999px;
-  background:rgba(8,9,12,.72);backdrop-filter:blur(14px);
+  background:var(--badge-bg);backdrop-filter:blur(14px);
   border:1px solid rgba(226,38,46,.70);
-  color:var(--accent-lite);font-size:25px;font-weight:800;
+  color:var(--badge-fg);font-size:25px;font-weight:800;
   letter-spacing:2.8px;text-transform:uppercase;
 }
-#badge::before{content:"";width:12px;height:12px;flex:0 0 12px;margin-right:12px;border-radius:50%;background:var(--accent-lite);box-shadow:0 0 14px var(--accent)}
+#badge::before{content:"";width:12px;height:12px;flex:0 0 12px;margin-right:12px;border-radius:50%;background:var(--badge-fg);box-shadow:0 0 14px var(--accent)}
 
 /* ---------- Textblock ---------- */
 /* Abstaende bewusst als margin, nicht als flex-gap: aeltere TV-Browser
@@ -140,13 +185,13 @@ img{-webkit-user-drag:none}
 #ctaTxt.knapp b{display:none}          /* enge Spalte: nur der QR-Hinweis bleibt */
 #ctaTxt.aus{visibility:hidden}
 #ctaTxt b{display:block;font-size:26px;font-weight:800;letter-spacing:-.2px}
-#ctaTxt span{display:block;font-size:19px;color:var(--accent-lite);letter-spacing:2px;text-transform:uppercase;margin-top:8px}
+#ctaTxt span{display:block;font-size:19px;color:var(--badge-fg);letter-spacing:2px;text-transform:uppercase;margin-top:8px}
 /* QR fest als Inline-SVG: das Ziel ändert sich nie, also braucht es dafür
    weder eine Bibliothek zur Laufzeit noch einen externen Dienst. Weiße
    Fläche und Ruhezone stecken im SVG - beides ist Voraussetzung dafür, dass
    Handykameras den Code aus einigen Metern Entfernung erfassen. */
 #qr{width:186px;height:186px;flex:0 0 186px;border-radius:14px;overflow:hidden;
-  box-shadow:0 12px 34px rgba(0,0,0,.5)}
+  border:1px solid var(--line);box-shadow:0 12px 34px var(--schatten)}
 #qr svg{display:block;width:100%;height:100%}
 
 /* ---------- Fußzeile ---------- */
@@ -174,7 +219,7 @@ img{-webkit-user-drag:none}
 #tickerKopf span{
   display:inline-block;
   font-size:44px;font-weight:800;letter-spacing:1.4px;
-  text-transform:uppercase;color:var(--accent-lite);
+  text-transform:uppercase;color:var(--badge-fg);
 }
 #tickerLauf{overflow:hidden}
 #tickerTrack{display:flex;white-space:nowrap;will-change:transform;
@@ -182,7 +227,7 @@ img{-webkit-user-drag:none}
 @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 .tk{display:inline-block;font-size:38px;font-weight:800;letter-spacing:.4px;color:var(--fg)}
 .tk i{color:var(--accent);font-style:normal;padding:0 26px}
-#bar{position:absolute;left:0;bottom:0;height:7px;width:100%;background:rgba(255,255,255,.07)}
+#bar{position:absolute;left:0;bottom:0;height:7px;width:100%;background:var(--bar-spur)}
 #bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),#ff8f93);box-shadow:0 0 18px rgba(226,38,46,.75)}
 </style>
 </head>
@@ -267,7 +312,7 @@ img{-webkit-user-drag:none}
 /* ============================================================
    KONFIGURATION
    ============================================================ */
-const BUILD = '2026-09-03-4';   // erscheint in der Diagnose (?debug=1)
+const BUILD = '2026-09-04-1';   // erscheint in der Diagnose (?debug=1)
 
 const CONFIG = {
   // Drehung fuer Player ohne eigene Bildrotation (Hisense/VIDAA, viele Smart-TVs):
@@ -296,6 +341,13 @@ const CONFIG = {
   // 'aus'          = gar nicht
   ANKAUF: 'gemischt',
   LAUFBAND_KOPF: 'Wir kaufen an und zahlen sofort Bargeld',
+
+  // Farbschema. 'auto' schaltet nach Uhrzeit: tagsüber hell gegen die
+  // Spiegelung im Schaufenster, nachts dunkel - dann gibt es kaum
+  // Spiegelungen und eine weiß leuchtende Scheibe wäre nur grell.
+  THEMA: 'auto',         // 'auto' | 'hell' | 'dunkel'
+  HELL_AB: 7,            // ab dieser Stunde hell
+  DUNKEL_AB: 19,         // ab dieser Stunde wieder dunkel
   NEU_TAGE: 3,           // bis zu N Tage alte Anzeigen bekommen "Neu eingetroffen"
   MAX_BILDER: 3,         // Bilder je Anzeige, die innerhalb eines Slides wechseln
   SHUFFLE: false,        // true = Reihenfolge bei jedem Start mischen
@@ -573,6 +625,8 @@ function fit(){
       'Schirm   ' + screen.width + ' x ' + screen.height + '\n' +
       'Pixel    ' + devicePixelRatio + '\n' +
       'Drehung  ' + rot + ' Grad\n' +
+      'Thema    ' + (document.documentElement.classList.contains('hell') ? 'hell' : 'dunkel')
+                  + ' (' + CONFIG.THEMA + ')\n' +
       'Vollbild ' + (fs ? 'ja' : 'nein') + '\n' +
       'Transform\n  ' + t;
   }
@@ -771,10 +825,34 @@ loadAds().then(() => {
   }
 });
 
+/* ---------- Farbschema nach Tageszeit ---------- */
+function themaAnwenden(){
+  let hell;
+  if (CONFIG.THEMA === 'hell')        hell = true;
+  else if (CONFIG.THEMA === 'dunkel') hell = false;
+  else {
+    const h = new Date().getHours();
+    // Der Vergleich muss auch dann stimmen, wenn die helle Phase über
+    // Mitternacht laufen soll (HELL_AB größer als DUNKEL_AB).
+    hell = CONFIG.HELL_AB <= CONFIG.DUNKEL_AB
+      ? (h >= CONFIG.HELL_AB && h < CONFIG.DUNKEL_AB)
+      : (h >= CONFIG.HELL_AB || h < CONFIG.DUNKEL_AB);
+  }
+  const vorher = document.documentElement.classList.contains('hell');
+  document.documentElement.classList.toggle('hell', hell);
+  // fit() schreibt die Diagnosezeile. Ohne diesen Aufruf zeigte sie den
+  // Stand von vor dem Themenwechsel - eine Diagnose, die falsch informiert,
+  // ist schlechter als gar keine.
+  if (vorher !== hell || !themaGesetzt) { themaGesetzt = true; fit(); }
+}
+let themaGesetzt = false;
+themaAnwenden();
+
 /* ---------- Uhr ---------- */
 const elClock = document.querySelector('#clock b');
 function clock(){
   elClock.textContent = new Date().toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'});
+  themaAnwenden();          // gleicher Takt, kein zweiter Zeitgeber nötig
 }
 clock(); setInterval(clock, 15000);
 
