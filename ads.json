@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-04T05:27:26+00:00",
+ "generated": "2026-09-04T10:03:53+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 47,
  "ads": [
   {
    "id": "3502131017",
@@ -130,21 +130,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
   },
   {
-   "id": "3497567499",
-   "t": "⭐️ RØDE M1S DYNAMISCHES GESANGSMIKROFON | OHNE OVP ⭐️",
-   "p": "69 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5a6d5eb-14e5-4154-a010-a2889279667c?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5a6d5eb-14e5-4154-a010-a2889279667c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d42a529-d29a-4def-a74d-ea3efe9a53d2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8805e54-647e-4a57-acd8-afc1c5b475cf?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-r-de-m1s-dynamisches-gesangsmikrofon-ohne-ovp-/3497567499-172-3409"
-  },
-  {
    "id": "3497589121",
    "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
    "p": "479 €",
@@ -163,7 +148,7 @@
    "id": "3497576676",
    "t": "MSI MAG Infinite S3 i5-14400F RTX 5060 16GB 1TB SSD NEU OVP",
    "p": "969 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c5e812d-43c6-4541-8eac-d95ad34df5d4?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b7d92f9-a474-4a53-ab70-85017ba228ba?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c5e812d-43c6-4541-8eac-d95ad34df5d4?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/879ecb8e-e6f9-4e96-bbfc-1ffa566376fb?rule=$_59.AUTO",
