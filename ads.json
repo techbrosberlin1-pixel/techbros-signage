@@ -1,8 +1,68 @@
 {
- "generated": "2026-09-05T10:02:54+00:00",
+ "generated": "2026-09-05T12:15:03+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 46,
+ "count": 50,
  "ads": [
+  {
+   "id": "3504092272",
+   "t": "⭐️ IPHONE 17 PRO MAX 1 TB ⭐️ NEU & VERSIEGELT ⭐️",
+   "p": "1.499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a0f8a60-6908-428e-b23e-57b1fce52660?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9a45947-3c96-46d0-9d3c-67c2e2230e92?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-05",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:20",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-17-pro-max-1-tb-neu-versiegelt-/3504092272-173-3409"
+  },
+  {
+   "id": "3504041162",
+   "t": "⭐️ META QUEST 3 512GB ⭐️ MIT OVP ⭐️ GEBRAUCHT",
+   "p": "349 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1d6905-a4e1-497f-9200-2b0f15ce4233?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-05",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:45",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-512gb-mit-ovp-gebraucht/3504041162-168-3409"
+  },
+  {
+   "id": "3504036865",
+   "t": "⭐️ SAMSUNG GALAXY S26 256GB ⭐️ 100% AKKU",
+   "p": "499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074854a6-4699-45d6-8e6d-4bf54fd82dea?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54f0355b-fa22-48b8-b8b4-52025a586a49?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-05",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:40",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
+  },
+  {
+   "id": "3504026973",
+   "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP wie NEU 100% Akku",
+   "p": "1.099 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7e3c0b-0534-475f-9681-ec2512133dbe?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c22e707-61ed-4500-a86a-8953aa794209?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-05",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:30",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-wie-neu-100-akku/3504026973-278-3409"
+  },
   {
    "id": "3502131017",
    "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
@@ -150,9 +210,9 @@
    "p": "969 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b7d92f9-a474-4a53-ab70-85017ba228ba?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c5e812d-43c6-4541-8eac-d95ad34df5d4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/879ecb8e-e6f9-4e96-bbfc-1ffa566376fb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/544b27d8-5ff0-4bc3-9988-3ff30e94e3b2?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b7d92f9-a474-4a53-ab70-85017ba228ba?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81544a44-26cb-4247-862d-158d5d94d546?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96dcf852-b3bc-41b5-8858-b4002a73645f?rule=$_59.AUTO"
    ],
    "ts": "2026-08-29",
    "loc": "12099 Tempelhof",
