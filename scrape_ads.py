@@ -10,8 +10,8 @@ Zusaetzlich zum reinen Abruf:
     umgerechnet, damit das Widget das Alter einer Anzeige bestimmen kann.
   * Preissenkungen werden gegen die vorherige ads.json erkannt und als
     p_alt / p_seit hinterlegt.
-  * Galeriebilder werden nur fuer neue Anzeigen von der Detailseite geholt;
-    bekannte Anzeigen uebernehmen ihre Bilder aus der alten Datei.
+  * Galeriebilder werden bei jedem Lauf frisch von den Detailseiten gelesen,
+    damit ausgetauschte Fotos auch bei bereits bekannten Anzeigen ankommen.
 
 Nur Standardbibliothek, keine Abhaengigkeiten.
 
@@ -19,7 +19,7 @@ Aufruf:
     python3 scrape_ads.py                     # -> ./ads.json
     python3 scrape_ads.py --out /var/www/ads.json
     python3 scrape_ads.py --max-images 5      # Bilder je Anzeige (Standard 3)
-    python3 scrape_ads.py --refresh-images    # Detailseiten aller Anzeigen neu lesen
+    python3 scrape_ads.py --reuse-images      # Detailseiten bekannter Anzeigen ueberspringen
     python3 scrape_ads.py --dry-run           # nur pruefen, nichts schreiben
 
 Exit-Codes: 0 = aktualisiert oder unveraendert, 1 = Fehler
@@ -337,8 +337,10 @@ def main():
         os.path.abspath(__file__)), "ads.json"), help="Zieldatei")
     ap.add_argument("--max-images", type=int, default=3,
                     help="Galeriebilder je Anzeige (Standard 3, 1 = nur Aufmacher)")
-    ap.add_argument("--refresh-images", action="store_true",
-                    help="Detailseiten aller Anzeigen neu lesen statt nur der neuen")
+    ap.add_argument("--reuse-images", action="store_true",
+                    help="Detailseiten bekannter Anzeigen ueberspringen. Spart Zeit, "
+                         "uebernimmt dann aber keine ausgetauschten Fotos - nur fuer "
+                         "schnelle Testlaeufe gedacht")
     ap.add_argument("--dry-run", action="store_true",
                     help="nur abrufen und pruefen, nichts schreiben")
     args = ap.parse_args()
@@ -367,10 +369,13 @@ def main():
         if a.get("p_seit") == heute.isoformat():
             gesenkt += 1
 
-    # Galeriebilder: nur fuer unbekannte Anzeigen von der Detailseite holen.
-    # Das haelt den taeglichen Lauf bei meist null zusaetzlichen Abrufen.
+    # Galeriebilder werden bei jedem Lauf frisch gelesen. Frueher uebernahm der
+    # Scraper die Bilder bekannter Anzeigen aus der alten Datei, um Abrufe zu
+    # sparen - dadurch kamen ausgetauschte Fotos nie im Schaufenster an. Ein
+    # Detailabruf je Anzeige und Tag ist die falsche Stelle zum Sparen.
+    geaendert = 0
     if args.max_images > 1:
-        offen = {a["id"] for a in ads if args.refresh_images
+        offen = {a["id"] for a in ads if not args.reuse_images
                  or not alt.get(a["id"], {}).get("imgs")}
         print("Galeriebilder: %d Anzeigen abzurufen, %d aus dem Bestand"
               % (len(offen), len(ads) - len(offen)), file=sys.stderr)
@@ -378,7 +383,11 @@ def main():
             vorher = alt.get(a["id"], {}).get("imgs") or []
             if a["id"] in offen and a["url"]:
                 a["imgs"] = galeriebilder(a["url"], args.max_images)
-                print("    %-52s %d Bilder" % (a["t"][:52], len(a["imgs"])),
+                neu = vorher and a["imgs"] and a["imgs"] != vorher
+                if neu:
+                    geaendert += 1
+                print("    %-46s %d Bilder%s"
+                      % (a["t"][:46], len(a["imgs"]), "  [Fotos geaendert]" if neu else ""),
                       file=sys.stderr)
                 time.sleep(DETAIL_DELAY_S)
             else:
@@ -412,8 +421,8 @@ def main():
             pass
 
     write_atomic(args.out, payload)
-    print("Geschrieben: %s (%d Anzeigen, %d Preissenkungen)"
-          % (args.out, len(ads), gesenkt), file=sys.stderr)
+    print("Geschrieben: %s (%d Anzeigen, %d Preissenkungen, %d mit neuen Fotos)"
+          % (args.out, len(ads), gesenkt, geaendert), file=sys.stderr)
     return 0
 
 
