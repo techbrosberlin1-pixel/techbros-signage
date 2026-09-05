@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-04T10:03:53+00:00",
+ "generated": "2026-09-05T10:02:54+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 46,
  "ads": [
   {
    "id": "3502131017",
@@ -13,7 +13,7 @@
    ],
    "ts": "2026-09-03",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 07:55",
+   "d": "03.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
   },
   {
@@ -231,21 +231,6 @@
    "loc": "12099 Tempelhof",
    "d": "25.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-geforce-rtx-5080-16gb-grafikkarte-neu-versiegelt-/3494690255-225-3409"
-  },
-  {
-   "id": "3491433460",
-   "t": "⭐️ DELL G16 7630 GAMING LAPTOP – RTX 4060 & 32GB ⭐️",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96d9b6ff-61a7-4a23-8ccf-c37d59a4368d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96d9b6ff-61a7-4a23-8ccf-c37d59a4368d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15cdb7c8-6ed8-4c05-bf9a-07a1bd084728?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20d63c74-4357-4d82-a4e8-1e23c59e0b31?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-dell-g16-7630-gaming-laptop-rtx-4060-32gb-/3491433460-278-3409"
   },
   {
    "id": "3488913967",
