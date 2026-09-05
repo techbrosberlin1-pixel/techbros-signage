@@ -27,6 +27,7 @@
   --kante-innen:rgba(255,255,255,.06);
   --badge-fg:var(--accent-lite);
   --bar-spur:rgba(255,255,255,.07);
+  --offen:#3ddc84;           /* Status "geöffnet" */
   --font:'Manrope',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
   --slide-ms:7000ms;
 }
@@ -56,6 +57,7 @@ html.hell{
   --kante-innen:rgba(0,0,0,.03);
   --badge-fg:var(--accent-lite);
   --bar-spur:rgba(0,0,0,.10);
+  --offen:#127a3d;
 }
 
 *{margin:0;padding:0;box-sizing:border-box}
@@ -79,7 +81,7 @@ img{-webkit-user-drag:none}
     linear-gradient(178deg,var(--bg) 0%,var(--bg2) 55%,var(--bg) 100%);
   display:grid;
   grid-template-columns:minmax(0,1fr);
-  grid-template-rows:170px 1fr auto 176px;
+  grid-template-rows:170px 1fr auto 212px;
   padding:44px 56px 40px;
   gap:26px;
 }
@@ -94,8 +96,10 @@ img{-webkit-user-drag:none}
 #logo .lg-red{fill:var(--accent)}
 #logo .lg-ink{fill:var(--logo-ink)}
 #clock{text-align:right}
-#clock b{display:block;font-size:52px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-1px;line-height:1}
-#clock span{display:block;font-size:21px;color:var(--fg-dim);letter-spacing:2.6px;text-transform:uppercase;margin-top:8px}
+#clock b{display:block;font-size:60px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-1px;line-height:1}
+#clock span{display:block;font-size:30px;color:var(--fg-dim);letter-spacing:1.6px;text-transform:uppercase;margin-top:8px}
+#status.offen{color:var(--offen);font-weight:800}
+#status.zu{color:var(--fg-dim);font-weight:800}
 
 /* ---------- Medienfläche ---------- */
 /* Die Zelle füllt die Rasterzeile, die Box sitzt darin zentriert. Ihre Größe
@@ -132,17 +136,17 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
 #badges{display:flex;align-items:center;flex-wrap:wrap}
 #badgeNeu{
   display:none;align-items:center;margin:0 14px 10px 0;
-  padding:11px 22px;border-radius:999px;
+  padding:13px 26px;border-radius:999px;
   background:var(--accent);color:#fff;
-  font-size:21px;font-weight:800;letter-spacing:2.2px;text-transform:uppercase;
+  font-size:25px;font-weight:800;letter-spacing:2.2px;text-transform:uppercase;
   box-shadow:0 8px 22px rgba(226,38,46,.38);
 }
 #badgeNeu.on{display:inline-flex}
 #badge{
   display:inline-flex;align-items:center;margin:0 0 10px 0;
-  padding:11px 22px;border-radius:999px;
-  border:1px solid rgba(226,38,46,.70);
-  color:var(--badge-fg);font-size:21px;font-weight:800;
+  padding:13px 26px;border-radius:999px;
+  border:2px solid rgba(226,38,46,.70);
+  color:var(--badge-fg);font-size:25px;font-weight:800;
   letter-spacing:2.2px;text-transform:uppercase;
 }
 #badge::before{content:"";width:10px;height:10px;flex:0 0 10px;margin-right:11px;border-radius:50%;background:var(--badge-fg)}
@@ -151,9 +155,9 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
 /* Abstaende bewusst als margin, nicht als flex-gap: aeltere TV-Browser
    (Chromium < 84) ignorieren gap in Flex-Containern stillschweigend. */
 #info{display:flex;flex-direction:column;justify-content:flex-start;min-height:0;min-width:0}
-#kicker{font-size:23px;letter-spacing:4.2px;text-transform:uppercase;color:var(--fg-dim);margin:0 22px 10px 0}
+#kicker{font-size:28px;letter-spacing:3.4px;text-transform:uppercase;color:var(--fg-dim);margin:0 22px 10px 0}
 #title{
-  font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1.2px;
+  font-size:70px;font-weight:800;line-height:1.08;letter-spacing:-1.4px;
   display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
 }
 #priceRow{
@@ -180,8 +184,8 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
 #ctaTxt{text-align:right;min-width:0;padding-bottom:10px;overflow:hidden}
 #ctaTxt.knapp b{display:none}          /* enge Spalte: nur der QR-Hinweis bleibt */
 #ctaTxt.aus{visibility:hidden}
-#ctaTxt b{display:block;font-size:26px;font-weight:800;letter-spacing:-.2px}
-#ctaTxt span{display:block;font-size:19px;color:var(--badge-fg);letter-spacing:2px;text-transform:uppercase;margin-top:8px}
+#ctaTxt b{display:block;font-size:31px;font-weight:800;letter-spacing:-.2px}
+#ctaTxt span{display:block;font-size:23px;color:var(--badge-fg);letter-spacing:2px;text-transform:uppercase;margin-top:8px}
 /* QR fest als Inline-SVG: das Ziel ändert sich nie, also braucht es dafür
    weder eine Bibliothek zur Laufzeit noch einen externen Dienst. Weiße
    Fläche und Ruhezone stecken im SVG - beides ist Voraussetzung dafür, dass
@@ -209,19 +213,23 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
   display:flex;flex-direction:column;justify-content:center;
   border-top:1px solid var(--line);padding-top:22px;overflow:hidden;
 }
-#tickerKopf{
-  white-space:nowrap;line-height:1.1;margin-bottom:16px;
+#tickerKopfZeile{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:16px}
+#tickerKopf{white-space:nowrap;line-height:1.1;min-width:0;overflow:hidden}
+#tickerWhats{
+  white-space:nowrap;margin-left:26px;flex:0 0 auto;
+  font-size:34px;font-weight:800;letter-spacing:.6px;color:var(--fg);
 }
+#tickerWhats b{color:var(--badge-fg);font-weight:800;margin-right:12px}
 #tickerKopf span{
   display:inline-block;
-  font-size:44px;font-weight:800;letter-spacing:1.4px;
+  font-size:54px;font-weight:800;letter-spacing:1.2px;
   text-transform:uppercase;color:var(--badge-fg);
 }
 #tickerLauf{overflow:hidden}
 #tickerTrack{display:flex;white-space:nowrap;will-change:transform;
   animation:tick var(--tick,60s) linear infinite}
 @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-.tk{display:inline-block;font-size:38px;font-weight:800;letter-spacing:.4px;color:var(--fg)}
+.tk{display:inline-block;font-size:46px;font-weight:800;letter-spacing:.4px;color:var(--fg)}
 .tk i{color:var(--accent);font-style:normal;padding:0 26px}
 #bar{position:absolute;left:0;bottom:0;height:7px;width:100%;background:var(--bar-spur)}
 #bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),#ff8f93);box-shadow:0 0 18px rgba(226,38,46,.75)}
@@ -267,7 +275,7 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
       <path class="lg-ink" d="M159.3,168.8l-2.2,18.4c-.5,4.5-4.7,7.8-9.2,7.3l-68.6-8.2c-4.5-.5-7.8-4.7-7.3-9.2l1-8.1h-3.9l-.9,7.7c-.8,6.7,4,12.7,10.6,13.5l68.6,8.2c6.7.8,12.7-4,13.5-10.6l2.3-18.8h-3.9v-.2h0Z"/>
       </svg>
     </div>
-    <div id="clock"><b>--:--</b><span>12099 Tempelhof</span></div>
+    <div id="clock"><b>--:--</b><span id="status">12099 Tempelhof</span></div>
   </header>
 
   <section id="mediaZelle"><div id="media">
@@ -298,7 +306,10 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
   </section>
 
   <section id="ticker">
-    <div id="tickerKopf"><span></span></div>
+    <div id="tickerKopfZeile">
+      <div id="tickerKopf"><span></span></div>
+      <div id="tickerWhats"></div>
+    </div>
     <div id="tickerLauf"><div id="tickerTrack"></div></div>
   </section>
 
@@ -310,7 +321,7 @@ html.fuellen .layer.on .photo{animation:kenburns var(--kb,var(--slide-ms)) linea
 /* ============================================================
    KONFIGURATION
    ============================================================ */
-const BUILD = '2026-09-04-3';   // erscheint in der Diagnose (?debug=1)
+const BUILD = '2026-09-05-1';   // erscheint in der Diagnose (?debug=1)
 
 const CONFIG = {
   // Drehung fuer Player ohne eigene Bildrotation (Hisense/VIDAA, viele Smart-TVs):
@@ -338,7 +349,23 @@ const CONFIG = {
   // 'nur-laufband' = nur unten im Laufband
   // 'aus'          = gar nicht
   ANKAUF: 'gemischt',
-  LAUFBAND_KOPF: 'Wir kaufen an und zahlen sofort Bargeld',
+  LAUFBAND_KOPF: 'Wir kaufen an · Sofort Bargeld',
+  WHATSAPP: '0160 5008982',
+
+  // Öffnungszeiten je Wochentag als ['von','bis'], null = geschlossen.
+  // Solange hier null steht, zeigt die Kopfzeile weiterhin den Ort statt
+  // eines Status - eine falsche Öffnungszeit im Schaufenster wäre schlimmer
+  // als gar keine. Zum Aktivieren den Beispielblock einsetzen und anpassen:
+  //
+  OEFFNUNGSZEITEN: {
+    mo: null,                 // Montag geschlossen
+    di: ['10:00','18:00'],
+    mi: ['10:00','18:00'],
+    do: ['10:00','18:00'],
+    fr: ['10:00','18:00'],
+    sa: ['10:00','16:00'],
+    so: null                  // Sonntag geschlossen
+  },
 
   // Farbschema. 'auto' schaltet nach Uhrzeit: tagsüber hell gegen die
   // Spiegelung im Schaufenster, nachts dunkel - dann gibt es kaum
@@ -694,10 +721,21 @@ let idx = -1, front = 0, bildTimer = null;
 function laufbandKopf(){
   const box = document.getElementById('tickerKopf');
   const sp  = box.firstElementChild;
+  // WhatsApp-Nummer zuerst setzen: sie steht in derselben Zeile und bestimmt
+  // mit, wie viel Breite für den Kopftext übrig bleibt.
+  const w = document.getElementById('tickerWhats');
+  w.innerHTML = CONFIG.WHATSAPP ? '<b>WhatsApp</b>' : '';
+  if (CONFIG.WHATSAPP) w.append(CONFIG.WHATSAPP);
   sp.textContent = CONFIG.LAUFBAND_KOPF;
-  for (let px = 44; px >= 24; px -= 2){
+  // Verfügbare Breite direkt ausrechnen. Über box.clientWidth ging es nicht:
+  // der Kopf hat white-space:nowrap, seine Breite ist also die des Textes und
+  // nicht der Platz, der neben der Nummer übrig bleibt - der Text lief damit
+  // in die Nummer hinein.
+  const zeile = document.getElementById('tickerKopfZeile');
+  const platz = zeile.clientWidth - (w.offsetWidth || 0) - 26;
+  for (let px = 54; px >= 24; px -= 2){
     sp.style.fontSize = px + 'px';
-    if (sp.offsetWidth <= box.clientWidth) break;
+    if (sp.offsetWidth <= platz) break;
   }
 }
 
@@ -794,6 +832,21 @@ function zeigeBild(url, dauer){
 // gequetschte Zeilen umbrechen, deshalb zwei Stufen: erst fällt die
 // Überschrift weg, dann der ganze Block. Der QR-Code hat eine eigene Spalte
 // fester Breite und bleibt in jedem Fall vollständig sichtbar.
+// Titel so groß wie möglich, aber nie abgeschnitten: 70 Pixel sind für die
+// Distanz gewollt, ein paar lange Titel bräuchten damit aber vier Zeilen. Statt
+// sie zu kürzen wird für genau diese die Schrift so weit verkleinert, bis sie
+// in drei Zeilen passen.
+function titelAnpassen(text){
+  elTitle.textContent = text;
+  elTitle.style.webkitLineClamp = 'unset';
+  for (let px = 70; px >= 46; px -= 4){
+    elTitle.style.fontSize = px + 'px';
+    const zh = parseFloat(getComputedStyle(elTitle).lineHeight);
+    if (elTitle.scrollHeight <= zh * 3 + 1) break;
+  }
+  elTitle.style.webkitLineClamp = '3';
+}
+
 function ctaAnpassen(){
   elCtaTxt.classList.remove('knapp', 'aus');
   const b = elCtaTxt.clientWidth;
@@ -828,7 +881,7 @@ async function show(n){
     }
   }
 
-  elTitle.textContent = it.title;
+  titelAnpassen(it.title);
   elBadge.textContent = it.badge;
   elBadgeNeu.classList.toggle('on', !!it.neu);
   elKick.textContent  = it.ankauf ? 'Wir kaufen an' : 'Aktuelles Angebot';
@@ -860,6 +913,50 @@ loadAds().then(() => {
   }
 });
 
+/* ---------- Öffnungsstatus ----------
+   Zeigt "Jetzt geöffnet · bis 18:00" oder wann wieder geöffnet wird. Ohne
+   eingetragene Öffnungszeiten bleibt der Ort stehen, damit im Schaufenster
+   nie eine erfundene Zeit erscheint. */
+const WOCHENTAGE = ['so','mo','di','mi','do','fr','sa'];
+const TAGNAMEN   = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+const elStatus = document.getElementById('status');
+
+function inMinuten(hhmm){
+  const [h, m] = String(hhmm).split(':').map(Number);
+  return h * 60 + m;
+}
+
+function oeffnungsStatus(jetzt){
+  const z = CONFIG.OEFFNUNGSZEITEN;
+  if (!z) return null;
+  const min = jetzt.getHours() * 60 + jetzt.getMinutes();
+  const tag = jetzt.getDay();
+  const heute = z[WOCHENTAGE[tag]];
+
+  if (heute && min >= inMinuten(heute[0]) && min < inMinuten(heute[1])){
+    return {offen: true, text: 'Jetzt geöffnet · bis ' + heute[1]};
+  }
+  if (heute && min < inMinuten(heute[0])){
+    return {offen: false, text: 'Öffnet heute um ' + heute[0]};
+  }
+  // Nächsten Tag mit Öffnungszeiten suchen
+  for (let i = 1; i <= 7; i++){
+    const t = z[WOCHENTAGE[(tag + i) % 7]];
+    if (!t) continue;
+    const wann = i === 1 ? 'morgen' : TAGNAMEN[(tag + i) % 7];
+    return {offen: false, text: 'Wieder ' + wann + ' ab ' + t[0]};
+  }
+  return null;
+}
+
+function statusAnzeigen(){
+  const st = oeffnungsStatus(new Date());
+  elStatus.classList.remove('offen', 'zu');
+  if (!st){ elStatus.textContent = '12099 Tempelhof'; return; }
+  elStatus.textContent = st.text;
+  elStatus.classList.add(st.offen ? 'offen' : 'zu');
+}
+
 /* ---------- Farbschema nach Tageszeit ---------- */
 function themaAnwenden(){
   let hell;
@@ -888,6 +985,7 @@ const elClock = document.querySelector('#clock b');
 function clock(){
   elClock.textContent = new Date().toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'});
   themaAnwenden();          // gleicher Takt, kein zweiter Zeitgeber nötig
+  statusAnzeigen();
 }
 clock(); setInterval(clock, 15000);
 
