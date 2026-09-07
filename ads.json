@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T10:04:32+00:00",
+ "generated": "2026-09-07T10:05:25+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 25,
+ "count": 48,
  "ads": [
   {
    "id": "3504092272",
@@ -9,13 +9,11 @@
    "p": "1.499 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a0f8a60-6908-428e-b23e-57b1fce52660?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9a45947-3c96-46d0-9d3c-67c2e2230e92?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO"
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:20",
+   "d": "05.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-17-pro-max-1-tb-neu-versiegelt-/3504092272-173-3409"
   },
   {
@@ -30,7 +28,7 @@
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:45",
+   "d": "05.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-512gb-mit-ovp-gebraucht/3504041162-168-3409"
   },
   {
@@ -45,7 +43,7 @@
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:40",
+   "d": "05.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
   },
   {
@@ -60,7 +58,7 @@
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:30",
+   "d": "05.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-wie-neu-100-akku/3504026973-278-3409"
   },
   {
@@ -355,12 +353,333 @@
    "p": "210 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/473f7cea-bb36-498b-a735-013ea1b89d9a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d15b5a-bd96-4fe5-9c4c-bf31e8f0f078?rule=$_59.AUTO"
    ],
    "ts": "2026-08-14",
    "loc": "12099 Tempelhof",
    "d": "14.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
+  },
+  {
+   "id": "3483572280",
+   "t": "ASUS ROG Strix G713P 17” Ryzen 9 RTX 4060 16GB 1TB SSD",
+   "p": "1.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO"
+   ],
+   "ts": "2026-08-13",
+   "loc": "12099 Tempelhof",
+   "d": "13.08.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
+  },
+  {
+   "id": "3482133685",
+   "t": "Nintendo Switch 2 256GB mit 3 Spielen & Zubehör ⭐ TOP Zustand",
+   "p": "429 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO"
+   ],
+   "ts": "2026-08-11",
+   "loc": "12099 Tempelhof",
+   "d": "11.08.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-2-256gb-mit-3-spielen-zubehoer-top-zustand/3482133685-279-3409"
+  },
+  {
+   "id": "3473749675",
+   "t": "iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027",
+   "p": "729 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO"
+   ],
+   "ts": "2026-08-01",
+   "loc": "12099 Tempelhof",
+   "d": "01.08.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-air-256gb-wie-neu-100-akku-apple-schutz-bis-05-2027/3473749675-173-3409"
+  },
+  {
+   "id": "3470810103",
+   "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 16 Pro Max 256GB 94% Akku Case & Folie",
+   "p": "759 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-28",
+   "loc": "12099 Tempelhof",
+   "d": "28.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-16-pro-max-256gb-94-akku-case-folie/3470810103-173-3409"
+  },
+  {
+   "id": "3467798668",
+   "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
+   "p": "249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-25",
+   "loc": "12099 Tempelhof",
+   "d": "25.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
+  },
+  {
+   "id": "3467115735",
+   "t": "Nokia 8800 Silber mit OVP ⭐ Top Zustand Sammlerstück Luxus",
+   "p": "480 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5454b038-b2b3-4fe2-aeaf-a8bdf321dfed?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12bb5278-c086-4831-bad9-be356e1ca70d?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nokia-8800-silber-mit-ovp-top-zustand-sammlerstueck-luxus/3467115735-173-3409"
+  },
+  {
+   "id": "3466932702",
+   "t": "iPhone 17 Ankauf Berlin | iPhone 17 Pro & Pro Max verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-ankauf-berlin-iphone-17-pro-pro-max-verkaufen/3466932702-173-3409"
+  },
+  {
+   "id": "3466913005",
+   "t": "DJ Equipment Ankauf Berlin | Pioneer, Denon, Allen & Heath",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
+  },
+  {
+   "id": "3466909732",
+   "t": "HiFi Anlage verkaufen | Ankauf Berlin",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/hifi-anlage-verkaufen-ankauf-berlin/3466909732-172-3409"
+  },
+  {
+   "id": "3466907897",
+   "t": "Kamera Ankauf Berlin | Canon Sony Nikon verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17354843-301a-48bd-b4a5-0196c32a4fca?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17354843-301a-48bd-b4a5-0196c32a4fca?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kamera-ankauf-berlin-canon-sony-nikon-verkaufen/3466907897-245-3409"
+  },
+  {
+   "id": "3466906302",
+   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
+  },
+  {
+   "id": "3466899960",
+   "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
+  },
+  {
+   "id": "3466896994",
+   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
+  },
+  {
+   "id": "3466895658",
+   "t": "iPhone Ankauf Berlin | Sofort Geld für dein iPhone",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/907ff98c-0e18-44a2-a79a-e87f7f43da8a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/907ff98c-0e18-44a2-a79a-e87f7f43da8a?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-geld-fuer-dein-iphone/3466895658-173-3409"
+  },
+  {
+   "id": "3466822106",
+   "t": "⭐️ Lenovo IdeaPad 5 Pro 14\" i5-1240P 16GB 512GB OVP Laptop ⭐️",
+   "p": "419 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1851cb3-0e54-40ae-825e-65817b0d4ecf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/537b64b7-220e-4323-9644-713261c10907?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-24",
+   "loc": "12099 Tempelhof",
+   "d": "24.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
+  },
+  {
+   "id": "3465705678",
+   "t": "⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-22",
+   "loc": "12099 Tempelhof",
+   "d": "22.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
+  },
+  {
+   "id": "3465680868",
+   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
+   "p": "159 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-22",
+   "loc": "12099 Tempelhof",
+   "d": "22.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
+  },
+  {
+   "id": "3465646701",
+   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-22",
+   "loc": "12099 Tempelhof",
+   "d": "22.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
+  },
+  {
+   "id": "3459493616",
+   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
+   "p": "279 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
+   ],
+   "ts": "2026-07-15",
+   "loc": "12099 Tempelhof",
+   "d": "15.07.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
+  },
+  {
+   "id": "3431737075",
+   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
+   ],
+   "ts": "2026-06-10",
+   "loc": "12099 Tempelhof",
+   "d": "10.06.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
+  },
+  {
+   "id": "3430905293",
+   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
+   ],
+   "ts": "2026-06-09",
+   "loc": "12099 Tempelhof",
+   "d": "09.06.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
+  },
+  {
+   "id": "3426877319",
+   "t": "Empfangstheke mit Beratungsplatz Verkaufstresen",
+   "p": "479 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2847d0b8-452f-4269-a870-3315d67a5ba8?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2847d0b8-452f-4269-a870-3315d67a5ba8?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58e5f75a-13d1-4e6b-8f1d-f9bbb4b20b64?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c85686a-1cb4-45d4-900a-a5b044fccab7?rule=$_59.AUTO"
+   ],
+   "ts": "2026-06-05",
+   "loc": "12099 Tempelhof",
+   "d": "05.06.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/empfangstheke-mit-beratungsplatz-verkaufstresen/3426877319-93-3409"
+  },
+  {
+   "id": "3415111307",
+   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+   ],
+   "ts": "2026-05-22",
+   "loc": "12099 Tempelhof",
+   "d": "22.05.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
   }
  ]
 }
