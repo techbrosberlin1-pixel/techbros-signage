@@ -1,8 +1,34 @@
 {
- "generated": "2026-09-07T10:05:25+00:00",
+ "generated": "2026-09-08T10:05:31+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 47,
  "ads": [
+  {
+   "id": "3431737075",
+   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
+  },
+  {
+   "id": "3430905293",
+   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-07",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
+  },
   {
    "id": "3504092272",
    "t": "⭐️ IPHONE 17 PRO MAX 1 TB ⭐️ NEU & VERSIEGELT ⭐️",
@@ -30,21 +56,6 @@
    "loc": "12099 Tempelhof",
    "d": "05.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-512gb-mit-ovp-gebraucht/3504041162-168-3409"
-  },
-  {
-   "id": "3504036865",
-   "t": "⭐️ SAMSUNG GALAXY S26 256GB ⭐️ 100% AKKU",
-   "p": "499 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074854a6-4699-45d6-8e6d-4bf54fd82dea?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54f0355b-fa22-48b8-b8b4-52025a586a49?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
   },
   {
    "id": "3504026973",
@@ -435,9 +446,7 @@
    "p": "480 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5454b038-b2b3-4fe2-aeaf-a8bdf321dfed?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12bb5278-c086-4831-bad9-be356e1ca70d?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO"
    ],
    "ts": "2026-07-24",
    "loc": "12099 Tempelhof",
@@ -569,9 +578,7 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -620,36 +627,6 @@
    "loc": "12099 Tempelhof",
    "d": "15.07.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
-  },
-  {
-   "id": "3431737075",
-   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
-   ],
-   "ts": "2026-06-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.06.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
-  },
-  {
-   "id": "3430905293",
-   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
-   ],
-   "ts": "2026-06-09",
-   "loc": "12099 Tempelhof",
-   "d": "09.06.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
   },
   {
    "id": "3426877319",
