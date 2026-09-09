@@ -1,19 +1,51 @@
 {
- "generated": "2026-09-08T10:05:31+00:00",
+ "generated": "2026-09-09T10:05:26+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 45,
  "ads": [
+  {
+   "id": "3506990433",
+   "t": "⭐️ GIGABYTE RADEON RX 7900 XTX GAMING OC 24GB ⭐️",
+   "p": "899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e7e9db-c03d-4d01-83a7-5d6716ed364c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e7e9db-c03d-4d01-83a7-5d6716ed364c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/64591785-da9a-4865-8bd6-0934cc6f3185?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/667460eb-69fa-484e-9791-759c0aef44d0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-08",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:30",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-gigabyte-radeon-rx-7900-xtx-gaming-oc-24gb-/3506990433-225-3409"
+  },
+  {
+   "id": "3506956763",
+   "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
+   "p": "899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7bdddde-0cdb-4dea-9436-d6239f3160c2?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7bdddde-0cdb-4dea-9436-d6239f3160c2?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941ef7b5-1516-4669-bdc7-69a8617bc2a9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15615a76-ec33-4b63-948d-a172409fd6b3?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-08",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 12:53",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-cyborg-15-gaming-laptop-rtx-5060-top-zustand-/3506956763-278-3409"
+  },
   {
    "id": "3431737075",
    "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
    ],
    "ts": "2026-09-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:09",
+   "d": "Gestern, 08:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -22,25 +54,14 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
    ],
    "ts": "2026-09-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:08",
+   "d": "07.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
-  },
-  {
-   "id": "3504092272",
-   "t": "⭐️ IPHONE 17 PRO MAX 1 TB ⭐️ NEU & VERSIEGELT ⭐️",
-   "p": "1.499 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84ae7723-972e-4aa3-98d2-c545ef135545?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-17-pro-max-1-tb-neu-versiegelt-/3504092272-173-3409"
   },
   {
    "id": "3504041162",
@@ -63,9 +84,7 @@
    "p": "1.099 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7e3c0b-0534-475f-9681-ec2512133dbe?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c22e707-61ed-4500-a86a-8953aa794209?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO"
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
@@ -151,36 +170,6 @@
    "loc": "12099 Tempelhof",
    "d": "29.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
-  },
-  {
-   "id": "3497723543",
-   "t": "⭐️ MACBOOK PRO 15,4” INTEL i7 • 16GB • 256GB SSD ⭐️",
-   "p": "279 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df515ecd-a8bf-4f1f-8735-b90f0879b16b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df515ecd-a8bf-4f1f-8735-b90f0879b16b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c7cfa3c-74e3-48d2-9029-91253182c74a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/444cb15c-54d2-4328-918f-227cdf960113?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-macbook-pro-15-4-intel-i7-16gb-256gb-ssd-/3497723543-278-3409"
-  },
-  {
-   "id": "3497639493",
-   "t": "⭐️ Apple iMac 27” Retina 5K 2017 i5 32GB RAM 512GB SSD ⭐️",
-   "p": "379 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17355c83-127a-475a-b976-973411c80b3a?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17355c83-127a-475a-b976-973411c80b3a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82856dcb-60a6-4276-b298-8974b0a18721?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdc8714f-26d1-4580-8a7c-3b6e98972cfb?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-imac-27-retina-5k-2017-i5-32gb-ram-512gb-ssd-/3497639493-228-3409"
   },
   {
    "id": "3497612126",
@@ -282,21 +271,6 @@
    "loc": "12099 Tempelhof",
    "d": "26.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409"
-  },
-  {
-   "id": "3494690255",
-   "t": "⭐️ MSI GEFORCE RTX 5080 16GB Grafikkarte Neu & Versiegelt ⭐️",
-   "p": "1.299 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ca5fb63-7c5a-4ae4-8620-b1bffeb3eba9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90313bdd-6214-4fb9-a80f-3c08c2e73571?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-25",
-   "loc": "12099 Tempelhof",
-   "d": "25.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-geforce-rtx-5080-16gb-grafikkarte-neu-versiegelt-/3494690255-225-3409"
   },
   {
    "id": "3488913967",
@@ -446,7 +420,9 @@
    "p": "480 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5454b038-b2b3-4fe2-aeaf-a8bdf321dfed?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12bb5278-c086-4831-bad9-be356e1ca70d?rule=$_59.AUTO"
    ],
    "ts": "2026-07-24",
    "loc": "12099 Tempelhof",
@@ -578,7 +554,9 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -649,9 +627,7 @@
    "p": "149 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO"
    ],
    "ts": "2026-05-22",
    "loc": "12099 Tempelhof",
