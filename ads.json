@@ -1,23 +1,8 @@
 {
- "generated": "2026-09-09T10:05:26+00:00",
+ "generated": "2026-09-10T10:05:09+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 45,
  "ads": [
-  {
-   "id": "3506990433",
-   "t": "⭐️ GIGABYTE RADEON RX 7900 XTX GAMING OC 24GB ⭐️",
-   "p": "899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e7e9db-c03d-4d01-83a7-5d6716ed364c?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e7e9db-c03d-4d01-83a7-5d6716ed364c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/64591785-da9a-4865-8bd6-0934cc6f3185?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/667460eb-69fa-484e-9791-759c0aef44d0?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-08",
-   "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:30",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-gigabyte-radeon-rx-7900-xtx-gaming-oc-24gb-/3506990433-225-3409"
-  },
   {
    "id": "3506956763",
    "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
@@ -30,7 +15,7 @@
    ],
    "ts": "2026-09-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:53",
+   "d": "08.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-cyborg-15-gaming-laptop-rtx-5060-top-zustand-/3506956763-278-3409"
   },
   {
@@ -45,7 +30,7 @@
    ],
    "ts": "2026-09-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:09",
+   "d": "08.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -70,8 +55,8 @@
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1d6905-a4e1-497f-9200-2b0f15ce4233?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98b00789-c43d-4e0b-994d-4dcd3c528553?rule=$_59.AUTO"
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
@@ -79,12 +64,29 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-512gb-mit-ovp-gebraucht/3504041162-168-3409"
   },
   {
+   "id": "3504036865",
+   "t": "⭐️ SAMSUNG GALAXY S26 256GB ⭐️ 100% AKKU",
+   "p": "499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074854a6-4699-45d6-8e6d-4bf54fd82dea?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54f0355b-fa22-48b8-b8b4-52025a586a49?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-05",
+   "loc": "12099 Tempelhof",
+   "d": "05.09.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
+  },
+  {
    "id": "3504026973",
    "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP wie NEU 100% Akku",
    "p": "1.099 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7e3c0b-0534-475f-9681-ec2512133dbe?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c22e707-61ed-4500-a86a-8953aa794209?rule=$_59.AUTO"
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
@@ -271,6 +273,21 @@
    "loc": "12099 Tempelhof",
    "d": "26.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409"
+  },
+  {
+   "id": "3494690255",
+   "t": "⭐️ MSI GEFORCE RTX 5080 16GB Grafikkarte Neu & Versiegelt ⭐️",
+   "p": "1.299 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90313bdd-6214-4fb9-a80f-3c08c2e73571?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/733e7519-8336-407f-9aad-097992eaf476?rule=$_59.AUTO"
+   ],
+   "ts": "2026-08-25",
+   "loc": "12099 Tempelhof",
+   "d": "25.08.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-geforce-rtx-5080-16gb-grafikkarte-neu-versiegelt-/3494690255-225-3409"
   },
   {
    "id": "3488913967",
@@ -607,27 +624,14 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
-   "id": "3426877319",
-   "t": "Empfangstheke mit Beratungsplatz Verkaufstresen",
-   "p": "479 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2847d0b8-452f-4269-a870-3315d67a5ba8?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2847d0b8-452f-4269-a870-3315d67a5ba8?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58e5f75a-13d1-4e6b-8f1d-f9bbb4b20b64?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c85686a-1cb4-45d4-900a-a5b044fccab7?rule=$_59.AUTO"
-   ],
-   "ts": "2026-06-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.06.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/empfangstheke-mit-beratungsplatz-verkaufstresen/3426877319-93-3409"
-  },
-  {
    "id": "3415111307",
    "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
    "p": "149 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9ae65aeb-87c6-4105-b730-2c0032b83bb7?rule=$_59.AUTO"
    ],
    "ts": "2026-05-22",
    "loc": "12099 Tempelhof",
