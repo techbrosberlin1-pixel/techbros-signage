@@ -1,8 +1,35 @@
 {
- "generated": "2026-09-10T10:05:09+00:00",
+ "generated": "2026-09-11T10:04:53+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 45,
  "ads": [
+  {
+   "id": "3508870906",
+   "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
+   "p": "1.111 € VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-10",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:47",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
+  },
+  {
+   "id": "3482133685",
+   "t": "Nintendo Switch 2 256GB mit 3 Spielen & Zubehör ⭐ TOP Zustand",
+   "p": "429 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-10",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 12:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-2-256gb-mit-3-spielen-zubehoer-top-zustand/3482133685-279-3409"
+  },
   {
    "id": "3506956763",
    "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
@@ -55,8 +82,8 @@
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98b00789-c43d-4e0b-994d-4dcd3c528553?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1d6905-a4e1-497f-9200-2b0f15ce4233?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO"
    ],
    "ts": "2026-09-05",
    "loc": "12099 Tempelhof",
@@ -281,8 +308,8 @@
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90313bdd-6214-4fb9-a80f-3c08c2e73571?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/733e7519-8336-407f-9aad-097992eaf476?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ca5fb63-7c5a-4ae4-8620-b1bffeb3eba9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90313bdd-6214-4fb9-a80f-3c08c2e73571?rule=$_59.AUTO"
    ],
    "ts": "2026-08-25",
    "loc": "12099 Tempelhof",
@@ -318,21 +345,6 @@
    "loc": "12099 Tempelhof",
    "d": "14.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
-  },
-  {
-   "id": "3484584104",
-   "t": "⚡ CORSAIR RM850x 850W NETZTEIL ⚡ VOLLMODULAR | 80 PLUS GOLD",
-   "p": "89 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d22d97d7-f6df-4088-b007-346b9e8c684b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d22d97d7-f6df-4088-b007-346b9e8c684b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab2d7fe4-6dfe-4ece-9b2d-b0f451f330cb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24d0a89e-3609-40c7-ad97-6a1007a57854?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-14",
-   "loc": "12099 Tempelhof",
-   "d": "14.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-rm850x-850w-netzteil-vollmodular-80-plus-gold-/3484584104-225-3409"
   },
   {
    "id": "3484559555",
@@ -376,19 +388,6 @@
    "loc": "12099 Tempelhof",
    "d": "13.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
-  },
-  {
-   "id": "3482133685",
-   "t": "Nintendo Switch 2 256GB mit 3 Spielen & Zubehör ⭐ TOP Zustand",
-   "p": "429 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-11",
-   "loc": "12099 Tempelhof",
-   "d": "11.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-2-256gb-mit-3-spielen-zubehoer-top-zustand/3482133685-279-3409"
   },
   {
    "id": "3473749675",
@@ -629,9 +628,9 @@
    "p": "149 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9ae65aeb-87c6-4105-b730-2c0032b83bb7?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
    ],
    "ts": "2026-05-22",
    "loc": "12099 Tempelhof",
