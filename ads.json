@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-11T10:04:53+00:00",
+ "generated": "2026-09-12T10:05:34+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 46,
  "ads": [
+  {
+   "id": "3509737780",
+   "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
+   "p": "1.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-11",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 17:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409"
+  },
   {
    "id": "3508870906",
    "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
@@ -14,7 +29,7 @@
    ],
    "ts": "2026-09-10",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:47",
+   "d": "10.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   },
   {
@@ -27,7 +42,7 @@
    ],
    "ts": "2026-09-10",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:09",
+   "d": "10.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-2-256gb-mit-3-spielen-zubehoer-top-zustand/3482133685-279-3409"
   },
   {
