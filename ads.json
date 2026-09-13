@@ -1,21 +1,62 @@
 {
- "generated": "2026-09-12T10:05:34+00:00",
+ "generated": "2026-09-13T10:13:25+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 46,
  "ads": [
+  {
+   "id": "3484582000",
+   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
+   "p": "89 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
+  },
+  {
+   "id": "3510577324",
+   "t": "⭐️ TOP ANGEBOT ⭐️ IPHONE 15 PRO 128GB REFURBISHED",
+   "p": "439 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93885c8d-6f12-45cf-ae73-aee8870cfd9b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93885c8d-6f12-45cf-ae73-aee8870cfd9b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac9f3175-11b2-4708-97bf-61252201ac63?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0bf1f5a-2bab-4e20-9148-2768bc67bcdb?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-12",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 15:37",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-15-pro-128gb-refurbished/3510577324-173-3409"
+  },
+  {
+   "id": "3483572280",
+   "t": "ASUS ROG Strix G713P 17” Ryzen 9 RTX 4060 16GB 1TB SSD",
+   "p": "1.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-12",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 14:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
+  },
   {
    "id": "3509737780",
    "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
    "p": "1.049 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO"
    ],
    "ts": "2026-09-11",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:07",
+   "d": "11.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409"
   },
   {
@@ -24,8 +65,7 @@
    "p": "1.111 € VB",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO"
    ],
    "ts": "2026-09-10",
    "loc": "12099 Tempelhof",
@@ -81,29 +121,12 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO"
    ],
    "ts": "2026-09-07",
    "loc": "12099 Tempelhof",
    "d": "07.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
-  },
-  {
-   "id": "3504041162",
-   "t": "⭐️ META QUEST 3 512GB ⭐️ MIT OVP ⭐️ GEBRAUCHT",
-   "p": "349 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b61506-f8c9-4aa1-97cf-b49bed2ee12b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1d6905-a4e1-497f-9200-2b0f15ce4233?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c7c11d5-54ea-424c-9330-107c3665552f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-512gb-mit-ovp-gebraucht/3504041162-168-3409"
   },
   {
    "id": "3504036865",
@@ -347,21 +370,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-m3-11-wi-fi-256gb-pencil-pro-batteriezustand-98-/3488913967-285-3409"
   },
   {
-   "id": "3484582000",
-   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
-   "p": "89 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-14",
-   "loc": "12099 Tempelhof",
-   "d": "14.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
-  },
-  {
    "id": "3484559555",
    "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
    "p": "149 €",
@@ -390,19 +398,6 @@
    "loc": "12099 Tempelhof",
    "d": "14.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
-  },
-  {
-   "id": "3483572280",
-   "t": "ASUS ROG Strix G713P 17” Ryzen 9 RTX 4060 16GB 1TB SSD",
-   "p": "1.049 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
   },
   {
    "id": "3473749675",
@@ -438,7 +433,7 @@
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f225fd4-4720-426e-9c1d-01a2a93bda2e?rule=$_59.AUTO"
    ],
    "ts": "2026-07-25",
    "loc": "12099 Tempelhof",
@@ -585,9 +580,7 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -628,9 +621,7 @@
    "p": "279 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO"
    ],
    "ts": "2026-07-15",
    "loc": "12099 Tempelhof",
