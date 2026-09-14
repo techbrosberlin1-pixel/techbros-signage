@@ -1,8 +1,53 @@
 {
- "generated": "2026-09-13T10:13:25+00:00",
+ "generated": "2026-09-14T10:05:54+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 46,
+ "count": 45,
  "ads": [
+  {
+   "id": "3484559555",
+   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-13",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 17:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
+  },
+  {
+   "id": "3484556914",
+   "t": "⚡ SAMSUNG 990 EVO PLUS 2TB NVMe SSD ⚡",
+   "p": "210 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/473f7cea-bb36-498b-a735-013ea1b89d9a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d15b5a-bd96-4fe5-9c4c-bf31e8f0f078?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-13",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 15:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
+  },
+  {
+   "id": "3459493616",
+   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
+   "p": "279 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-13",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 15:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
+  },
   {
    "id": "3484582000",
    "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
@@ -15,7 +60,7 @@
    ],
    "ts": "2026-09-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:09",
+   "d": "Gestern, 11:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
@@ -30,7 +75,7 @@
    ],
    "ts": "2026-09-12",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:37",
+   "d": "12.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-15-pro-128gb-refurbished/3510577324-173-3409"
   },
   {
@@ -43,7 +88,7 @@
    ],
    "ts": "2026-09-12",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:09",
+   "d": "12.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
   },
   {
@@ -65,7 +110,8 @@
    "p": "1.111 € VB",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
    ],
    "ts": "2026-09-10",
    "loc": "12099 Tempelhof",
@@ -121,7 +167,9 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
    ],
    "ts": "2026-09-07",
    "loc": "12099 Tempelhof",
@@ -177,9 +225,7 @@
    "p": "229 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO"
    ],
    "ts": "2026-09-01",
    "loc": "12099 Tempelhof",
@@ -355,51 +401,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-geforce-rtx-5080-16gb-grafikkarte-neu-versiegelt-/3494690255-225-3409"
   },
   {
-   "id": "3488913967",
-   "t": "Apple iPad Air M3 11” Wi-Fi 256GB +Pencil Pro Batteriezustand 98%",
-   "p": "629 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eeb0457-1b98-42c2-91df-2868bf67b520?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eeb0457-1b98-42c2-91df-2868bf67b520?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/545bc81b-5aef-4e63-b2f4-9ee6d3b9e845?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7c1602b-515d-4ad5-a9a0-8949faee36e4?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-19",
-   "loc": "12099 Tempelhof",
-   "d": "19.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-m3-11-wi-fi-256gb-pencil-pro-batteriezustand-98-/3488913967-285-3409"
-  },
-  {
-   "id": "3484559555",
-   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
-   "p": "149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-14",
-   "loc": "12099 Tempelhof",
-   "d": "14.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
-  },
-  {
-   "id": "3484556914",
-   "t": "⚡ SAMSUNG 990 EVO PLUS 2TB NVMe SSD ⚡",
-   "p": "210 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/473f7cea-bb36-498b-a735-013ea1b89d9a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d15b5a-bd96-4fe5-9c4c-bf31e8f0f078?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-14",
-   "loc": "12099 Tempelhof",
-   "d": "14.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
-  },
-  {
    "id": "3473749675",
    "t": "iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027",
    "p": "729 €",
@@ -433,7 +434,7 @@
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f225fd4-4720-426e-9c1d-01a2a93bda2e?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
    ],
    "ts": "2026-07-25",
    "loc": "12099 Tempelhof",
@@ -580,7 +581,9 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -614,19 +617,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.07.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
-  },
-  {
-   "id": "3459493616",
-   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
-   "p": "279 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
    "id": "3415111307",
