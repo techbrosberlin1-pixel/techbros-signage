@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T10:05:54+00:00",
+ "generated": "2026-09-15T10:06:09+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 44,
  "ads": [
   {
    "id": "3484559555",
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-09-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:09",
+   "d": "13.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
@@ -30,7 +30,7 @@
    ],
    "ts": "2026-09-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:09",
+   "d": "13.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
   },
   {
@@ -45,7 +45,7 @@
    ],
    "ts": "2026-09-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:09",
+   "d": "13.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
@@ -60,23 +60,8 @@
    ],
    "ts": "2026-09-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:09",
+   "d": "13.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
-  },
-  {
-   "id": "3510577324",
-   "t": "⭐️ TOP ANGEBOT ⭐️ IPHONE 15 PRO 128GB REFURBISHED",
-   "p": "439 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93885c8d-6f12-45cf-ae73-aee8870cfd9b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93885c8d-6f12-45cf-ae73-aee8870cfd9b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac9f3175-11b2-4708-97bf-61252201ac63?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0bf1f5a-2bab-4e20-9148-2768bc67bcdb?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-12",
-   "loc": "12099 Tempelhof",
-   "d": "12.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-15-pro-128gb-refurbished/3510577324-173-3409"
   },
   {
    "id": "3483572280",
@@ -97,7 +82,9 @@
    "p": "1.049 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
    ],
    "ts": "2026-09-11",
    "loc": "12099 Tempelhof",
@@ -225,7 +212,9 @@
    "p": "229 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
    ],
    "ts": "2026-09-01",
    "loc": "12099 Tempelhof",
@@ -596,9 +585,7 @@
    "p": "159 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
