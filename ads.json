@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-15T10:06:09+00:00",
+ "generated": "2026-09-16T10:04:52+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 43,
  "ads": [
+  {
+   "id": "3513642075",
+   "t": "⭐️ DELL G16 7630 GAMING LAPTOP – RTX 4060 & 32GB ⭐️",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb6439af-b41b-4aab-9156-89536427079a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb6439af-b41b-4aab-9156-89536427079a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d98dc0f2-875f-43fc-b4e6-bf730cbe1ae3?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/088a1777-438b-4305-b79c-7a4a3f3e4c96?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-15",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 15:49",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-dell-g16-7630-gaming-laptop-rtx-4060-32gb-/3513642075-278-3409"
+  },
+  {
+   "id": "3513521435",
+   "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
+   "p": "799 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebcae335-4d90-45f2-a827-42a1be3695cd?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-15",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:20",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
+  },
   {
    "id": "3484559555",
    "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
@@ -17,21 +47,6 @@
    "loc": "12099 Tempelhof",
    "d": "13.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
-  },
-  {
-   "id": "3484556914",
-   "t": "⚡ SAMSUNG 990 EVO PLUS 2TB NVMe SSD ⚡",
-   "p": "210 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54c1f233-7b62-4063-a181-9c389c9a392a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/473f7cea-bb36-498b-a735-013ea1b89d9a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d15b5a-bd96-4fe5-9c4c-bf31e8f0f078?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-evo-plus-2tb-nvme-ssd-/3484556914-225-3409"
   },
   {
    "id": "3459493616",
@@ -179,21 +194,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
   },
   {
-   "id": "3504026973",
-   "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP wie NEU 100% Akku",
-   "p": "1.099 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55a5aafd-8288-4d99-b305-cd0de5307708?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7e3c0b-0534-475f-9681-ec2512133dbe?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c22e707-61ed-4500-a86a-8953aa794209?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-wie-neu-100-akku/3504026973-278-3409"
-  },
-  {
    "id": "3502131017",
    "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
    "p": "VB",
@@ -279,9 +279,7 @@
    "p": "449 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbf97c03-0139-4f31-8bd1-ad4594472478?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c321be62-5d58-4119-9f21-85f07a6056d8?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO"
    ],
    "ts": "2026-08-29",
    "loc": "12099 Tempelhof",
@@ -345,21 +343,6 @@
    "loc": "12099 Tempelhof",
    "d": "26.08.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/revox-b77-4-spur-bandmaschine-tonbandgeraet-original-haube/3495397244-172-3409"
-  },
-  {
-   "id": "3495358861",
-   "t": "⭐️ iPhone 16e 128GB OVP | TOP Zustand | 4 Zyklen | RUS SIMLOCK ⭐️",
-   "p": "299 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40941e6c-1a87-437b-8b6b-e9da7bd3fbd2?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40941e6c-1a87-437b-8b6b-e9da7bd3fbd2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3256c30-164e-4f58-90bb-d43e7f305390?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e649a48-f557-4f3e-a324-06e63f39384b?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16e-128gb-ovp-top-zustand-4-zyklen-rus-simlock-/3495358861-173-3409"
   },
   {
    "id": "3495342786",
@@ -555,9 +538,7 @@
    "p": "419 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1851cb3-0e54-40ae-825e-65817b0d4ecf?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/537b64b7-220e-4323-9644-713261c10907?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO"
    ],
    "ts": "2026-07-24",
    "loc": "12099 Tempelhof",
@@ -570,9 +551,7 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -585,7 +564,9 @@
    "p": "159 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
    ],
    "ts": "2026-07-22",
    "loc": "12099 Tempelhof",
@@ -611,9 +592,7 @@
    "p": "149 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO"
    ],
    "ts": "2026-05-22",
    "loc": "12099 Tempelhof",
