@@ -1,35 +1,22 @@
 {
- "generated": "2026-09-17T10:04:44+00:00",
+ "generated": "2026-09-18T10:05:21+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 44,
  "ads": [
   {
-   "id": "3514390041",
-   "t": "⭐️ SAMSUNG GALAXY Z FOLD7 256GB ⭐️ SEHR GUT ⭐️ 100% AKKU",
-   "p": "799 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7137a49-ad68-4962-832e-eb6383d73425?rule=$_59.AUTO",
+   "id": "3515351598",
+   "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 13 Pro Max mit OVP | 81% Akku",
+   "p": "449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59851543-6e8b-4755-a969-d5c87aab9979?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7137a49-ad68-4962-832e-eb6383d73425?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59851543-6e8b-4755-a969-d5c87aab9979?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cdc83e0-a489-429d-b6b5-f74b7b895569?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e32ba9e-08cc-410f-8103-9e9f5e6187bd?rule=$_59.AUTO"
    ],
-   "ts": "2026-09-16",
+   "ts": "2026-09-17",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:03",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-z-fold7-256gb-sehr-gut-100-akku/3514390041-173-3409"
-  },
-  {
-   "id": "3514386191",
-   "t": "⭐️ SAMSUNG GALAXY Z FLIP7 256GB ⭐️ SEHR GUTER ZUSTAND ⭐️",
-   "p": "569 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e565090-e3e3-47d3-83dc-f5a61cb2efec?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e565090-e3e3-47d3-83dc-f5a61cb2efec?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9618f50-a213-4833-a81a-9f7808f4e24e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b912d94-5a37-4a2a-9071-b051b20a6a75?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-16",
-   "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:59",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-z-flip7-256gb-sehr-guter-zustand-/3514386191-173-3409"
+   "d": "Gestern, 15:32",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-13-pro-max-mit-ovp-81-akku/3515351598-173-3409"
   },
   {
    "id": "3513642075",
