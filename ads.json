@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-18T10:05:21+00:00",
+ "generated": "2026-09-19T10:04:48+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 43,
  "ads": [
   {
    "id": "3515351598",
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-09-17",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:32",
+   "d": "17.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-13-pro-max-mit-ovp-81-akku/3515351598-173-3409"
   },
   {
@@ -192,21 +192,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
-  },
-  {
-   "id": "3504036865",
-   "t": "⭐️ SAMSUNG GALAXY S26 256GB ⭐️ 100% AKKU",
-   "p": "499 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e09562-ceb8-4812-80b2-63f57a37b215?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074854a6-4699-45d6-8e6d-4bf54fd82dea?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54f0355b-fa22-48b8-b8b4-52025a586a49?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-05",
-   "loc": "12099 Tempelhof",
-   "d": "05.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-s26-256gb-100-akku/3504036865-173-3409"
   },
   {
    "id": "3502131017",
