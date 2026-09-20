@@ -1,8 +1,68 @@
 {
- "generated": "2026-09-19T10:04:48+00:00",
+ "generated": "2026-09-20T10:05:21+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 43,
+ "count": 44,
  "ads": [
+  {
+   "id": "3465680868",
+   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
+   "p": "159 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-20",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
+  },
+  {
+   "id": "3415111307",
+   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-19",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
+  },
+  {
+   "id": "3517102148",
+   "t": "⭐️ GIGABYTE GEFORCE RTX 5060 Ti 8GB ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59282757-ab44-47d2-9547-b34d43b054bd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59282757-ab44-47d2-9547-b34d43b054bd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dd12f21-4bb8-4a47-a6b3-159b91462d1e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40e392c5-d59a-474d-80a6-5b8122ebca9c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-19",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 14:41",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-gigabyte-geforce-rtx-5060-ti-8gb-/3517102148-225-3409"
+  },
+  {
+   "id": "3517011210",
+   "t": "⭐️ META QUEST 3S 256GB VR/MR HEADSET TOP ZUSTAND ⭐️",
+   "p": "249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a5931d-6006-4d75-94ee-a137a7a3f809?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a5931d-6006-4d75-94ee-a137a7a3f809?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95e95b55-59cb-4bc7-9cb4-7cd54e8dffb9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e2f88b8-aee8-4ba2-bd4c-458e0b28f700?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-19",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:36",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3s-256gb-vr-mr-headset-top-zustand-/3517011210-279-3409"
+  },
   {
    "id": "3515351598",
    "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 13 Pro Max mit OVP | 81% Akku",
@@ -334,7 +394,7 @@
   {
    "id": "3495397244",
    "t": "Revox B77 4-Spur Bandmaschine Tonbandgerät + Original Haube",
-   "p": "1.299 €",
+   "p": "1.049 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/452ada52-b427-4f5a-832c-02bb56fead5d?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/452ada52-b427-4f5a-832c-02bb56fead5d?rule=$_59.AUTO",
@@ -344,12 +404,14 @@
    "ts": "2026-08-26",
    "loc": "12099 Tempelhof",
    "d": "26.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/revox-b77-4-spur-bandmaschine-tonbandgeraet-original-haube/3495397244-172-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/revox-b77-4-spur-bandmaschine-tonbandgeraet-original-haube/3495397244-172-3409",
+   "p_alt": "1.299 €",
+   "p_seit": "2026-09-20"
   },
   {
    "id": "3495342786",
    "t": "⭐TOP ⭐ Samsung Galaxy S26+ 512GB ⭐ NEU & VERSIEGELT ⭐",
-   "p": "799 €",
+   "p": "749 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO"
@@ -357,22 +419,9 @@
    "ts": "2026-08-26",
    "loc": "12099 Tempelhof",
    "d": "26.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409"
-  },
-  {
-   "id": "3494690255",
-   "t": "⭐️ MSI GEFORCE RTX 5080 16GB Grafikkarte Neu & Versiegelt ⭐️",
-   "p": "1.299 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c61a05a-8e37-40d8-93a1-8420186814b1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ca5fb63-7c5a-4ae4-8620-b1bffeb3eba9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90313bdd-6214-4fb9-a80f-3c08c2e73571?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-25",
-   "loc": "12099 Tempelhof",
-   "d": "25.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-geforce-rtx-5080-16gb-grafikkarte-neu-versiegelt-/3494690255-225-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409",
+   "p_alt": "799 €",
+   "p_seit": "2026-09-20"
   },
   {
    "id": "3473749675",
@@ -565,21 +614,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
   },
   {
-   "id": "3465680868",
-   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
-   "p": "159 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
-  },
-  {
    "id": "3465646701",
    "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
    "p": "999 €",
@@ -591,21 +625,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.07.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
-  },
-  {
-   "id": "3415111307",
-   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
-   "p": "149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
-   ],
-   "ts": "2026-05-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.05.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
   }
  ]
 }
