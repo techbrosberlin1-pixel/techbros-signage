@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-20T10:05:21+00:00",
+ "generated": "2026-09-21T10:05:01+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 44,
  "ads": [
+  {
+   "id": "3465646701",
+   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-20",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
+  },
+  {
+   "id": "3465705678",
+   "t": "⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-20",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 14:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
+  },
   {
    "id": "3465680868",
    "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
@@ -15,7 +43,7 @@
    ],
    "ts": "2026-09-20",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:09",
+   "d": "Gestern, 08:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
   },
   {
@@ -30,7 +58,7 @@
    ],
    "ts": "2026-09-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:09",
+   "d": "19.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
   },
   {
@@ -45,7 +73,7 @@
    ],
    "ts": "2026-09-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:41",
+   "d": "19.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-gigabyte-geforce-rtx-5060-ti-8gb-/3517102148-225-3409"
   },
   {
@@ -60,7 +88,7 @@
    ],
    "ts": "2026-09-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:36",
+   "d": "19.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3s-256gb-vr-mr-headset-top-zustand-/3517011210-279-3409"
   },
   {
@@ -597,34 +625,6 @@
    "loc": "12099 Tempelhof",
    "d": "24.07.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
-  },
-  {
-   "id": "3465705678",
-   "t": "⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️",
-   "p": "179 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
-  },
-  {
-   "id": "3465646701",
-   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
   }
  ]
 }
