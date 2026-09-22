@@ -1,19 +1,60 @@
 {
- "generated": "2026-09-21T10:05:01+00:00",
+ "generated": "2026-09-22T10:05:26+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 43,
  "ads": [
+  {
+   "id": "3466896994",
+   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
+  },
+  {
+   "id": "3466906302",
+   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
+  },
+  {
+   "id": "3466909732",
+   "t": "HiFi Anlage verkaufen | Ankauf Berlin",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/hifi-anlage-verkaufen-ankauf-berlin/3466909732-172-3409"
+  },
   {
    "id": "3465646701",
    "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
    "p": "999 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca8c4986-c582-4fc3-b820-16a2aa498e06?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13280b9c-f093-4da9-87a5-0f01a6aafa4a?rule=$_59.AUTO"
    ],
    "ts": "2026-09-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:09",
+   "d": "20.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
   },
   {
@@ -28,7 +69,7 @@
    ],
    "ts": "2026-09-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:09",
+   "d": "20.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
   },
   {
@@ -43,7 +84,7 @@
    ],
    "ts": "2026-09-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:09",
+   "d": "20.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
   },
   {
@@ -60,21 +101,6 @@
    "loc": "12099 Tempelhof",
    "d": "19.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
-  },
-  {
-   "id": "3517102148",
-   "t": "⭐️ GIGABYTE GEFORCE RTX 5060 Ti 8GB ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59282757-ab44-47d2-9547-b34d43b054bd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59282757-ab44-47d2-9547-b34d43b054bd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dd12f21-4bb8-4a47-a6b3-159b91462d1e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40e392c5-d59a-474d-80a6-5b8122ebca9c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-19",
-   "loc": "12099 Tempelhof",
-   "d": "19.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-gigabyte-geforce-rtx-5060-ti-8gb-/3517102148-225-3409"
   },
   {
    "id": "3517011210",
@@ -187,7 +213,9 @@
    "p": "1.049 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9f1bd95-9542-4d5a-ad87-6631db2df20a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2381891-b7d8-46de-8247-b23d51d94d45?rule=$_59.AUTO"
    ],
    "ts": "2026-09-12",
    "loc": "12099 Tempelhof",
@@ -229,7 +257,9 @@
    "p": "429 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f35d1e09-725b-4e95-ad39-4546db5f317b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066be368-35e9-4f03-8e95-fd6a2f2839c5?rule=$_59.AUTO"
    ],
    "ts": "2026-09-10",
    "loc": "12099 Tempelhof",
@@ -354,7 +384,9 @@
    "p": "1.129 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1e04e1-669f-452d-a6cb-c32f43d7db20?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1e04e1-669f-452d-a6cb-c32f43d7db20?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd1e04e1-669f-452d-a6cb-c32f43d7db20?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
    ],
    "ts": "2026-08-29",
    "loc": "12099 Tempelhof",
@@ -412,7 +444,9 @@
    "p": "829 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f54856a8-5fa9-408f-a769-3e615f57cf02?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ce7af07-65e7-4fd4-8ab9-d263ddac2718?rule=$_59.AUTO"
    ],
    "ts": "2026-08-29",
    "loc": "12099 Tempelhof",
@@ -442,7 +476,9 @@
    "p": "749 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b1adac2-9930-4dcf-b7bb-34ab80be350a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f9eec46-350e-4c57-a217-734485809aff?rule=$_59.AUTO"
    ],
    "ts": "2026-08-26",
    "loc": "12099 Tempelhof",
@@ -457,7 +493,9 @@
    "p": "729 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e98c7ba-ad2f-46bd-82e4-30c72d36aae6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eabc3204-3de4-41c2-b608-39d5dad2a653?rule=$_59.AUTO"
    ],
    "ts": "2026-08-01",
    "loc": "12099 Tempelhof",
@@ -470,7 +508,9 @@
    "p": "759 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82e2a8b5-4eeb-4c5d-b05f-2b4caf089db0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f77944-18dd-4ddd-99c7-218bfe810a9a?rule=$_59.AUTO"
    ],
    "ts": "2026-07-28",
    "loc": "12099 Tempelhof",
@@ -534,19 +574,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
   },
   {
-   "id": "3466909732",
-   "t": "HiFi Anlage verkaufen | Ankauf Berlin",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-24",
-   "loc": "12099 Tempelhof",
-   "d": "24.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/hifi-anlage-verkaufen-ankauf-berlin/3466909732-172-3409"
-  },
-  {
    "id": "3466907897",
    "t": "Kamera Ankauf Berlin | Canon Sony Nikon verkaufen",
    "p": "VB",
@@ -560,19 +587,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/kamera-ankauf-berlin-canon-sony-nikon-verkaufen/3466907897-245-3409"
   },
   {
-   "id": "3466906302",
-   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-24",
-   "loc": "12099 Tempelhof",
-   "d": "24.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
-  },
-  {
    "id": "3466899960",
    "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
    "p": "VB",
@@ -584,19 +598,6 @@
    "loc": "12099 Tempelhof",
    "d": "24.07.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
-  },
-  {
-   "id": "3466896994",
-   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-07-24",
-   "loc": "12099 Tempelhof",
-   "d": "24.07.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
   },
   {
    "id": "3466895658",
