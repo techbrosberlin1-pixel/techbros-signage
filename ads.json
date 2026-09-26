@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-25T10:04:58+00:00",
+ "generated": "2026-09-26T10:04:53+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 44,
  "ads": [
   {
    "id": "3495397244",
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-09-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 09:10",
+   "d": "Gestern, 09:10",
    "url": "https://www.kleinanzeigen.de/s-anzeige/revox-b77-4-spur-bandmaschine-tonbandgeraet-original-haube/3495397244-172-3409",
    "p_alt": "1.299 €",
    "p_seit": "2026-09-20"
@@ -32,7 +32,7 @@
    ],
    "ts": "2026-09-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:08",
+   "d": "Gestern, 08:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409",
    "p_alt": "799 €",
    "p_seit": "2026-09-20"
@@ -230,21 +230,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/hifi-anlage-verkaufen-ankauf-berlin/3466909732-172-3409"
-  },
-  {
-   "id": "3465646701",
-   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42367083-af46-4d36-aca2-a48acd094aaf?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca8c4986-c582-4fc3-b820-16a2aa498e06?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13280b9c-f093-4da9-87a5-0f01a6aafa4a?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3465646701-278-3409"
   },
   {
    "id": "3465705678",
