@@ -1,8 +1,51 @@
 {
- "generated": "2026-09-27T10:04:58+00:00",
+ "generated": "2026-09-28T10:06:35+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 47,
  "ads": [
+  {
+   "id": "3497960027",
+   "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
+  },
+  {
+   "id": "3497572327",
+   "t": "⭐️ TOP ANGEBOT ⭐️ THERMOMIX TM6 BLACK DIAMOND ⭐️",
+   "p": "829 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f54856a8-5fa9-408f-a769-3e615f57cf02?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ce7af07-65e7-4fd4-8ab9-d263ddac2718?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409"
+  },
+  {
+   "id": "3497589121",
+   "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
+   "p": "479 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ebf3001-f820-4ae0-93e8-06acd4e0b00b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43e00556-1932-421b-8692-6f48d49bff07?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
+  },
   {
    "id": "3523741277",
    "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
@@ -15,7 +58,7 @@
    ],
    "ts": "2026-09-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:34",
+   "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   },
   {
@@ -30,7 +73,7 @@
    ],
    "ts": "2026-09-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:17",
+   "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
   },
   {
@@ -45,7 +88,7 @@
    ],
    "ts": "2026-09-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:12",
+   "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
   },
   {
@@ -54,13 +97,13 @@
    "p": "759 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82e2a8b5-4eeb-4c5d-b05f-2b4caf089db0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f77944-18dd-4ddd-99c7-218bfe810a9a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec3e603e-f4ee-4646-9053-dbf888c6d2b1?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f77944-18dd-4ddd-99c7-218bfe810a9a?rule=$_59.AUTO"
    ],
    "ts": "2026-09-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:08",
+   "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-16-pro-max-256gb-94-akku-case-folie/3470810103-173-3409"
   },
   {
@@ -148,9 +191,9 @@
    "p": "249 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f225fd4-4720-426e-9c1d-01a2a93bda2e?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
    ],
    "ts": "2026-09-23",
    "loc": "12099 Tempelhof",
@@ -585,19 +628,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
   },
   {
-   "id": "3497960027",
-   "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
-  },
-  {
    "id": "3497742902",
    "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
    "p": "1.199 €",
@@ -628,21 +658,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
   },
   {
-   "id": "3497589121",
-   "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
-   "p": "479 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ebf3001-f820-4ae0-93e8-06acd4e0b00b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43e00556-1932-421b-8692-6f48d49bff07?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
-  },
-  {
    "id": "3497576676",
    "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
    "p": "949 €",
@@ -658,21 +673,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409",
    "p_alt": "969 €",
    "p_seit": "2026-09-24"
-  },
-  {
-   "id": "3497572327",
-   "t": "⭐️ TOP ANGEBOT ⭐️ THERMOMIX TM6 BLACK DIAMOND ⭐️",
-   "p": "829 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f54856a8-5fa9-408f-a769-3e615f57cf02?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ce7af07-65e7-4fd4-8ab9-d263ddac2718?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409"
   },
   {
    "id": "3473749675",
