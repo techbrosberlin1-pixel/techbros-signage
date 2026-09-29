@@ -1,8 +1,81 @@
 {
- "generated": "2026-09-28T10:06:35+00:00",
+ "generated": "2026-09-29T10:06:04+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 47,
  "ads": [
+  {
+   "id": "3497576676",
+   "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
+   "p": "949 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81544a44-26cb-4247-862d-158d5d94d546?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96dcf852-b3bc-41b5-8858-b4002a73645f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 17:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409",
+   "p_alt": "969 €",
+   "p_seit": "2026-09-24"
+  },
+  {
+   "id": "3497963217",
+   "t": "Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
+  },
+  {
+   "id": "3497612126",
+   "t": "⭐️ iMac Retina 5K 27” 2017 | i7 | 64GB | 512GB SSD ⭐️",
+   "p": "449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbf97c03-0139-4f31-8bd1-ad4594472478?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c321be62-5d58-4119-9f21-85f07a6056d8?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
+  },
+  {
+   "id": "3497961759",
+   "t": "MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 14:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
+  },
+  {
+   "id": "3497742902",
+   "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
+   "p": "1.199 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-28",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 12:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
+  },
   {
    "id": "3497960027",
    "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
@@ -13,7 +86,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:08",
+   "d": "Gestern, 11:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
   },
   {
@@ -28,7 +101,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:08",
+   "d": "Gestern, 10:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409"
   },
   {
@@ -43,7 +116,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:08",
+   "d": "Gestern, 08:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
   },
   {
@@ -600,79 +673,6 @@
    "loc": "12099 Tempelhof",
    "d": "01.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-vivobook-flip-14-touch-i5-512gb-ssd-8gb-ram-/3500748113-278-3409"
-  },
-  {
-   "id": "3497963217",
-   "t": "Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
-  },
-  {
-   "id": "3497961759",
-   "t": "MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
-  },
-  {
-   "id": "3497742902",
-   "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
-   "p": "1.199 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
-  },
-  {
-   "id": "3497612126",
-   "t": "⭐️ iMac Retina 5K 27” 2017 | i7 | 64GB | 512GB SSD ⭐️",
-   "p": "449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbf97c03-0139-4f31-8bd1-ad4594472478?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c321be62-5d58-4119-9f21-85f07a6056d8?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
-  },
-  {
-   "id": "3497576676",
-   "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
-   "p": "949 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81544a44-26cb-4247-862d-158d5d94d546?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96dcf852-b3bc-41b5-8858-b4002a73645f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409",
-   "p_alt": "969 €",
-   "p_seit": "2026-09-24"
   },
   {
    "id": "3473749675",
