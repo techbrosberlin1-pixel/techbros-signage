@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-29T10:06:04+00:00",
+ "generated": "2026-09-30T10:07:13+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 49,
  "ads": [
+  {
+   "id": "3526473270",
+   "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
+   "p": "129 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62fdd086-7294-425e-8475-78ee53e86919?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33a0e6b9-8c6c-4ab3-96e4-b7e0fe73e6cc?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-29",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:43",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
+  },
+  {
+   "id": "3526467595",
+   "t": "⭐️ TOP ANGEBOT ⭐️ BROTHER ADS-1800W DUPLEXSCANNER ⭐️",
+   "p": "229 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d83c4456-04aa-442f-b2f7-e448ff066a43?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d83c4456-04aa-442f-b2f7-e448ff066a43?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e99c273-d51c-4af6-b5a2-df85ff5fc65d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0df90e03-e834-4304-bec2-73e5256bc587?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-29",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:37",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-brother-ads-1800w-duplexscanner-/3526467595-225-3409"
+  },
   {
    "id": "3497576676",
    "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409",
    "p_alt": "969 €",
    "p_seit": "2026-09-24"
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
   },
   {
@@ -58,7 +88,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
   },
   {
@@ -73,7 +103,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
   },
   {
@@ -86,7 +116,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
   },
   {
@@ -101,7 +131,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409"
   },
   {
@@ -116,7 +146,7 @@
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:08",
+   "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
   },
   {
