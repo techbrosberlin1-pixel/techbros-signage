@@ -1,8 +1,55 @@
 {
- "generated": "2026-09-30T10:07:13+00:00",
+ "generated": "2026-10-01T10:07:51+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 49,
  "ads": [
+  {
+   "id": "3527924493",
+   "t": "⭐️ PLAYSTATION 5 DISC EDITION + 2TB SSD ⭐️ TOP ZUSTAND ⭐️",
+   "p": "599 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2087c7a9-788a-426c-b370-2be4dac9377b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58888293-73b0-4af1-b890-6bbf9523f68f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-01",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:48",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
+  },
+  {
+   "id": "3527883706",
+   "t": "⭐️ PS5 PRO 2TB + DISC DRIVE + 2 CONTROLLER ⭐️ OVP ⭐️",
+   "p": "1.349 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61a88382-3ca3-455e-8cd5-fe791adcf2cf?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61a88382-3ca3-455e-8cd5-fe791adcf2cf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ae9a077-248b-41cc-9d83-2abf15ddf230?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-01",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:03",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409"
+  },
+  {
+   "id": "3473749675",
+   "t": "iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027",
+   "p": "699 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1394cb9d-f358-495f-9119-91acb04cc748?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1394cb9d-f358-495f-9119-91acb04cc748?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e98c7ba-ad2f-46bd-82e4-30c72d36aae6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eabc3204-3de4-41c2-b608-39d5dad2a653?rule=$_59.AUTO"
+   ],
+   "ts": "2026-09-30",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 14:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-air-256gb-wie-neu-100-akku-apple-schutz-bis-05-2027/3473749675-173-3409",
+   "p_alt": "729 €",
+   "p_seit": "2026-10-01"
+  },
   {
    "id": "3526473270",
    "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
@@ -15,7 +62,7 @@
    ],
    "ts": "2026-09-29",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:43",
+   "d": "29.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
   },
   {
@@ -30,7 +77,7 @@
    ],
    "ts": "2026-09-29",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:37",
+   "d": "29.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-brother-ads-1800w-duplexscanner-/3526467595-225-3409"
   },
   {
@@ -122,17 +169,19 @@
   {
    "id": "3497572327",
    "t": "⭐️ TOP ANGEBOT ⭐️ THERMOMIX TM6 BLACK DIAMOND ⭐️",
-   "p": "829 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
+   "p": "799 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8354c249-a196-45a6-930f-66d7237ec5e5?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60a8a3b3-666c-49c2-9921-c0e6ad5100cd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8354c249-a196-45a6-930f-66d7237ec5e5?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f54856a8-5fa9-408f-a769-3e615f57cf02?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ce7af07-65e7-4fd4-8ab9-d263ddac2718?rule=$_59.AUTO"
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-thermomix-tm6-black-diamond-/3497572327-176-3409",
+   "p_alt": "829 €",
+   "p_seit": "2026-10-01"
   },
   {
    "id": "3497589121",
@@ -197,17 +246,19 @@
   {
    "id": "3470810103",
    "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 16 Pro Max 256GB 94% Akku Case & Folie",
-   "p": "759 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
+   "p": "729 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95b2509d-e524-493e-a6d8-cd0c00d75867?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de87f3ae-c29b-48f2-b3a9-31ead1b1d7b5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95b2509d-e524-493e-a6d8-cd0c00d75867?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82e2a8b5-4eeb-4c5d-b05f-2b4caf089db0?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f77944-18dd-4ddd-99c7-218bfe810a9a?rule=$_59.AUTO"
    ],
    "ts": "2026-09-26",
    "loc": "12099 Tempelhof",
    "d": "26.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-16-pro-max-256gb-94-akku-case-folie/3470810103-173-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-16-pro-max-256gb-94-akku-case-folie/3470810103-173-3409",
+   "p_alt": "759 €",
+   "p_seit": "2026-10-01"
   },
   {
    "id": "3495397244",
@@ -373,19 +424,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/nokia-8800-silber-mit-ovp-top-zustand-sammlerstueck-luxus/3467115735-173-3409"
   },
   {
-   "id": "3466895658",
-   "t": "iPhone Ankauf Berlin | Sofort Geld für dein iPhone",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/907ff98c-0e18-44a2-a79a-e87f7f43da8a?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/907ff98c-0e18-44a2-a79a-e87f7f43da8a?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-geld-fuer-dein-iphone/3466895658-173-3409"
-  },
-  {
    "id": "3466899960",
    "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
    "p": "VB",
@@ -470,7 +508,7 @@
   {
    "id": "3415111307",
    "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
-   "p": "149 €",
+   "p": "139 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
@@ -480,7 +518,9 @@
    "ts": "2026-09-19",
    "loc": "12099 Tempelhof",
    "d": "19.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409",
+   "p_alt": "149 €",
+   "p_seit": "2026-10-01"
   },
   {
    "id": "3515351598",
@@ -516,11 +556,11 @@
    "id": "3513521435",
    "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
    "p": "799 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebcae335-4d90-45f2-a827-42a1be3695cd?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
    ],
    "ts": "2026-09-15",
    "loc": "12099 Tempelhof",
@@ -573,21 +613,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
-   "id": "3483572280",
-   "t": "ASUS ROG Strix G713P 17” Ryzen 9 RTX 4060 16GB 1TB SSD",
-   "p": "1.049 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2977b914-b915-4ecc-9324-3261516dd69e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9f1bd95-9542-4d5a-ad87-6631db2df20a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2381891-b7d8-46de-8247-b23d51d94d45?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-12",
-   "loc": "12099 Tempelhof",
-   "d": "12.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/asus-rog-strix-g713p-17-ryzen-9-rtx-4060-16gb-1tb-ssd/3483572280-278-3409"
-  },
-  {
    "id": "3509737780",
    "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
    "p": "1.049 €",
@@ -635,11 +660,11 @@
    "id": "3506956763",
    "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
    "p": "899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7bdddde-0cdb-4dea-9436-d6239f3160c2?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/165d88c7-ac97-40aa-a33d-834502f821fb?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/165d88c7-ac97-40aa-a33d-834502f821fb?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7bdddde-0cdb-4dea-9436-d6239f3160c2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941ef7b5-1516-4669-bdc7-69a8617bc2a9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15615a76-ec33-4b63-948d-a172409fd6b3?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941ef7b5-1516-4669-bdc7-69a8617bc2a9?rule=$_59.AUTO"
    ],
    "ts": "2026-09-08",
    "loc": "12099 Tempelhof",
@@ -693,9 +718,9 @@
    "id": "3500748113",
    "t": "⭐️ ASUS VIVOBOOK FLIP 14” TOUCH • i5 • 512GB SSD • 8GB RAM ⭐️",
    "p": "229 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f69d7902-ce6d-4272-8390-de9003eb4800?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
    ],
@@ -703,21 +728,6 @@
    "loc": "12099 Tempelhof",
    "d": "01.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-vivobook-flip-14-touch-i5-512gb-ssd-8gb-ram-/3500748113-278-3409"
-  },
-  {
-   "id": "3473749675",
-   "t": "iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027",
-   "p": "729 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/446b11f1-e651-421c-bcdd-e88313ee83b6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e98c7ba-ad2f-46bd-82e4-30c72d36aae6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eabc3204-3de4-41c2-b608-39d5dad2a653?rule=$_59.AUTO"
-   ],
-   "ts": "2026-08-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.08.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-air-256gb-wie-neu-100-akku-apple-schutz-bis-05-2027/3473749675-173-3409"
   }
  ]
 }
