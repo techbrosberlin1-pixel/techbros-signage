@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-01T10:07:51+00:00",
+ "generated": "2026-10-02T10:04:57+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 49,
+ "count": 47,
  "ads": [
+  {
+   "id": "3528109611",
+   "t": "⭐️ TOP ANGEBOT ⭐️ RAZER BLADE 15 ⭐️ RTX 3070 Ti ⭐️",
+   "p": "699 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5116428-e3d6-48d8-a07d-1570a39acf17?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5116428-e3d6-48d8-a07d-1570a39acf17?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21ede5ac-677a-49b7-a627-d64a006c2c6e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4350c0f7-7113-4df4-8770-c2d663e96836?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-01",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:59",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-razer-blade-15-rtx-3070-ti-/3528109611-278-3409"
+  },
+  {
+   "id": "3528077644",
+   "t": "⭐️ TOP ANGEBOT ⭐️ ASUS ROG STRIX G17 GAMING NOTEBOOK ⭐️",
+   "p": "749 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed7519cd-c54d-4e57-8eaa-d2995abd2a70?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed7519cd-c54d-4e57-8eaa-d2995abd2a70?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/837a0e9b-ac9c-442e-8450-04365870362f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9ca6f0d9-49fb-4ad2-88be-58e5dc580a82?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-01",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:26",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-gaming-notebook-/3528077644-278-3409"
+  },
+  {
+   "id": "3500748113",
+   "t": "⭐️ ASUS VIVOBOOK FLIP 14” TOUCH • i5 • 512GB SSD • 8GB RAM ⭐️",
+   "p": "229 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-01",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 13:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-vivobook-flip-14-touch-i5-512gb-ssd-8gb-ram-/3500748113-278-3409"
+  },
   {
    "id": "3527924493",
    "t": "⭐️ PLAYSTATION 5 DISC EDITION + 2TB SSD ⭐️ TOP ZUSTAND ⭐️",
@@ -15,7 +60,7 @@
    ],
    "ts": "2026-10-01",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:48",
+   "d": "Gestern, 10:48",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
   },
   {
@@ -30,7 +75,7 @@
    ],
    "ts": "2026-10-01",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:03",
+   "d": "Gestern, 10:03",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409"
   },
   {
@@ -45,7 +90,7 @@
    ],
    "ts": "2026-09-30",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:09",
+   "d": "30.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-air-256gb-wie-neu-100-akku-apple-schutz-bis-05-2027/3473749675-173-3409",
    "p_alt": "729 €",
    "p_seit": "2026-10-01"
@@ -113,7 +158,7 @@
   {
    "id": "3497612126",
    "t": "⭐️ iMac Retina 5K 27” 2017 | i7 | 64GB | 512GB SSD ⭐️",
-   "p": "449 €",
+   "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb91bcfe-e08c-4f6a-97f1-eb624de395c7?rule=$_59.AUTO",
@@ -123,7 +168,9 @@
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-retina-5k-27-2017-i7-64gb-512gb-ssd-/3497612126-228-3409",
+   "p_alt": "449 €",
+   "p_seit": "2026-10-02"
   },
   {
    "id": "3497961759",
@@ -186,7 +233,7 @@
   {
    "id": "3497589121",
    "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
-   "p": "479 €",
+   "p": "419 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
@@ -196,7 +243,9 @@
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409",
+   "p_alt": "479 €",
+   "p_seit": "2026-10-02"
   },
   {
    "id": "3523741277",
@@ -325,21 +374,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-mac-mini-m1-16gb-256gb-2020-/3521277748-228-3409"
   },
   {
-   "id": "3521269484",
-   "t": "⭐️ META QUEST 3 128GB + KIWI K4 BOOST ⭐️ TOP ZUSTAND | OVP",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a49180-c855-4c74-9017-5a0ac5a12bfc?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a49180-c855-4c74-9017-5a0ac5a12bfc?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fd2d9a5-a76e-4c55-890f-3a23e60b8392?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa7ab64-54ec-4fa4-802e-0d91cf29e869?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-128gb-kiwi-k4-boost-top-zustand-ovp/3521269484-279-3409"
-  },
-  {
    "id": "3467798668",
    "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
    "p": "249 €",
@@ -463,19 +497,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
   },
   {
-   "id": "3466909732",
-   "t": "HiFi Anlage verkaufen | Ankauf Berlin",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/935682a4-033b-4f68-8161-f38b85bd0108?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/hifi-anlage-verkaufen-ankauf-berlin/3466909732-172-3409"
-  },
-  {
    "id": "3465705678",
    "t": "⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️",
    "p": "179 €",
@@ -523,34 +544,21 @@
    "p_seit": "2026-10-01"
   },
   {
-   "id": "3515351598",
-   "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 13 Pro Max mit OVP | 81% Akku",
-   "p": "449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59851543-6e8b-4755-a969-d5c87aab9979?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59851543-6e8b-4755-a969-d5c87aab9979?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cdc83e0-a489-429d-b6b5-f74b7b895569?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e32ba9e-08cc-410f-8103-9e9f5e6187bd?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-17",
-   "loc": "12099 Tempelhof",
-   "d": "17.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-13-pro-max-mit-ovp-81-akku/3515351598-173-3409"
-  },
-  {
    "id": "3513642075",
    "t": "⭐️ DELL G16 7630 GAMING LAPTOP – RTX 4060 & 32GB ⭐️",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb6439af-b41b-4aab-9156-89536427079a?rule=$_59.AUTO",
+   "p": "869 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bda47330-6716-4cb8-a1af-baefa69fd476?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb6439af-b41b-4aab-9156-89536427079a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bda47330-6716-4cb8-a1af-baefa69fd476?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d98dc0f2-875f-43fc-b4e6-bf730cbe1ae3?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/088a1777-438b-4305-b79c-7a4a3f3e4c96?rule=$_59.AUTO"
    ],
    "ts": "2026-09-15",
    "loc": "12099 Tempelhof",
    "d": "15.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-dell-g16-7630-gaming-laptop-rtx-4060-32gb-/3513642075-278-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-dell-g16-7630-gaming-laptop-rtx-4060-32gb-/3513642075-278-3409",
+   "p_alt": "999 €",
+   "p_seit": "2026-10-02"
   },
   {
    "id": "3513521435",
@@ -642,21 +650,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   },
   {
-   "id": "3482133685",
-   "t": "Nintendo Switch 2 256GB mit 3 Spielen & Zubehör ⭐ TOP Zustand",
-   "p": "429 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfe5ad6a-7075-4df5-9034-a10a7234b61d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f35d1e09-725b-4e95-ad39-4546db5f317b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066be368-35e9-4f03-8e95-fd6a2f2839c5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-2-256gb-mit-3-spielen-zubehoer-top-zustand/3482133685-279-3409"
-  },
-  {
    "id": "3506956763",
    "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
    "p": "899 €",
@@ -713,21 +706,6 @@
    "loc": "12099 Tempelhof",
    "d": "03.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
-  },
-  {
-   "id": "3500748113",
-   "t": "⭐️ ASUS VIVOBOOK FLIP 14” TOUCH • i5 • 512GB SSD • 8GB RAM ⭐️",
-   "p": "229 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-vivobook-flip-14-touch-i5-512gb-ssd-8gb-ram-/3500748113-278-3409"
   }
  ]
 }
