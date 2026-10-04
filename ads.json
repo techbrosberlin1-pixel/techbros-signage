@@ -1,8 +1,21 @@
 {
- "generated": "2026-10-03T10:05:03+00:00",
+ "generated": "2026-10-04T16:07:44+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 48,
  "ads": [
+  {
+   "id": "3502131017",
+   "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-03",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
+  },
   {
    "id": "3529146969",
    "t": "⭐ TOP ANGEBOT ⭐ GIGABYTE G5 KF5 2024 ⭐ RTX 4060 ⭐",
@@ -15,7 +28,7 @@
    ],
    "ts": "2026-10-02",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:59",
+   "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-gigabyte-g5-kf5-2024-rtx-4060-/3529146969-278-3409"
   },
   {
@@ -30,7 +43,7 @@
    ],
    "ts": "2026-10-02",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:50",
+   "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-macbook-pro-13-m1-256gb-8gb-91-akku/3529018474-278-3409"
   },
   {
@@ -45,7 +58,7 @@
    ],
    "ts": "2026-10-02",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:40",
+   "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-hp-pavilion-gaming-15-ryzen-5-gtx-1650-16gb-512gb-/3528841915-278-3409"
   },
   {
@@ -60,7 +73,7 @@
    ],
    "ts": "2026-10-02",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:03",
+   "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
   },
   {
@@ -708,19 +721,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
-  },
-  {
-   "id": "3502131017",
-   "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-03",
-   "loc": "12099 Tempelhof",
-   "d": "03.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
   }
  ]
 }
