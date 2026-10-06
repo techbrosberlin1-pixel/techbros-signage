@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-05T18:58:32+00:00",
+ "generated": "2026-10-06T16:24:33+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 42,
  "ads": [
+  {
+   "id": "3533176592",
+   "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP 100% Akku",
+   "p": "1.029 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37a3e39a-a65a-40b3-bc9a-a19db6c9b783?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37a3e39a-a65a-40b3-bc9a-a19db6c9b783?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7f51436-c763-4bcc-ac9b-46dd39a78a1b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08344ae2-b129-45e8-85bb-adfceb3db856?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-06",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:31",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-100-akku/3533176592-278-3409"
+  },
+  {
+   "id": "3533008948",
+   "t": "⭐️ META QUEST 3 128GB + KIWI K4 BOOST ⭐️ TOP ZUSTAND | OVP",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eef8e5af-6bf0-407f-87df-8a13f7564ad4?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eef8e5af-6bf0-407f-87df-8a13f7564ad4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d43ab911-ee4e-4dbc-880a-ee7ed1dbd212?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56717526-4871-45ed-8dde-625278b268be?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-06",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:39",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-128gb-kiwi-k4-boost-top-zustand-ovp/3533008948-279-3409"
+  },
   {
    "id": "3502131017",
    "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
@@ -32,36 +62,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-gigabyte-g5-kf5-2024-rtx-4060-/3529146969-278-3409"
   },
   {
-   "id": "3529018474",
-   "t": "⭐️ TOP ANGEBOT ⭐️ MACBOOK PRO 13” M1 256GB 8GB ⭐️ 91% AKKU",
-   "p": "449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc8be1b0-4673-4324-a24e-cbbbb869da04?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc8be1b0-4673-4324-a24e-cbbbb869da04?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2822baca-9dbf-4052-8523-8adc7ae4da6b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e2f51ac-3ac7-4d24-80cf-aa47795b357f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-02",
-   "loc": "12099 Tempelhof",
-   "d": "02.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-macbook-pro-13-m1-256gb-8gb-91-akku/3529018474-278-3409"
-  },
-  {
-   "id": "3528841915",
-   "t": "⭐️ HP PAVILION GAMING 15 ⭐️ RYZEN 5 • GTX 1650 • 16GB • 512GB ⭐️",
-   "p": "299 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/480cb764-dfe2-461e-a9ee-ba62b107e0f1?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/480cb764-dfe2-461e-a9ee-ba62b107e0f1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/467bb535-2bc7-45d7-bcde-ec1dda91ba23?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ccad57-c89f-4758-a0c6-62c150047769?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-02",
-   "loc": "12099 Tempelhof",
-   "d": "02.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-hp-pavilion-gaming-15-ryzen-5-gtx-1650-16gb-512gb-/3528841915-278-3409"
-  },
-  {
    "id": "3528806304",
    "t": "⭐️ TOP ANGEBOT ⭐️ INSTA360 X6 ESSENTIALS-BUNDLE NEU VERSIEGELT ⭐️",
    "p": "749 €",
@@ -75,21 +75,6 @@
    "loc": "12099 Tempelhof",
    "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
-  },
-  {
-   "id": "3528109611",
-   "t": "⭐️ TOP ANGEBOT ⭐️ RAZER BLADE 15 ⭐️ RTX 3070 Ti ⭐️",
-   "p": "699 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5116428-e3d6-48d8-a07d-1570a39acf17?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5116428-e3d6-48d8-a07d-1570a39acf17?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21ede5ac-677a-49b7-a627-d64a006c2c6e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4350c0f7-7113-4df4-8770-c2d663e96836?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-razer-blade-15-rtx-3070-ti-/3528109611-278-3409"
   },
   {
    "id": "3500748113",
@@ -167,21 +152,6 @@
    "loc": "12099 Tempelhof",
    "d": "29.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
-  },
-  {
-   "id": "3526467595",
-   "t": "⭐️ TOP ANGEBOT ⭐️ BROTHER ADS-1800W DUPLEXSCANNER ⭐️",
-   "p": "229 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d83c4456-04aa-442f-b2f7-e448ff066a43?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d83c4456-04aa-442f-b2f7-e448ff066a43?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e99c273-d51c-4af6-b5a2-df85ff5fc65d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0df90e03-e834-4304-bec2-73e5256bc587?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-brother-ads-1800w-duplexscanner-/3526467595-225-3409"
   },
   {
    "id": "3497576676",
@@ -368,38 +338,6 @@
    "p_seit": "2026-09-20"
   },
   {
-   "id": "3495342786",
-   "t": "⭐TOP ⭐ Samsung Galaxy S26+ 512GB ⭐ NEU & VERSIEGELT ⭐",
-   "p": "749 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c5521f-c1e2-4519-8751-17ce5d5b3246?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b1adac2-9930-4dcf-b7bb-34ab80be350a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f9eec46-350e-4c57-a217-734485809aff?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-25",
-   "loc": "12099 Tempelhof",
-   "d": "25.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-samsung-galaxy-s26-512gb-neu-versiegelt-/3495342786-173-3409",
-   "p_alt": "799 €",
-   "p_seit": "2026-09-20"
-  },
-  {
-   "id": "3521285556",
-   "t": "⭐️ TOP ANGEBOT ⭐️ MAC MINI M4 16GB 256GB SSD MIT OVP 749€",
-   "p": "749 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15cbaf03-7b3f-4aa4-920a-f01775924f17?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15cbaf03-7b3f-4aa4-920a-f01775924f17?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3e0e00e-bef4-4b6b-b551-cca6919c5c61?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29b1347c-ca10-4897-85e8-84cf2a51daf1?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-mac-mini-m4-16gb-256gb-ssd-mit-ovp-749-/3521285556-228-3409"
-  },
-  {
    "id": "3521277748",
    "t": "⭐️ TOP ANGEBOT ⭐️ MAC MINI M1 16GB 256GB 2020 ⭐️",
    "p": "449 €",
@@ -572,23 +510,6 @@
    "p_seit": "2026-10-01"
   },
   {
-   "id": "3513642075",
-   "t": "⭐️ DELL G16 7630 GAMING LAPTOP – RTX 4060 & 32GB ⭐️",
-   "p": "869 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bda47330-6716-4cb8-a1af-baefa69fd476?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bda47330-6716-4cb8-a1af-baefa69fd476?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d98dc0f2-875f-43fc-b4e6-bf730cbe1ae3?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/088a1777-438b-4305-b79c-7a4a3f3e4c96?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-dell-g16-7630-gaming-laptop-rtx-4060-32gb-/3513642075-278-3409",
-   "p_alt": "999 €",
-   "p_seit": "2026-10-02"
-  },
-  {
    "id": "3513521435",
    "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
    "p": "799 €",
@@ -676,21 +597,6 @@
    "loc": "12099 Tempelhof",
    "d": "10.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
-  },
-  {
-   "id": "3506956763",
-   "t": "⭐️ MSI CYBORG 15 GAMING LAPTOP ⭐️ RTX 5060 ⭐️ TOP ZUSTAND ⭐️",
-   "p": "899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/165d88c7-ac97-40aa-a33d-834502f821fb?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/165d88c7-ac97-40aa-a33d-834502f821fb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7bdddde-0cdb-4dea-9436-d6239f3160c2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941ef7b5-1516-4669-bdc7-69a8617bc2a9?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-08",
-   "loc": "12099 Tempelhof",
-   "d": "08.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-msi-cyborg-15-gaming-laptop-rtx-5060-top-zustand-/3506956763-278-3409"
   },
   {
    "id": "3431737075",
