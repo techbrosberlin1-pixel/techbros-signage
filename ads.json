@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-06T16:24:33+00:00",
+ "generated": "2026-10-07T17:06:12+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 42,
  "ads": [
+  {
+   "id": "3430905293",
+   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 18:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
+  },
+  {
+   "id": "3533808456",
+   "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
+   "p": "1.899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/106d8f91-f3b7-411c-9cda-61ccc6101a41?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
+  },
   {
    "id": "3533176592",
    "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP 100% Akku",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-10-06",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:31",
+   "d": "Gestern, 17:31",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-100-akku/3533176592-278-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-10-06",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:39",
+   "d": "Gestern, 14:39",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-128gb-kiwi-k4-boost-top-zustand-ovp/3533008948-279-3409"
   },
   {
@@ -109,17 +139,19 @@
   {
    "id": "3527883706",
    "t": "⭐️ PS5 PRO 2TB + DISC DRIVE + 2 CONTROLLER ⭐️ OVP ⭐️",
-   "p": "1.349 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61a88382-3ca3-455e-8cd5-fe791adcf2cf?rule=$_59.AUTO",
+   "p": "1.249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22dfd8e-0a34-45d8-bab9-5caef4d35748?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61a88382-3ca3-455e-8cd5-fe791adcf2cf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22dfd8e-0a34-45d8-bab9-5caef4d35748?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ae9a077-248b-41cc-9d83-2abf15ddf230?rule=$_59.AUTO"
    ],
    "ts": "2026-10-01",
    "loc": "12099 Tempelhof",
    "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409",
+   "p_alt": "1.349 €",
+   "p_seit": "2026-10-07"
   },
   {
    "id": "3473749675",
@@ -302,23 +334,6 @@
    "loc": "12099 Tempelhof",
    "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
-  },
-  {
-   "id": "3470810103",
-   "t": "⭐️ TOP ANGEBOT ⭐️ iPhone 16 Pro Max 256GB 94% Akku Case & Folie",
-   "p": "729 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95b2509d-e524-493e-a6d8-cd0c00d75867?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95b2509d-e524-493e-a6d8-cd0c00d75867?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82e2a8b5-4eeb-4c5d-b05f-2b4caf089db0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f77944-18dd-4ddd-99c7-218bfe810a9a?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-iphone-16-pro-max-256gb-94-akku-case-folie/3470810103-173-3409",
-   "p_alt": "759 €",
-   "p_seit": "2026-10-01"
   },
   {
    "id": "3495397244",
@@ -612,21 +627,6 @@
    "loc": "12099 Tempelhof",
    "d": "08.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
-  },
-  {
-   "id": "3430905293",
-   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-07",
-   "loc": "12099 Tempelhof",
-   "d": "07.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
   }
  ]
 }
