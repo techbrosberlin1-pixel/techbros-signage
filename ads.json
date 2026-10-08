@@ -1,8 +1,68 @@
 {
- "generated": "2026-10-07T17:06:12+00:00",
+ "generated": "2026-10-08T17:06:26+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 42,
+ "count": 45,
  "ads": [
+  {
+   "id": "3534767779",
+   "t": "HP OMEN MAX 16 ⭐ RTX 5070 Ti ⭐ Ryzen AI 9 ⭐ 32GB ⭐ Wie NEU",
+   "p": "1.999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da3880cd-fa0c-4a65-abbd-417a89acfb2f?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da3880cd-fa0c-4a65-abbd-417a89acfb2f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d401749-93b8-45ce-b021-225e1b6c8d9a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3585f37c-458d-4730-9510-e0b8cbb81132?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:01",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/hp-omen-max-16-rtx-5070-ti-ryzen-ai-9-32gb-wie-neu/3534767779-278-3409"
+  },
+  {
+   "id": "3534580778",
+   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb701d90-d02c-4b05-bcdf-7f0e29991612?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a37aa451-9f1b-4d39-93cd-d5d550b7bb86?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:00",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
+  },
+  {
+   "id": "3534576098",
+   "t": "Apple MacBook Air 15” M4 16GB 256GB ⭐ Wie NEU ⭐ AppleCare+ 07/27",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93316280-3997-40b2-a593-1f29ae054351?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/185e99a4-f3e0-4f62-b499-4f2fda13b098?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:56",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m4-16gb-256gb-wie-neu-applecare-07-27/3534576098-278-3409"
+  },
+  {
+   "id": "3431737075",
+   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
+  },
   {
    "id": "3430905293",
    "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
@@ -15,22 +75,22 @@
    ],
    "ts": "2026-10-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 18:07",
+   "d": "Gestern, 18:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
   },
   {
    "id": "3533808456",
    "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
    "p": "1.899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
    "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/106d8f91-f3b7-411c-9cda-61ccc6101a41?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO"
    ],
    "ts": "2026-10-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:08",
+   "d": "Gestern, 14:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   },
   {
@@ -45,7 +105,7 @@
    ],
    "ts": "2026-10-06",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:31",
+   "d": "06.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-100-akku/3533176592-278-3409"
   },
   {
@@ -60,7 +120,7 @@
    ],
    "ts": "2026-10-06",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:39",
+   "d": "06.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-128gb-kiwi-k4-boost-top-zustand-ovp/3533008948-279-3409"
   },
   {
@@ -612,21 +672,6 @@
    "loc": "12099 Tempelhof",
    "d": "10.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
-  },
-  {
-   "id": "3431737075",
-   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-08",
-   "loc": "12099 Tempelhof",
-   "d": "08.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   }
  ]
 }
