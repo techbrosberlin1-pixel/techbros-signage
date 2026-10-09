@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-08T17:06:26+00:00",
+ "generated": "2026-10-09T16:43:56+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 48,
  "ads": [
+  {
+   "id": "3535639272",
+   "t": "Apple MacBook Pro 14” M4 Pro 24GB 512GB OVP 12/26 Schutz",
+   "p": "1.799 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840d4f23-20e8-4c33-a7a6-490be4b0f2b1?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840d4f23-20e8-4c33-a7a6-490be4b0f2b1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01b0513b-2be2-46ff-a48f-995dc62b7ca1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4a5ebf7-0490-4ef0-b579-c0a44a2cbd9c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-09",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:38",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m4-pro-24gb-512gb-ovp-12-26-schutz/3535639272-278-3409"
+  },
+  {
+   "id": "3535403405",
+   "t": "Denon DJ PRIME 4 ⭐ 4-Deck DJ System + Magma Case & Decksaver",
+   "p": "1.599 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e464c69-14c0-4d7f-a76b-8ba81e9c396a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03a06ed2-f1a7-4150-89df-dfa5cf9386cf?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-09",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:56",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
+  },
+  {
+   "id": "3535392667",
+   "t": "⭐ KORG ELECTRIBE 2S SAMPLER ROT ⭐ MIT CASE & NETZTEIL ⭐",
+   "p": "349 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05c63bd8-c9a4-49bd-a2f9-fe05d6a6f4db?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05c63bd8-c9a4-49bd-a2f9-fe05d6a6f4db?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b64241bd-29d9-460d-80bb-1560478dddd6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b31af29f-5044-48fc-9668-7bdf26af15e1?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-09",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:46",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-korg-electribe-2s-sampler-rot-mit-case-netzteil-/3535392667-172-3409"
+  },
   {
    "id": "3534767779",
    "t": "HP OMEN MAX 16 ⭐ RTX 5070 Ti ⭐ Ryzen AI 9 ⭐ 32GB ⭐ Wie NEU",
@@ -15,7 +60,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:01",
+   "d": "Gestern, 16:01",
    "url": "https://www.kleinanzeigen.de/s-anzeige/hp-omen-max-16-rtx-5070-ti-ryzen-ai-9-32gb-wie-neu/3534767779-278-3409"
   },
   {
@@ -30,7 +75,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 13:00",
+   "d": "Gestern, 13:00",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
   },
   {
@@ -45,7 +90,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:56",
+   "d": "Gestern, 12:56",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m4-16gb-256gb-wie-neu-applecare-07-27/3534576098-278-3409"
   },
   {
@@ -60,7 +105,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:08",
+   "d": "Gestern, 08:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -75,7 +120,7 @@
    ],
    "ts": "2026-10-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:07",
+   "d": "07.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
   },
   {
@@ -90,7 +135,7 @@
    ],
    "ts": "2026-10-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:08",
+   "d": "07.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   },
   {
@@ -198,7 +243,7 @@
   },
   {
    "id": "3527883706",
-   "t": "⭐️ PS5 PRO 2TB + DISC DRIVE + 2 CONTROLLER ⭐️ OVP ⭐️",
+   "t": "⭐️ PlayStation 5 PRO 2TB + DISC DRIVE + 2 CONTROLLER ⭐️ OVP ⭐️",
    "p": "1.249 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22dfd8e-0a34-45d8-bab9-5caef4d35748?rule=$_59.AUTO",
    "imgs": [
@@ -209,7 +254,7 @@
    "ts": "2026-10-01",
    "loc": "12099 Tempelhof",
    "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409",
    "p_alt": "1.349 €",
    "p_seit": "2026-10-07"
   },
