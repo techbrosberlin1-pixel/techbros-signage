@@ -1,22 +1,51 @@
 {
- "generated": "2026-10-09T16:43:56+00:00",
+ "generated": "2026-10-10T15:39:35+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 48,
  "ads": [
   {
-   "id": "3535639272",
-   "t": "Apple MacBook Pro 14” M4 Pro 24GB 512GB OVP 12/26 Schutz",
-   "p": "1.799 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840d4f23-20e8-4c33-a7a6-490be4b0f2b1?rule=$_59.AUTO",
+   "id": "3536739477",
+   "t": "Sony PlayStation Portal Remote Player PS5 Weiß ⭐ Ohne OVP",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840d4f23-20e8-4c33-a7a6-490be4b0f2b1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01b0513b-2be2-46ff-a48f-995dc62b7ca1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4a5ebf7-0490-4ef0-b579-c0a44a2cbd9c?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e9e64e2-43bf-4394-9745-46a4c1d9c543?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4772ba1-3f48-4675-9168-a574a67f8e63?rule=$_59.AUTO"
    ],
-   "ts": "2026-10-09",
+   "ts": "2026-10-10",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:38",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m4-pro-24gb-512gb-ovp-12-26-schutz/3535639272-278-3409"
+   "d": "Heute, 16:45",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
+  },
+  {
+   "id": "3536731287",
+   "t": "⭐ Sony Playstation 5 PS5 Disc Edition 825GB ⭐ 2 Controller ⭐",
+   "p": "499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ced270-e05c-43de-a512-889da5039c37?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9726cbd1-adb2-43bc-8a09-205953520ea2?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-10",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:15",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-sony-playstation-5-ps5-disc-edition-825gb-2-controller-/3536731287-279-3409"
+  },
+  {
+   "id": "3508870906",
+   "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
+   "p": "1.111 € VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-10",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   },
   {
    "id": "3535403405",
@@ -30,7 +59,7 @@
    ],
    "ts": "2026-10-09",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:56",
+   "d": "Gestern, 11:56",
    "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
   },
   {
@@ -45,23 +74,8 @@
    ],
    "ts": "2026-10-09",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:46",
+   "d": "Gestern, 11:46",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-korg-electribe-2s-sampler-rot-mit-case-netzteil-/3535392667-172-3409"
-  },
-  {
-   "id": "3534767779",
-   "t": "HP OMEN MAX 16 ⭐ RTX 5070 Ti ⭐ Ryzen AI 9 ⭐ 32GB ⭐ Wie NEU",
-   "p": "1.999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da3880cd-fa0c-4a65-abbd-417a89acfb2f?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da3880cd-fa0c-4a65-abbd-417a89acfb2f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d401749-93b8-45ce-b021-225e1b6c8d9a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3585f37c-458d-4730-9510-e0b8cbb81132?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-08",
-   "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:01",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/hp-omen-max-16-rtx-5070-ti-ryzen-ai-9-32gb-wie-neu/3534767779-278-3409"
   },
   {
    "id": "3534580778",
@@ -75,7 +89,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:00",
+   "d": "08.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
   },
   {
@@ -90,7 +104,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:56",
+   "d": "08.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m4-16gb-256gb-wie-neu-applecare-07-27/3534576098-278-3409"
   },
   {
@@ -105,7 +119,7 @@
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:08",
+   "d": "08.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -703,20 +717,6 @@
    "loc": "12099 Tempelhof",
    "d": "11.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409"
-  },
-  {
-   "id": "3508870906",
-   "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
-   "p": "1.111 € VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   }
  ]
 }
