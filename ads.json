@@ -1,8 +1,51 @@
 {
- "generated": "2026-10-12T19:31:47+00:00",
+ "generated": "2026-10-13T17:15:31+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 48,
  "ads": [
+  {
+   "id": "3484559555",
+   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
+  },
+  {
+   "id": "3459493616",
+   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
+   "p": "279 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
+  },
+  {
+   "id": "3484582000",
+   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
+   "p": "89 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
+  },
   {
    "id": "3509737780",
    "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
@@ -15,7 +58,7 @@
    ],
    "ts": "2026-10-11",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:09",
+   "d": "11.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409"
   },
   {
@@ -39,9 +82,7 @@
    "p": "499 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ced270-e05c-43de-a512-889da5039c37?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9726cbd1-adb2-43bc-8a09-205953520ea2?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO"
    ],
    "ts": "2026-10-10",
    "loc": "12099 Tempelhof",
@@ -113,9 +154,7 @@
    "p": "999 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93316280-3997-40b2-a593-1f29ae054351?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/185e99a4-f3e0-4f62-b499-4f2fda13b098?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO"
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
@@ -128,9 +167,7 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
@@ -670,51 +707,6 @@
    "loc": "12099 Tempelhof",
    "d": "15.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
-  },
-  {
-   "id": "3484559555",
-   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
-   "p": "149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
-  },
-  {
-   "id": "3459493616",
-   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
-   "p": "279 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
-  },
-  {
-   "id": "3484582000",
-   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
-   "p": "89 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   }
  ]
 }
