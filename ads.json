@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-13T17:15:31+00:00",
+ "generated": "2026-10-14T14:48:12+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 45,
  "ads": [
   {
    "id": "3484559555",
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:07",
+   "d": "Gestern, 17:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
@@ -30,7 +30,7 @@
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:08",
+   "d": "Gestern, 15:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
@@ -39,11 +39,13 @@
    "p": "89 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:08",
+   "d": "Gestern, 11:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
@@ -82,7 +84,9 @@
    "p": "499 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ced270-e05c-43de-a512-889da5039c37?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9726cbd1-adb2-43bc-8a09-205953520ea2?rule=$_59.AUTO"
    ],
    "ts": "2026-10-10",
    "loc": "12099 Tempelhof",
@@ -149,25 +153,14 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
   },
   {
-   "id": "3534576098",
-   "t": "Apple MacBook Air 15” M4 16GB 256GB ⭐ Wie NEU ⭐ AppleCare+ 07/27",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59c6c4c9-0cdc-4a07-9e1b-43b2e5721dfd?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-08",
-   "loc": "12099 Tempelhof",
-   "d": "08.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-15-m4-16gb-256gb-wie-neu-applecare-07-27/3534576098-278-3409"
-  },
-  {
    "id": "3431737075",
    "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
    ],
    "ts": "2026-10-08",
    "loc": "12099 Tempelhof",
@@ -218,21 +211,6 @@
    "loc": "12099 Tempelhof",
    "d": "06.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-100-akku/3533176592-278-3409"
-  },
-  {
-   "id": "3533008948",
-   "t": "⭐️ META QUEST 3 128GB + KIWI K4 BOOST ⭐️ TOP ZUSTAND | OVP",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eef8e5af-6bf0-407f-87df-8a13f7564ad4?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eef8e5af-6bf0-407f-87df-8a13f7564ad4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d43ab911-ee4e-4dbc-880a-ee7ed1dbd212?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56717526-4871-45ed-8dde-625278b268be?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-06",
-   "loc": "12099 Tempelhof",
-   "d": "06.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-meta-quest-3-128gb-kiwi-k4-boost-top-zustand-ovp/3533008948-279-3409"
   },
   {
    "id": "3502131017",
@@ -402,17 +380,19 @@
   {
    "id": "3497742902",
    "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
-   "p": "1.199 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
+   "p": "1.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d27d15fe-0319-41eb-9ea8-d30fdd111e76?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
    ],
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409",
+   "p_alt": "1.199 €",
+   "p_seit": "2026-10-14"
   },
   {
    "id": "3497960027",
@@ -645,21 +625,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
-  },
-  {
-   "id": "3465705678",
-   "t": "⭐️ TOP ANGEBOT ⭐️ Meta Quest 3S 128GB mit OVP ⭐️",
-   "p": "179 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/087db6c9-fff2-4319-b726-793561ed3bdd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/3386d8bc-7e04-46b9-b2ff-827cd3f8d07f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fa2e21-e076-4eca-883a-6e14be83a1a7?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-meta-quest-3s-128gb-mit-ovp-/3465705678-279-3409"
   },
   {
    "id": "3465680868",
