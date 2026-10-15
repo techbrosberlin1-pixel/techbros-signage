@@ -1,8 +1,68 @@
 {
- "generated": "2026-10-14T14:48:12+00:00",
+ "generated": "2026-10-15T14:33:48+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 47,
  "ads": [
+  {
+   "id": "3513521435",
+   "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
+   "p": "799 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-15",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
+  },
+  {
+   "id": "3541481474",
+   "t": "⭐ TOP ANGEBOT ⭐ INTEL CORE ULTRA 7 265K ⭐ 20 KERNE ⭐",
+   "p": "239 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/554a01bf-824c-4ac6-a75f-e3f15dcbfea5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39c18880-92e1-4805-828d-4e9bbe8db226?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-15",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:58",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
+  },
+  {
+   "id": "3541475597",
+   "t": "⭐ Samsung 990 PRO 1TB NVMe M.2 SSD PCIe 4.0 ⭐",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1721ca5-dc83-4097-9262-44cad776f97e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17ebeb20-fa8d-47ea-841f-3ae168960f71?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-15",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:52",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
+  },
+  {
+   "id": "3541469624",
+   "t": "⭐ Apple Watch Ultra 2 49mm Naturtitan GPS + LTE ⭐ 94% Akku",
+   "p": "339 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/032e32fa-a458-466d-93de-93e3de781727?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/032e32fa-a458-466d-93de-93e3de781727?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72fd0471-0c76-4efc-86df-c5a6ca4b2cbe?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1769e10e-5d49-47fd-93d0-aa513f2ed98f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-15",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:47",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-watch-ultra-2-49mm-naturtitan-gps-lte-94-akku/3541469624-405-3409"
+  },
   {
    "id": "3484559555",
    "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
@@ -15,7 +75,7 @@
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:07",
+   "d": "13.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
@@ -30,7 +90,7 @@
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:08",
+   "d": "13.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
@@ -45,7 +105,7 @@
    ],
    "ts": "2026-10-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:08",
+   "d": "13.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
@@ -196,21 +256,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
-  },
-  {
-   "id": "3533176592",
-   "t": "MacBook Air 13” M5 16GB 512GB Polarstern OVP 100% Akku",
-   "p": "1.029 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37a3e39a-a65a-40b3-bc9a-a19db6c9b783?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37a3e39a-a65a-40b3-bc9a-a19db6c9b783?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7f51436-c763-4bcc-ac9b-46dd39a78a1b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08344ae2-b129-45e8-85bb-adfceb3db856?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-06",
-   "loc": "12099 Tempelhof",
-   "d": "06.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-air-13-m5-16gb-512gb-polarstern-ovp-100-akku/3533176592-278-3409"
   },
   {
    "id": "3502131017",
@@ -657,21 +702,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409",
    "p_alt": "149 €",
    "p_seit": "2026-10-01"
-  },
-  {
-   "id": "3513521435",
-   "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
-   "p": "799 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
   }
  ]
 }
