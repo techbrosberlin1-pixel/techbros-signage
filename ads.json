@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T14:33:48+00:00",
+ "generated": "2026-10-16T14:25:42+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 47,
  "ads": [
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:08",
+   "d": "Gestern, 16:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
   },
   {
@@ -30,7 +30,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:58",
+   "d": "Gestern, 11:58",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
   },
   {
@@ -45,7 +45,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:52",
+   "d": "Gestern, 11:52",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
   },
   {
@@ -60,7 +60,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:47",
+   "d": "Gestern, 11:47",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-watch-ultra-2-49mm-naturtitan-gps-lte-94-akku/3541469624-405-3409"
   },
   {
@@ -392,9 +392,7 @@
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409",
-   "p_alt": "969 €",
-   "p_seit": "2026-09-24"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409"
   },
   {
    "id": "3497963217",
@@ -533,8 +531,8 @@
   },
   {
    "id": "3495397244",
-   "t": "Revox B77 4-Spur Bandmaschine Tonbandgerät + Original Haube",
-   "p": "1.049 €",
+   "t": "⭐ Revox B77 2-Spur Tonbandmaschine ⭐ Original Haube ⭐",
+   "p": "999 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/452ada52-b427-4f5a-832c-02bb56fead5d?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/452ada52-b427-4f5a-832c-02bb56fead5d?rule=$_59.AUTO",
@@ -544,7 +542,9 @@
    "ts": "2026-09-25",
    "loc": "12099 Tempelhof",
    "d": "25.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/revox-b77-4-spur-bandmaschine-tonbandgeraet-original-haube/3495397244-172-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-revox-b77-2-spur-tonbandmaschine-original-haube-/3495397244-172-3409",
+   "p_alt": "1.049 €",
+   "p_seit": "2026-10-16"
   },
   {
    "id": "3521277748",
