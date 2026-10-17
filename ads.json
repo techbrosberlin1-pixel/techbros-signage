@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-16T14:25:42+00:00",
+ "generated": "2026-10-17T13:22:30+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 46,
  "ads": [
   {
    "id": "3513521435",
@@ -15,7 +15,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:08",
+   "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
   },
   {
@@ -30,7 +30,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:58",
+   "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
   },
   {
@@ -45,7 +45,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:52",
+   "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
   },
   {
@@ -60,7 +60,7 @@
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:47",
+   "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-watch-ultra-2-49mm-naturtitan-gps-lte-94-akku/3541469624-405-3409"
   },
   {
@@ -299,21 +299,6 @@
    "loc": "12099 Tempelhof",
    "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
-  },
-  {
-   "id": "3500748113",
-   "t": "⭐️ ASUS VIVOBOOK FLIP 14” TOUCH • i5 • 512GB SSD • 8GB RAM ⭐️",
-   "p": "229 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b61bfc15-ea8b-43a6-94b1-86c773e9679d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaec36d5-cb8f-41ea-9e52-6f40d4883e05?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b6981b1-155c-44ea-b4cb-221d51918ef5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-vivobook-flip-14-touch-i5-512gb-ssd-8gb-ram-/3500748113-278-3409"
   },
   {
    "id": "3527924493",
