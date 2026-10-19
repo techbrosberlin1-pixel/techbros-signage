@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-17T13:22:30+00:00",
+ "generated": "2026-10-19T16:43:54+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 46,
  "ads": [
+  {
+   "id": "3415111307",
+   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
+   "p": "139 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-19",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 18:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409",
+   "p_alt": "149 €",
+   "p_seit": "2026-10-01"
+  },
   {
    "id": "3513521435",
    "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
@@ -670,23 +687,6 @@
    "loc": "12099 Tempelhof",
    "d": "20.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
-  },
-  {
-   "id": "3415111307",
-   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
-   "p": "139 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-19",
-   "loc": "12099 Tempelhof",
-   "d": "19.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409",
-   "p_alt": "149 €",
-   "p_seit": "2026-10-01"
   }
  ]
 }
