@@ -1,8 +1,68 @@
 {
- "generated": "2026-10-19T16:43:54+00:00",
+ "generated": "2026-10-20T14:35:43+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 46,
+ "count": 48,
  "ads": [
+  {
+   "id": "3546634152",
+   "t": "⭐ iPhone 15 Pro 128GB | 87% Akku | mit OVP ⭐",
+   "p": "449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782c3701-cc97-4e81-a29a-fcb73b786cdc?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782c3701-cc97-4e81-a29a-fcb73b786cdc?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a962553c-d046-4cb8-a843-d804644a7869?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2adcbe1-7f2c-4e90-bcbb-ad36fe778bec?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-20",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:28",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-15-pro-128gb-87-akku-mit-ovp-/3546634152-173-3409"
+  },
+  {
+   "id": "3546614551",
+   "t": "⭐ TOP ANGEBOT ⭐ NINTENDO SWITCH 2 ⭐ WIE NEU ⭐",
+   "p": "419 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fe2cf42-c303-4481-bb0b-9ad94ffe12b6?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fe2cf42-c303-4481-bb0b-9ad94ffe12b6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a593b8d6-e383-4d1a-9ca5-671a0a525fb4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8507dc7b-c2b7-4ce7-8c40-3a3b80f690ef?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-20",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nintendo-switch-2-wie-neu-/3546614551-279-3409"
+  },
+  {
+   "id": "3546520004",
+   "t": "Apple MacBook Air 13” M5 | 16GB RAM | 512GB SSD | NEU & OVP",
+   "p": "1.199 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcef1b57-30f5-486a-8d6e-87564e1b6d5a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcef1b57-30f5-486a-8d6e-87564e1b6d5a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93f8dd05-e702-4cb9-99e7-df62d154a376?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9164857-6d9b-492e-a034-f14badcab422?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-20",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:44",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409"
+  },
+  {
+   "id": "3465680868",
+   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
+   "p": "159 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-20",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
+  },
   {
    "id": "3415111307",
    "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
@@ -15,7 +75,7 @@
    ],
    "ts": "2026-10-19",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 18:08",
+   "d": "Gestern, 18:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409",
    "p_alt": "149 €",
    "p_seit": "2026-10-01"
@@ -146,9 +206,7 @@
    "p": "179 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e9e64e2-43bf-4394-9745-46a4c1d9c543?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4772ba1-3f48-4675-9168-a574a67f8e63?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO"
    ],
    "ts": "2026-10-10",
    "loc": "12099 Tempelhof",
@@ -198,21 +256,6 @@
    "loc": "12099 Tempelhof",
    "d": "09.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
-  },
-  {
-   "id": "3535392667",
-   "t": "⭐ KORG ELECTRIBE 2S SAMPLER ROT ⭐ MIT CASE & NETZTEIL ⭐",
-   "p": "349 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05c63bd8-c9a4-49bd-a2f9-fe05d6a6f4db?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05c63bd8-c9a4-49bd-a2f9-fe05d6a6f4db?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b64241bd-29d9-460d-80bb-1560478dddd6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b31af29f-5044-48fc-9668-7bdf26af15e1?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-09",
-   "loc": "12099 Tempelhof",
-   "d": "09.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-korg-electribe-2s-sampler-rot-mit-case-netzteil-/3535392667-172-3409"
   },
   {
    "id": "3534580778",
@@ -372,9 +415,7 @@
    "p": "129 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62fdd086-7294-425e-8475-78ee53e86919?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33a0e6b9-8c6c-4ab3-96e4-b7e0fe73e6cc?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO"
    ],
    "ts": "2026-09-29",
    "loc": "12099 Tempelhof",
@@ -672,21 +713,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
-  },
-  {
-   "id": "3465680868",
-   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
-   "p": "159 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
   }
  ]
 }
