@@ -1,8 +1,77 @@
 {
- "generated": "2026-10-21T14:46:43+00:00",
+ "generated": "2026-10-22T14:46:33+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 44,
  "ads": [
+  {
+   "id": "3466822106",
+   "t": "⭐️ Lenovo IdeaPad 5 Pro 14\" i5-1240P 16GB 512GB OVP Laptop ⭐️",
+   "p": "419 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1851cb3-0e54-40ae-825e-65817b0d4ecf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/537b64b7-220e-4323-9644-713261c10907?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
+  },
+  {
+   "id": "3467115735",
+   "t": "Nokia 8800 Silber mit OVP ⭐ Top Zustand Sammlerstück Luxus",
+   "p": "480 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5454b038-b2b3-4fe2-aeaf-a8bdf321dfed?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12bb5278-c086-4831-bad9-be356e1ca70d?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nokia-8800-silber-mit-ovp-top-zustand-sammlerstueck-luxus/3467115735-173-3409"
+  },
+  {
+   "id": "3466899960",
+   "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
+  },
+  {
+   "id": "3466906302",
+   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
+  },
+  {
+   "id": "3466896994",
+   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
+  },
   {
    "id": "3546634152",
    "t": "⭐ iPhone 15 Pro 128GB | 87% Akku | mit OVP ⭐",
@@ -15,7 +84,7 @@
    ],
    "ts": "2026-10-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:28",
+   "d": "20.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-15-pro-128gb-87-akku-mit-ovp-/3546634152-173-3409"
   },
   {
@@ -30,7 +99,7 @@
    ],
    "ts": "2026-10-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:09",
+   "d": "20.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nintendo-switch-2-wie-neu-/3546614551-279-3409"
   },
   {
@@ -45,7 +114,7 @@
    ],
    "ts": "2026-10-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:44",
+   "d": "20.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409"
   },
   {
@@ -60,7 +129,7 @@
    ],
    "ts": "2026-10-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:07",
+   "d": "20.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
   },
   {
@@ -288,21 +357,6 @@
    "loc": "12099 Tempelhof",
    "d": "08.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
-  },
-  {
-   "id": "3430905293",
-   "t": "⭐️ Lenovo IdeaPad Slim 3 15” Ryzen 7 7730U 16GB 512GB SSD ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5593229d-ce09-4bff-9183-771813106344?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0f4e3f7-8218-4d7f-9e2b-f5f524dd082b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e64f648-ec63-4042-b110-df4206749a34?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-07",
-   "loc": "12099 Tempelhof",
-   "d": "07.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-slim-3-15-ryzen-7-7730u-16gb-512gb-ssd-/3430905293-278-3409"
   },
   {
    "id": "3533808456",
@@ -599,75 +653,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
-  },
-  {
-   "id": "3466822106",
-   "t": "⭐️ Lenovo IdeaPad 5 Pro 14\" i5-1240P 16GB 512GB OVP Laptop ⭐️",
-   "p": "419 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1851cb3-0e54-40ae-825e-65817b0d4ecf?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/537b64b7-220e-4323-9644-713261c10907?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
-  },
-  {
-   "id": "3467115735",
-   "t": "Nokia 8800 Silber mit OVP ⭐ Top Zustand Sammlerstück Luxus",
-   "p": "480 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65650c57-6529-4620-8a2b-949c095b4fad?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5454b038-b2b3-4fe2-aeaf-a8bdf321dfed?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12bb5278-c086-4831-bad9-be356e1ca70d?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nokia-8800-silber-mit-ovp-top-zustand-sammlerstueck-luxus/3467115735-173-3409"
-  },
-  {
-   "id": "3466899960",
-   "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
-  },
-  {
-   "id": "3466896994",
-   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
-  },
-  {
-   "id": "3466906302",
-   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
   }
  ]
 }
