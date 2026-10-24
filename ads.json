@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-23T14:33:11+00:00",
+ "generated": "2026-10-24T13:44:44+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 43,
  "ads": [
+  {
+   "id": "3467798668",
+   "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
+   "p": "249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-23",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 17:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
+  },
+  {
+   "id": "3549658431",
+   "t": "Apple MacBook Air 13” | 8GB RAM | 256GB SSD | TOP Zustand",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c70692f2-44a5-4146-9c7f-127d34d087e8?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c70692f2-44a5-4146-9c7f-127d34d087e8?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f6209b5-d1df-4379-ae91-3f5e8073bd8a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c89adce4-3675-4485-8d25-c35b1c433195?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-23",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:55",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-8gb-ram-256gb-ssd-top-zustand/3549658431-278-3409"
+  },
   {
    "id": "3549333303",
    "t": "⭐ NVIDIA RTX A4000 16GB DDR6 4x DP Grafikkarte",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:22",
+   "d": "Gestern, 12:22",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 09:08",
+   "d": "Gestern, 09:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-mac-mini-m1-16gb-256gb-2020-/3521277748-228-3409"
   },
   {
@@ -43,7 +73,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 20:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-ankauf-berlin-iphone-17-pro-pro-max-verkaufen/3466932702-173-3409"
   },
   {
@@ -56,7 +86,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
   },
   {
@@ -71,7 +101,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:06",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-fpv-combo-komplettset-1-bat-1-cont-1-motion-controller/3548800262-168-3409"
   },
   {
@@ -86,7 +116,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
   },
   {
@@ -99,7 +129,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
   },
   {
@@ -112,7 +142,7 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
   },
   {
@@ -125,23 +155,8 @@
    ],
    "ts": "2026-10-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:07",
+   "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
-  },
-  {
-   "id": "3546634152",
-   "t": "⭐ iPhone 15 Pro 128GB | 87% Akku | mit OVP ⭐",
-   "p": "449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782c3701-cc97-4e81-a29a-fcb73b786cdc?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782c3701-cc97-4e81-a29a-fcb73b786cdc?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a962553c-d046-4cb8-a843-d804644a7869?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2adcbe1-7f2c-4e90-bcbb-ad36fe778bec?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-15-pro-128gb-87-akku-mit-ovp-/3546634152-173-3409"
   },
   {
    "id": "3546614551",
@@ -277,21 +292,6 @@
    "loc": "12099 Tempelhof",
    "d": "13.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
-  },
-  {
-   "id": "3459493616",
-   "t": "⭐️ TOP ANGEBOT ⭐️ NIKON COOLPIX S9900 MIT OVP ⭐️",
-   "p": "279 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7592384-2406-4476-8e26-8700cda5b66d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5377f777-ff1e-498d-9199-c5fd5015277f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82391c09-d2ad-45ca-b974-c42e20dc0166?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nikon-coolpix-s9900-mit-ovp-/3459493616-245-3409"
   },
   {
    "id": "3484582000",
@@ -503,21 +503,6 @@
    "p_seit": "2026-10-07"
   },
   {
-   "id": "3473749675",
-   "t": "iPhone Air 256GB Wie Neu 100% Akku Apple Schutz bis 05/2027",
-   "p": "699 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1394cb9d-f358-495f-9119-91acb04cc748?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1394cb9d-f358-495f-9119-91acb04cc748?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e98c7ba-ad2f-46bd-82e4-30c72d36aae6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eabc3204-3de4-41c2-b608-39d5dad2a653?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-30",
-   "loc": "12099 Tempelhof",
-   "d": "30.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-air-256gb-wie-neu-100-akku-apple-schutz-bis-05-2027/3473749675-173-3409"
-  },
-  {
    "id": "3526473270",
    "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
    "p": "129 €",
@@ -601,9 +586,7 @@
    "ts": "2026-09-28",
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409",
-   "p_alt": "479 €",
-   "p_seit": "2026-10-02"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
   },
   {
    "id": "3523741277",
@@ -649,21 +632,6 @@
    "loc": "12099 Tempelhof",
    "d": "26.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
-  },
-  {
-   "id": "3467798668",
-   "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
-   "p": "249 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
   }
  ]
 }
