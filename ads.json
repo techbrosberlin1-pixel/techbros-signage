@@ -1,8 +1,23 @@
 {
- "generated": "2026-10-24T13:44:44+00:00",
+ "generated": "2026-10-25T14:01:48+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 43,
+ "count": 44,
  "ads": [
+  {
+   "id": "3550565430",
+   "t": "⭐ TOP ANGEBOT ⭐ Samsung Galaxy S26 Ultra 256GB | NEU & VERSIEGELT",
+   "p": "899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9f5627f-8ec7-43ec-a023-bd639b965543?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdec08ad-ded9-4833-b54b-faa73460c088?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-24",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 16:03",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-samsung-galaxy-s26-ultra-256gb-neu-versiegelt/3550565430-173-3409"
+  },
   {
    "id": "3467798668",
    "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:07",
+   "d": "23.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:55",
+   "d": "23.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-8gb-ram-256gb-ssd-top-zustand/3549658431-278-3409"
   },
   {
@@ -45,7 +60,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:22",
+   "d": "23.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
   },
   {
@@ -60,7 +75,7 @@
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 09:08",
+   "d": "23.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-mac-mini-m1-16gb-256gb-2020-/3521277748-228-3409"
   },
   {
