@@ -1,8 +1,23 @@
 {
- "generated": "2026-10-25T14:01:48+00:00",
+ "generated": "2026-10-26T16:23:14+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 44,
  "ads": [
+  {
+   "id": "3523741277",
+   "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
+   "p": "839 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffdd06be-147d-4483-987f-e437e479756d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d58fd417-5fc0-4b3e-a132-473775e067e5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-26",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
+  },
   {
    "id": "3550565430",
    "t": "⭐ TOP ANGEBOT ⭐ Samsung Galaxy S26 Ultra 256GB | NEU & VERSIEGELT",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-10-24",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:03",
+   "d": "24.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-samsung-galaxy-s26-ultra-256gb-neu-versiegelt/3550565430-173-3409"
   },
   {
@@ -602,21 +617,6 @@
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
-  },
-  {
-   "id": "3523741277",
-   "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
-   "p": "839 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffdd06be-147d-4483-987f-e437e479756d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d58fd417-5fc0-4b3e-a132-473775e067e5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   },
   {
    "id": "3523720745",
