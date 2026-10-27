@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-26T16:23:14+00:00",
+ "generated": "2026-10-27T15:38:00+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 44,
  "ads": [
+  {
+   "id": "3554091252",
+   "t": "Apple MacBook Pro 14″ M5 16GB 512GB OVP | Apple-Schutz 02/27",
+   "p": "1.449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e00c2a-81e2-4e84-8373-a25a58a4fb48?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6637861f-d608-4e37-b10c-bc1a03a142c0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-27",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:15",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
+  },
+  {
+   "id": "3523720745",
+   "t": "⭐️ ASUS DUAL GEFORCE RTX 2060 EVO OC 6GB ⭐️",
+   "p": "169 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1b2831b-4b81-4640-9536-a058e1bb042a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4036afb-01fa-4712-a21d-e1b68941d1be?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-26",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 20:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
+  },
+  {
+   "id": "3523714790",
+   "t": "APPLE AIRPODS MAX ⚫ SPACE GRAU ⚫ LIGHTNING VERSION",
+   "p": "269 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20cbe2b2-3611-4822-932c-8d022bb3d2d0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f75aebc9-18d0-4776-b533-678820f7ac74?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-26",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 19:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
+  },
   {
    "id": "3523741277",
    "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
@@ -15,7 +60,7 @@
    ],
    "ts": "2026-10-26",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:08",
+   "d": "Gestern, 12:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   },
   {
@@ -516,23 +561,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
   },
   {
-   "id": "3527883706",
-   "t": "⭐️ PlayStation 5 PRO 2TB + DISC DRIVE + 2 CONTROLLER ⭐️ OVP ⭐️",
-   "p": "1.249 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22dfd8e-0a34-45d8-bab9-5caef4d35748?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22dfd8e-0a34-45d8-bab9-5caef4d35748?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ae9a077-248b-41cc-9d83-2abf15ddf230?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-disc-drive-2-controller-ovp-/3527883706-279-3409",
-   "p_alt": "1.349 €",
-   "p_seit": "2026-10-07"
-  },
-  {
    "id": "3526473270",
    "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
    "p": "129 €",
@@ -617,36 +645,6 @@
    "loc": "12099 Tempelhof",
    "d": "28.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
-  },
-  {
-   "id": "3523720745",
-   "t": "⭐️ ASUS DUAL GEFORCE RTX 2060 EVO OC 6GB ⭐️",
-   "p": "169 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1b2831b-4b81-4640-9536-a058e1bb042a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4036afb-01fa-4712-a21d-e1b68941d1be?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
-  },
-  {
-   "id": "3523714790",
-   "t": "APPLE AIRPODS MAX ⚫ SPACE GRAU ⚫ LIGHTNING VERSION",
-   "p": "269 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20cbe2b2-3611-4822-932c-8d022bb3d2d0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f75aebc9-18d0-4776-b533-678820f7ac74?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
   }
  ]
 }
