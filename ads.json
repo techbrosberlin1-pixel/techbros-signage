@@ -1,8 +1,109 @@
 {
- "generated": "2026-10-27T15:38:00+00:00",
+ "generated": "2026-10-28T16:22:08+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 46,
  "ads": [
+  {
+   "id": "3497963217",
+   "t": "Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
+  },
+  {
+   "id": "3554927971",
+   "t": "⭐ 2x Pioneer DJ CDJ-2000NXS ⭐ mit Transport-Case ⭐",
+   "p": "2.249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54ebc671-4025-4f84-b735-ef380fe2cca5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54ebc671-4025-4f84-b735-ef380fe2cca5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7498aa7-d595-4c71-a9aa-fbc762c9e16d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9f83ef6-24f3-4b66-8845-d7522979ae99?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:31",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409"
+  },
+  {
+   "id": "3554879225",
+   "t": "⚡ ACER Predator Orion 3000 | i5-14400F | RTX 4060 | 16GB | 512 ⚡",
+   "p": "729 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac71421-5789-4499-90e4-a866b79ce5bd?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac71421-5789-4499-90e4-a866b79ce5bd?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d39bfe-c834-4346-9ad9-8c2d1bf3d329?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62b60cbd-d4bc-4adb-a505-47b26b8341ba?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:03",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-acer-predator-orion-3000-i5-14400f-rtx-4060-16gb-512-/3554879225-228-3409"
+  },
+  {
+   "id": "3497961759",
+   "t": "MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
+  },
+  {
+   "id": "3497742902",
+   "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
+   "p": "1.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409",
+   "p_alt": "1.199 €",
+   "p_seit": "2026-10-14"
+  },
+  {
+   "id": "3497960027",
+   "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
+  },
+  {
+   "id": "3497589121",
+   "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
+   "p": "419 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ebf3001-f820-4ae0-93e8-06acd4e0b00b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43e00556-1932-421b-8692-6f48d49bff07?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
+  },
   {
    "id": "3554091252",
    "t": "Apple MacBook Pro 14″ M5 16GB 512GB OVP | Apple-Schutz 02/27",
@@ -15,7 +116,7 @@
    ],
    "ts": "2026-10-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:15",
+   "d": "Gestern, 16:15",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
   },
   {
@@ -30,7 +131,7 @@
    ],
    "ts": "2026-10-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 20:08",
+   "d": "26.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
   },
   {
@@ -45,7 +146,7 @@
    ],
    "ts": "2026-10-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 19:08",
+   "d": "26.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
   },
   {
@@ -60,7 +161,7 @@
    ],
    "ts": "2026-10-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:08",
+   "d": "26.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   },
   {
@@ -574,77 +675,6 @@
    "loc": "12099 Tempelhof",
    "d": "29.09.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
-  },
-  {
-   "id": "3497963217",
-   "t": "Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41183ac-75f4-4c7b-b135-08bd47714208?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
-  },
-  {
-   "id": "3497961759",
-   "t": "MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c2d5e6d-8cf8-487b-83e2-68b504c8fc78?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
-  },
-  {
-   "id": "3497742902",
-   "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
-   "p": "1.049 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f1377bc-004b-422a-a819-4a41f506c407?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7fcaab-092d-4d3d-95e4-63b79c66edd9?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409",
-   "p_alt": "1.199 €",
-   "p_seit": "2026-10-14"
-  },
-  {
-   "id": "3497960027",
-   "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
-  },
-  {
-   "id": "3497589121",
-   "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
-   "p": "419 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ebf3001-f820-4ae0-93e8-06acd4e0b00b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43e00556-1932-421b-8692-6f48d49bff07?rule=$_59.AUTO"
-   ],
-   "ts": "2026-09-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.09.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
   }
  ]
 }
