@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-30T16:23:56+00:00",
+ "generated": "2026-10-31T15:34:06+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 47,
  "ads": [
+  {
+   "id": "3557250810",
+   "t": "MSI GeForce RTX 5080 16GB GDDR7 | DEFEKT | BITTE BESCHREIBUNG LES",
+   "p": "749 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3b636b-03a9-4046-9b24-6c7561159f8e?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3b636b-03a9-4046-9b24-6c7561159f8e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a545455-193e-4b95-b4fc-8fa1a43f2608?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f5c4cde-46e4-4715-98fc-be5a9c43bd42?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-31",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:11",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5080-16gb-gddr7-defekt-bitte-beschreibung-les/3557250810-225-3409"
+  },
+  {
+   "id": "3557212156",
+   "t": "iPhone 16 Pro Max 256GB ⭐ Sehr guter Zustand ⭐ OVP ⭐",
+   "p": "649 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d624181-34bd-4240-9e9e-682f5c626147?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d624181-34bd-4240-9e9e-682f5c626147?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c64d9dac-6e65-48d0-b9be-6a93f8418907?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46b5a629-38c7-40cf-83d0-bf8f529d5b08?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-31",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:44",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-16-pro-max-256gb-sehr-guter-zustand-ovp-/3557212156-173-3409"
+  },
+  {
+   "id": "3527924493",
+   "t": "⭐️ PLAYSTATION 5 DISC EDITION + 2TB SSD ⭐️ TOP ZUSTAND ⭐️",
+   "p": "599 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2087c7a9-788a-426c-b370-2be4dac9377b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58888293-73b0-4af1-b890-6bbf9523f68f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-31",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
+  },
   {
    "id": "3526473270",
    "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
@@ -15,7 +60,7 @@
    ],
    "ts": "2026-10-29",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:08",
+   "d": "29.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
   },
   {
@@ -77,7 +122,7 @@
   {
    "id": "3497742902",
    "t": "⭐️ FiiO K19 High-End DAC & Kopfhörerverstärker mit OVP ⭐️",
-   "p": "1.049 €",
+   "p": "999 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a86d941-afe1-4ae7-b9fd-85b3e9a851ab?rule=$_59.AUTO",
@@ -88,8 +133,8 @@
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409",
-   "p_alt": "1.199 €",
-   "p_seit": "2026-10-14"
+   "p_alt": "1.049 €",
+   "p_seit": "2026-10-31"
   },
   {
    "id": "3497960027",
@@ -632,19 +677,19 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
   },
   {
-   "id": "3527924493",
-   "t": "⭐️ PLAYSTATION 5 DISC EDITION + 2TB SSD ⭐️ TOP ZUSTAND ⭐️",
-   "p": "599 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
+   "id": "3527883706",
+   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️",
+   "p": "1.099 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2087c7a9-788a-426c-b370-2be4dac9377b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58888293-73b0-4af1-b890-6bbf9523f68f?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6fb3adb-7d91-47fe-ae4f-7e9841ff35d7?rule=$_59.AUTO"
    ],
    "ts": "2026-10-01",
    "loc": "12099 Tempelhof",
    "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
   }
  ]
 }
