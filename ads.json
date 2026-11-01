@@ -1,8 +1,23 @@
 {
- "generated": "2026-10-31T15:34:06+00:00",
+ "generated": "2026-11-01T16:31:50+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 47,
  "ads": [
+  {
+   "id": "3527883706",
+   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️",
+   "p": "1.099 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6fb3adb-7d91-47fe-ae4f-7e9841ff35d7?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-31",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 17:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
+  },
   {
    "id": "3557250810",
    "t": "MSI GeForce RTX 5080 16GB GDDR7 | DEFEKT | BITTE BESCHREIBUNG LES",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:11",
+   "d": "Gestern, 11:11",
    "url": "https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5080-16gb-gddr7-defekt-bitte-beschreibung-les/3557250810-225-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:44",
+   "d": "Gestern, 10:44",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-16-pro-max-256gb-sehr-guter-zustand-ovp-/3557212156-173-3409"
   },
   {
@@ -45,7 +60,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:08",
+   "d": "Gestern, 10:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
   },
   {
@@ -445,9 +460,7 @@
    "p": "799 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO"
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
@@ -675,21 +688,6 @@
    "loc": "12099 Tempelhof",
    "d": "02.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
-  },
-  {
-   "id": "3527883706",
-   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️",
-   "p": "1.099 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6fb3adb-7d91-47fe-ae4f-7e9841ff35d7?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-01",
-   "loc": "12099 Tempelhof",
-   "d": "01.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
   }
  ]
 }
