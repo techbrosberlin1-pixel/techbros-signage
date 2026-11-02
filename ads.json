@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-01T16:31:50+00:00",
+ "generated": "2026-11-02T19:54:53+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 47,
  "ads": [
+  {
+   "id": "3502131017",
+   "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-02",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
+  },
+  {
+   "id": "3528806304",
+   "t": "⭐️ TOP ANGEBOT ⭐️ INSTA360 X6 ESSENTIALS-BUNDLE NEU VERSIEGELT ⭐️",
+   "p": "749 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb577c76-a3c7-4b68-aaa5-4e83ffa24042?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec40c20f-3cfc-4008-9e74-e3647e91f1e3?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-01",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
+  },
   {
    "id": "3527883706",
    "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️",
@@ -15,7 +43,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:08",
+   "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
   },
   {
@@ -30,7 +58,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:11",
+   "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5080-16gb-gddr7-defekt-bitte-beschreibung-les/3557250810-225-3409"
   },
   {
@@ -45,7 +73,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:44",
+   "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-16-pro-max-256gb-sehr-guter-zustand-ovp-/3557212156-173-3409"
   },
   {
@@ -60,7 +88,7 @@
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:08",
+   "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
   },
   {
@@ -185,9 +213,7 @@
    "p": "1.449 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e00c2a-81e2-4e84-8373-a25a58a4fb48?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6637861f-d608-4e37-b10c-bc1a03a142c0?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO"
    ],
    "ts": "2026-10-27",
    "loc": "12099 Tempelhof",
@@ -245,9 +271,7 @@
    "p": "899 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9f5627f-8ec7-43ec-a023-bd639b965543?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdec08ad-ded9-4833-b54b-faa73460c088?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO"
    ],
    "ts": "2026-10-24",
    "loc": "12099 Tempelhof",
@@ -260,9 +284,7 @@
    "p": "249 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO"
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
@@ -445,9 +467,7 @@
    "p": "139 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO"
    ],
    "ts": "2026-10-19",
    "loc": "12099 Tempelhof",
@@ -460,7 +480,9 @@
    "p": "799 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
    ],
    "ts": "2026-10-15",
    "loc": "12099 Tempelhof",
@@ -660,34 +682,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
-  },
-  {
-   "id": "3502131017",
-   "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a510e7ee-7043-4420-b7c8-df7ff9ba5e12?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-03",
-   "loc": "12099 Tempelhof",
-   "d": "03.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
-  },
-  {
-   "id": "3528806304",
-   "t": "⭐️ TOP ANGEBOT ⭐️ INSTA360 X6 ESSENTIALS-BUNDLE NEU VERSIEGELT ⭐️",
-   "p": "749 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb577c76-a3c7-4b68-aaa5-4e83ffa24042?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec40c20f-3cfc-4008-9e74-e3647e91f1e3?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-02",
-   "loc": "12099 Tempelhof",
-   "d": "02.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
   }
  ]
 }
