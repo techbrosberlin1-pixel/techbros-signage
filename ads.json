@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T19:54:53+00:00",
+ "generated": "2026-11-03T17:26:51+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 46,
  "ads": [
   {
    "id": "3502131017",
@@ -13,7 +13,7 @@
    ],
    "ts": "2026-11-02",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:07",
+   "d": "Gestern, 16:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
   },
   {
@@ -28,7 +28,7 @@
    ],
    "ts": "2026-11-01",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:08",
+   "d": "01.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
   },
   {
@@ -45,21 +45,6 @@
    "loc": "12099 Tempelhof",
    "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
-  },
-  {
-   "id": "3557250810",
-   "t": "MSI GeForce RTX 5080 16GB GDDR7 | DEFEKT | BITTE BESCHREIBUNG LES",
-   "p": "749 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3b636b-03a9-4046-9b24-6c7561159f8e?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3b636b-03a9-4046-9b24-6c7561159f8e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a545455-193e-4b95-b4fc-8fa1a43f2608?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f5c4cde-46e4-4715-98fc-be5a9c43bd42?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-31",
-   "loc": "12099 Tempelhof",
-   "d": "31.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/msi-geforce-rtx-5080-16gb-gddr7-defekt-bitte-beschreibung-les/3557250810-225-3409"
   },
   {
    "id": "3557212156",
@@ -122,17 +107,19 @@
   {
    "id": "3554927971",
    "t": "⭐ 2x Pioneer DJ CDJ-2000NXS ⭐ mit Transport-Case ⭐",
-   "p": "2.249 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54ebc671-4025-4f84-b735-ef380fe2cca5?rule=$_59.AUTO",
+   "p": "2.049 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679e2d59-e816-4374-9fd8-0a31ec7c960c?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54ebc671-4025-4f84-b735-ef380fe2cca5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679e2d59-e816-4374-9fd8-0a31ec7c960c?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7498aa7-d595-4c71-a9aa-fbc762c9e16d?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9f83ef6-24f3-4b66-8845-d7522979ae99?rule=$_59.AUTO"
    ],
    "ts": "2026-10-28",
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409",
+   "p_alt": "2.249 €",
+   "p_seit": "2026-11-03"
   },
   {
    "id": "3554879225",
@@ -213,7 +200,9 @@
    "p": "1.449 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e00c2a-81e2-4e84-8373-a25a58a4fb48?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6637861f-d608-4e37-b10c-bc1a03a142c0?rule=$_59.AUTO"
    ],
    "ts": "2026-10-27",
    "loc": "12099 Tempelhof",
@@ -271,7 +260,9 @@
    "p": "899 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9f5627f-8ec7-43ec-a023-bd639b965543?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdec08ad-ded9-4833-b54b-faa73460c088?rule=$_59.AUTO"
    ],
    "ts": "2026-10-24",
    "loc": "12099 Tempelhof",
@@ -284,7 +275,9 @@
    "p": "249 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
    ],
    "ts": "2026-10-23",
    "loc": "12099 Tempelhof",
@@ -467,7 +460,9 @@
    "p": "139 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
    ],
    "ts": "2026-10-19",
    "loc": "12099 Tempelhof",
@@ -567,17 +562,19 @@
   {
    "id": "3509737780",
    "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
-   "p": "1.049 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6cc8f3e-0e90-4f06-afd8-0bb696ffaeba?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
    ],
    "ts": "2026-10-11",
    "loc": "12099 Tempelhof",
    "d": "11.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
+   "p_alt": "1.049 €",
+   "p_seit": "2026-11-03"
   },
   {
    "id": "3536739477",
