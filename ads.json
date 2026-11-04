@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-03T17:26:51+00:00",
+ "generated": "2026-11-04T17:40:10+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 46,
+ "count": 42,
  "ads": [
   {
    "id": "3502131017",
@@ -13,7 +13,7 @@
    ],
    "ts": "2026-11-02",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:07",
+   "d": "02.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/grafikkarten-ankauf-berlin-gpu-verkaufen-sofort-bargeld/3502131017-225-3409"
   },
   {
@@ -60,21 +60,6 @@
    "loc": "12099 Tempelhof",
    "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-16-pro-max-256gb-sehr-guter-zustand-ovp-/3557212156-173-3409"
-  },
-  {
-   "id": "3527924493",
-   "t": "⭐️ PLAYSTATION 5 DISC EDITION + 2TB SSD ⭐️ TOP ZUSTAND ⭐️",
-   "p": "599 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad08a7d-bfb2-43f3-ae71-c0b883a82e94?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2087c7a9-788a-426c-b370-2be4dac9377b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58888293-73b0-4af1-b890-6bbf9523f68f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-31",
-   "loc": "12099 Tempelhof",
-   "d": "31.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-disc-edition-2tb-ssd-top-zustand-/3527924493-279-3409"
   },
   {
    "id": "3526473270",
@@ -440,21 +425,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409"
   },
   {
-   "id": "3465680868",
-   "t": "Nintendo Switch HAC-001(-01) Schwarz + Pro Controller Top",
-   "p": "159 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7888a053-87f2-4018-9106-211e80beb070?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f27ff35-2987-41c9-9e28-47afde571363?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/679078e2-24a1-4f2e-b913-88e3b0577e0c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/nintendo-switch-hac-001-01-schwarz-pro-controller-top/3465680868-279-3409"
-  },
-  {
    "id": "3415111307",
    "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
    "p": "139 €",
@@ -513,21 +483,6 @@
    "loc": "12099 Tempelhof",
    "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
-  },
-  {
-   "id": "3541469624",
-   "t": "⭐ Apple Watch Ultra 2 49mm Naturtitan GPS + LTE ⭐ 94% Akku",
-   "p": "339 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/032e32fa-a458-466d-93de-93e3de781727?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/032e32fa-a458-466d-93de-93e3de781727?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72fd0471-0c76-4efc-86df-c5a6ca4b2cbe?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1769e10e-5d49-47fd-93d0-aa513f2ed98f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-watch-ultra-2-49mm-naturtitan-gps-lte-94-akku/3541469624-405-3409"
   },
   {
    "id": "3484559555",
@@ -590,21 +545,6 @@
    "loc": "12099 Tempelhof",
    "d": "10.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
-  },
-  {
-   "id": "3536731287",
-   "t": "⭐ Sony Playstation 5 PS5 Disc Edition 825GB ⭐ 2 Controller ⭐",
-   "p": "499 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1383f8c1-cf19-4816-b0cf-8095718c9ba6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22ced270-e05c-43de-a512-889da5039c37?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9726cbd1-adb2-43bc-8a09-205953520ea2?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-sony-playstation-5-ps5-disc-edition-825gb-2-controller-/3536731287-279-3409"
   },
   {
    "id": "3508870906",
