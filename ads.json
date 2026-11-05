@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T17:40:10+00:00",
+ "generated": "2026-11-05T17:45:47+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 42,
+ "count": 40,
  "ads": [
   {
    "id": "3502131017",
@@ -285,21 +285,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
   },
   {
-   "id": "3521277748",
-   "t": "⭐️ TOP ANGEBOT ⭐️ MAC MINI M1 16GB 256GB 2020 ⭐️",
-   "p": "449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/150844a3-0bbe-490b-a0d1-0c753f13c48d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/150844a3-0bbe-490b-a0d1-0c753f13c48d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/859d340f-d1bc-47af-be75-54fba373d275?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f26f88e-d2f2-49d3-960a-516caeb6d3f2?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-mac-mini-m1-16gb-256gb-2020-/3521277748-228-3409"
-  },
-  {
    "id": "3466932702",
    "t": "iPhone 17 Ankauf Berlin | iPhone 17 Pro & Pro Max verkaufen",
    "p": "VB",
@@ -438,21 +423,6 @@
    "loc": "12099 Tempelhof",
    "d": "19.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
-  },
-  {
-   "id": "3513521435",
-   "t": "⭐️ IPHONE 16 PRO 512GB SCHWARZ ⭐️ OVP ⭐️ 88% AKKU",
-   "p": "799 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56044f47-72f9-4945-9f76-1987645072ff?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19e41993-0a2e-42ad-82b8-3d9bb0209fa9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d022ecb-3c86-4874-915c-efa6b650022c?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-512gb-schwarz-ovp-88-akku/3513521435-173-3409"
   },
   {
    "id": "3541481474",
