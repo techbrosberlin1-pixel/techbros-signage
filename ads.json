@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-05T17:45:47+00:00",
+ "generated": "2026-11-06T17:01:48+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 40,
  "ads": [
+  {
+   "id": "3533808456",
+   "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
+   "p": "1.899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-06",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
+  },
   {
    "id": "3502131017",
    "t": "Grafikkarten Ankauf Berlin – GPU verkaufen | Sofort Bargeld",
@@ -75,6 +90,21 @@
    "loc": "12099 Tempelhof",
    "d": "29.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
+  },
+  {
+   "id": "3497576676",
+   "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
+   "p": "949 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81544a44-26cb-4247-862d-158d5d94d546?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96dcf852-b3bc-41b5-8858-b4002a73645f?rule=$_59.AUTO"
+   ],
+   "ts": "2026-10-28",
+   "loc": "12099 Tempelhof",
+   "d": "28.10.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409"
   },
   {
    "id": "3497963217",
@@ -163,21 +193,6 @@
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
-  },
-  {
-   "id": "3497589121",
-   "t": "⭐️ iMac 27” Retina 5K 2019 | i5 | 32GB RAM | 512GB SSD ⭐️",
-   "p": "419 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205823a9-856a-4676-a3bd-5f86dc843895?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ebf3001-f820-4ae0-93e8-06acd4e0b00b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43e00556-1932-421b-8692-6f48d49bff07?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-imac-27-retina-5k-2019-i5-32gb-ram-512gb-ssd-/3497589121-228-3409"
   },
   {
    "id": "3554091252",
@@ -574,21 +589,6 @@
    "loc": "12099 Tempelhof",
    "d": "08.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
-  },
-  {
-   "id": "3533808456",
-   "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
-   "p": "1.899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-07",
-   "loc": "12099 Tempelhof",
-   "d": "07.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   }
  ]
 }
