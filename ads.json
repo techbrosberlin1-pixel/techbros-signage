@@ -1,8 +1,83 @@
 {
- "generated": "2026-11-06T17:01:48+00:00",
+ "generated": "2026-11-07T15:59:32+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 40,
+ "count": 43,
  "ads": [
+  {
+   "id": "3564360957",
+   "t": "Apple iPhone 18 Pro Max 512 GB Schwarz | Neu & Versiegelt",
+   "p": "1.669 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7ed7089-15a8-4929-a182-cc332c484f16?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7ed7089-15a8-4929-a182-cc332c484f16?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffaa9c33-5b0d-4e1e-adc4-5b5183f6f3b6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8aa9b29c-8c24-4245-9baf-37d42e15a9f1?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:34",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-iphone-18-pro-max-512-gb-schwarz-neu-versiegelt/3564360957-173-3409"
+  },
+  {
+   "id": "3564260232",
+   "t": "Apple Watch Ultra 3 49 mm Saphirglas mit OVP | Top Zustand",
+   "p": "489 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af791de8-8331-4e7c-b45c-a6f8c4704067?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af791de8-8331-4e7c-b45c-a6f8c4704067?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a4bb8e-3737-4654-8c9b-5daa9ff15c66?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd7a0fcb-8f10-4bf6-bffe-2e72d774b541?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:37",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-watch-ultra-3-49-mm-saphirglas-mit-ovp-top-zustand/3564260232-405-3409"
+  },
+  {
+   "id": "3564150152",
+   "t": "DJI Osmo Pocket 3 | 4K Gimbal-Kamera mit Tasche & Zubehör",
+   "p": "249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc826f4f-3e2d-42ef-8c74-1c40bd2ac071?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc826f4f-3e2d-42ef-8c74-1c40bd2ac071?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e2ae0c0-4f15-40ea-9f0a-3eec17438d1c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1e5d5cd-812c-4dad-8481-1932da077f42?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:13",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-osmo-pocket-3-4k-gimbal-kamera-mit-tasche-zubehoer/3564150152-245-3409"
+  },
+  {
+   "id": "3534580778",
+   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb701d90-d02c-4b05-bcdf-7f0e29991612?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a37aa451-9f1b-4d39-93cd-d5d550b7bb86?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 09:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
+  },
+  {
+   "id": "3431737075",
+   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-07",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
+  },
   {
    "id": "3533808456",
    "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
@@ -15,7 +90,7 @@
    ],
    "ts": "2026-11-06",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:08",
+   "d": "Gestern, 17:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   },
   {
@@ -559,36 +634,6 @@
    "loc": "12099 Tempelhof",
    "d": "09.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
-  },
-  {
-   "id": "3534580778",
-   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe94358-cc99-4dcb-a311-7253420f5b1c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb701d90-d02c-4b05-bcdf-7f0e29991612?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a37aa451-9f1b-4d39-93cd-d5d550b7bb86?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-08",
-   "loc": "12099 Tempelhof",
-   "d": "08.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
-  },
-  {
-   "id": "3431737075",
-   "t": "⭐️ Lenovo ThinkPad E14 Gen 3 Ryzen 7 5700U 24GB 256GB US ⭐️",
-   "p": "399 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-08",
-   "loc": "12099 Tempelhof",
-   "d": "08.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   }
  ]
 }
