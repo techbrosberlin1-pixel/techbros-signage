@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-07T15:59:32+00:00",
+ "generated": "2026-11-08T16:27:52+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 43,
  "ads": [
+  {
+   "id": "3535403405",
+   "t": "Denon DJ PRIME 4 ⭐ 4-Deck DJ System + Magma Case & Decksaver",
+   "p": "1.599 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e464c69-14c0-4d7f-a76b-8ba81e9c396a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03a06ed2-f1a7-4150-89df-dfa5cf9386cf?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-08",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 09:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
+  },
   {
    "id": "3564360957",
    "t": "Apple iPhone 18 Pro Max 512 GB Schwarz | Neu & Versiegelt",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:34",
+   "d": "Gestern, 15:34",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-iphone-18-pro-max-512-gb-schwarz-neu-versiegelt/3564360957-173-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:37",
+   "d": "Gestern, 14:37",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-watch-ultra-3-49-mm-saphirglas-mit-ovp-top-zustand/3564260232-405-3409"
   },
   {
@@ -45,7 +60,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 13:13",
+   "d": "Gestern, 13:13",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-osmo-pocket-3-4k-gimbal-kamera-mit-tasche-zubehoer/3564150152-245-3409"
   },
   {
@@ -60,7 +75,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 09:08",
+   "d": "Gestern, 09:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
   },
   {
@@ -75,7 +90,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:07",
+   "d": "Gestern, 08:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -90,7 +105,7 @@
    ],
    "ts": "2026-11-06",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:08",
+   "d": "06.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   },
   {
@@ -619,21 +634,6 @@
    "loc": "12099 Tempelhof",
    "d": "10.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
-  },
-  {
-   "id": "3535403405",
-   "t": "Denon DJ PRIME 4 ⭐ 4-Deck DJ System + Magma Case & Decksaver",
-   "p": "1.599 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d8dbb48-aca4-4729-9760-e4db9c5c3fe3?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e464c69-14c0-4d7f-a76b-8ba81e9c396a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03a06ed2-f1a7-4150-89df-dfa5cf9386cf?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-09",
-   "loc": "12099 Tempelhof",
-   "d": "09.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
   }
  ]
 }
