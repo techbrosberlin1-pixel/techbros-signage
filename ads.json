@@ -1,8 +1,37 @@
 {
- "generated": "2026-11-08T16:27:52+00:00",
+ "generated": "2026-11-09T20:18:01+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 43,
  "ads": [
+  {
+   "id": "3536739477",
+   "t": "Sony PlayStation Portal Remote Player PS5 Weiß ⭐ Ohne OVP",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e9e64e2-43bf-4394-9745-46a4c1d9c543?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4772ba1-3f48-4675-9168-a574a67f8e63?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-09",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 19:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
+  },
+  {
+   "id": "3508870906",
+   "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
+   "p": "1.111 € VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-09",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
+  },
   {
    "id": "3535403405",
    "t": "Denon DJ PRIME 4 ⭐ 4-Deck DJ System + Magma Case & Decksaver",
@@ -15,7 +44,7 @@
    ],
    "ts": "2026-11-08",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 09:08",
+   "d": "Gestern, 09:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
   },
   {
@@ -30,7 +59,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:34",
+   "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-iphone-18-pro-max-512-gb-schwarz-neu-versiegelt/3564360957-173-3409"
   },
   {
@@ -45,7 +74,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:37",
+   "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-watch-ultra-3-49-mm-saphirglas-mit-ovp-top-zustand/3564260232-405-3409"
   },
   {
@@ -60,7 +89,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 13:13",
+   "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-osmo-pocket-3-4k-gimbal-kamera-mit-tasche-zubehoer/3564150152-245-3409"
   },
   {
@@ -75,7 +104,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 09:08",
+   "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409"
   },
   {
@@ -90,7 +119,7 @@
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:07",
+   "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
   },
   {
@@ -605,35 +634,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
    "p_alt": "1.049 €",
    "p_seit": "2026-11-03"
-  },
-  {
-   "id": "3536739477",
-   "t": "Sony PlayStation Portal Remote Player PS5 Weiß ⭐ Ohne OVP",
-   "p": "179 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a59a731b-240e-4721-8af5-b61b7257cc90?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e9e64e2-43bf-4394-9745-46a4c1d9c543?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4772ba1-3f48-4675-9168-a574a67f8e63?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
-  },
-  {
-   "id": "3508870906",
-   "t": "iPhone Ankauf Berlin – Sofort Bargeld!",
-   "p": "1.111 € VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ce6df57-16ec-4b75-b4ab-df60199b1770?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe28361f-30ec-429e-8dd6-99c90a5de043?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   }
  ]
 }
