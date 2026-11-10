@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-09T20:18:01+00:00",
+ "generated": "2026-11-10T17:24:05+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 43,
+ "count": 44,
  "ads": [
+  {
+   "id": "3567337809",
+   "t": "iPhone 17 Pro Max 256GB Cosmic Orange mit OVP | 95% Akku",
+   "p": "899 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dc3861f-ec5f-4686-97e4-1c4985682311?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dc3861f-ec5f-4686-97e4-1c4985682311?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd146d98-99e8-43ee-9199-8cd78fffbfbe?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27a5d0be-87bc-45cb-a899-5739553493c6?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-10",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:17",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-pro-max-256gb-cosmic-orange-mit-ovp-95-akku/3567337809-173-3409"
+  },
+  {
+   "id": "3509737780",
+   "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-10",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
+   "p_alt": "1.049 €",
+   "p_seit": "2026-11-03"
+  },
   {
    "id": "3536739477",
    "t": "Sony PlayStation Portal Remote Player PS5 Weiß ⭐ Ohne OVP",
@@ -15,7 +47,7 @@
    ],
    "ts": "2026-11-09",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 19:09",
+   "d": "Gestern, 19:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
   },
   {
@@ -29,7 +61,7 @@
    ],
    "ts": "2026-11-09",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:08",
+   "d": "Gestern, 16:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   },
   {
@@ -44,7 +76,7 @@
    ],
    "ts": "2026-11-08",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 09:08",
+   "d": "08.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/denon-dj-prime-4-4-deck-dj-system-magma-case-decksaver/3535403405-172-3409"
   },
   {
@@ -153,7 +185,7 @@
   {
    "id": "3528806304",
    "t": "⭐️ TOP ANGEBOT ⭐️ INSTA360 X6 ESSENTIALS-BUNDLE NEU VERSIEGELT ⭐️",
-   "p": "749 €",
+   "p": "699 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef4ea00-595b-4148-90b8-d5e1af9bd453?rule=$_59.AUTO",
@@ -163,7 +195,9 @@
    "ts": "2026-11-01",
    "loc": "12099 Tempelhof",
    "d": "01.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409",
+   "p_alt": "749 €",
+   "p_seit": "2026-11-10"
   },
   {
    "id": "3527883706",
@@ -617,23 +651,6 @@
    "loc": "12099 Tempelhof",
    "d": "13.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
-  },
-  {
-   "id": "3509737780",
-   "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-11",
-   "loc": "12099 Tempelhof",
-   "d": "11.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
-   "p_alt": "1.049 €",
-   "p_seit": "2026-11-03"
   }
  ]
 }
