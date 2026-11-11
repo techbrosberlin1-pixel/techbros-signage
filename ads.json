@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-10T17:24:05+00:00",
+ "generated": "2026-11-11T17:34:25+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 45,
  "ads": [
+  {
+   "id": "3568316768",
+   "t": "⚡ TOP ANGEBOT ⚡ Anker SOLIX C300X Portable Power Station ⚡",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd77bb90-b07d-4b92-87e3-f8f9213d520f?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd77bb90-b07d-4b92-87e3-f8f9213d520f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd3292ee-e5cb-4919-9e8b-2a942854f37c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c11ee76f-8726-4029-a817-f093e3e7f7be?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-11",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:51",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-anker-solix-c300x-portable-power-station-/3568316768-230-3409"
+  },
   {
    "id": "3567337809",
    "t": "iPhone 17 Pro Max 256GB Cosmic Orange mit OVP | 95% Akku",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-11-10",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:17",
+   "d": "Gestern, 11:17",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-pro-max-256gb-cosmic-orange-mit-ovp-95-akku/3567337809-173-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-11-10",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:08",
+   "d": "Gestern, 11:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
    "p_alt": "1.049 €",
    "p_seit": "2026-11-03"
@@ -47,7 +62,7 @@
    ],
    "ts": "2026-11-09",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 19:09",
+   "d": "09.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/sony-playstation-portal-remote-player-ps5-weiss-ohne-ovp/3536739477-279-3409"
   },
   {
@@ -61,7 +76,7 @@
    ],
    "ts": "2026-11-09",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:08",
+   "d": "09.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-berlin-sofort-bargeld-/3508870906-173-3409"
   },
   {
