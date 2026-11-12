@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-11T17:34:25+00:00",
+ "generated": "2026-11-12T17:49:08+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 45,
  "ads": [
+  {
+   "id": "3484559555",
+   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-12",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
+  },
+  {
+   "id": "3484582000",
+   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
+   "p": "89 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-12",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 11:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
+  },
   {
    "id": "3568316768",
    "t": "⚡ TOP ANGEBOT ⚡ Anker SOLIX C300X Portable Power Station ⚡",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-11",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:51",
+   "d": "Gestern, 12:51",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-anker-solix-c300x-portable-power-station-/3568316768-230-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-11-10",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:17",
+   "d": "10.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-pro-max-256gb-cosmic-orange-mit-ovp-95-akku/3567337809-173-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-11-10",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:08",
+   "d": "10.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
    "p_alt": "1.049 €",
    "p_seit": "2026-11-03"
@@ -395,7 +425,7 @@
   {
    "id": "3523714790",
    "t": "APPLE AIRPODS MAX ⚫ SPACE GRAU ⚫ LIGHTNING VERSION",
-   "p": "269 €",
+   "p": "239 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
@@ -405,7 +435,9 @@
    "ts": "2026-10-26",
    "loc": "12099 Tempelhof",
    "d": "26.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409",
+   "p_alt": "269 €",
+   "p_seit": "2026-11-12"
   },
   {
    "id": "3523741277",
@@ -636,36 +668,6 @@
    "loc": "12099 Tempelhof",
    "d": "15.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
-  },
-  {
-   "id": "3484559555",
-   "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
-   "p": "149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37b27fe7-c776-4b23-9533-e77726714584?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c86df86f-e746-4c64-abc5-d52c27b6e9d2?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c39ab0-e986-4d00-9b9d-ccecf7f51324?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
-  },
-  {
-   "id": "3484582000",
-   "t": "⚡ RAZER BLACKWIDOW V4 GAMING TASTATUR ⚡ TOP ZUSTAND",
-   "p": "89 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f0d4154-dd4c-4102-ac6e-5821f2c7cc9d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40814c47-4c88-495c-b39c-f5f9ba758f39?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22dc6ece-dc3e-4e13-9280-87b3f94098ef?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   }
  ]
 }
