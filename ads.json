@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-12T17:49:08+00:00",
+ "generated": "2026-11-13T17:26:46+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 47,
  "ads": [
+  {
+   "id": "3570212315",
+   "t": "Lenovo Thinkpad 13w 2-in-1 Gen 3|i5|16GB RAM|512GB|Wie neu|OVP",
+   "p": "699 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed53a4b-a9d0-4e09-bd1d-82c2669074b9?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed53a4b-a9d0-4e09-bd1d-82c2669074b9?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/077a1973-6aae-4cf7-a36a-d1caa5668b3f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b419c58-6328-47f8-a591-86c574377a2a?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:15",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-13w-2-in-1-gen-3-i5-16gb-ram-512gb-wie-neu-ovp/3570212315-278-3409"
+  },
+  {
+   "id": "3569903575",
+   "t": "Sony ZV-1F 20,1 MP 4K Vlogging-Kamera Schwarz",
+   "p": "339 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42f4bbae-673d-4725-83e1-e583879d2cb6?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/539d2662-77af-40b5-b77c-34f56d3111e0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-13",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:29",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409"
+  },
   {
    "id": "3484559555",
    "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-12",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:07",
+   "d": "Gestern, 17:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-11-12",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:07",
+   "d": "Gestern, 11:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-11-11",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:51",
+   "d": "11.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-anker-solix-c300x-portable-power-station-/3568316768-230-3409"
   },
   {
@@ -246,18 +276,18 @@
   },
   {
    "id": "3527883706",
-   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️",
-   "p": "1.099 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
+   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️ inkl. GTA 6",
+   "p": "1.199 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e85ad1c-5f14-47ab-9ef6-0a3837621c44?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d7d1ad-0328-40cb-b1c4-bf79b1e0eb49?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6fb3adb-7d91-47fe-ae4f-7e9841ff35d7?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e85ad1c-5f14-47ab-9ef6-0a3837621c44?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1a1a2c9-03ba-436c-81b1-33407b776269?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO"
    ],
    "ts": "2026-10-31",
    "loc": "12099 Tempelhof",
    "d": "31.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-/3527883706-279-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-inkl-gta-6/3527883706-279-3409"
   },
   {
    "id": "3557212156",
