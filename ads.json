@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-13T17:26:46+00:00",
+ "generated": "2026-11-14T16:15:06+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 48,
  "ads": [
+  {
+   "id": "3570719722",
+   "t": "Apple iPad Air 11\" M2 | 128 GB | Top Zustand |",
+   "p": "499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b4b5571-b783-47ff-a377-03d68bae0f9f?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b4b5571-b783-47ff-a377-03d68bae0f9f?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c320aeef-5ad8-403e-9659-4a6b63a9f3e4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b092f197-6ca1-409d-97f1-067f222c6605?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-14",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 08:53",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-11-m2-128-gb-top-zustand-/3570719722-285-3409"
+  },
   {
    "id": "3570212315",
    "t": "Lenovo Thinkpad 13w 2-in-1 Gen 3|i5|16GB RAM|512GB|Wie neu|OVP",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-11-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:15",
+   "d": "Gestern, 15:15",
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-13w-2-in-1-gen-3-i5-16gb-ram-512gb-wie-neu-ovp/3570212315-278-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-11-13",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:29",
+   "d": "Gestern, 10:29",
    "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409"
   },
   {
@@ -45,7 +60,7 @@
    ],
    "ts": "2026-11-12",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:07",
+   "d": "12.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
@@ -60,7 +75,7 @@
    ],
    "ts": "2026-11-12",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 11:07",
+   "d": "12.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-razer-blackwidow-v4-gaming-tastatur-top-zustand-/3484582000-225-3409"
   },
   {
