@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-14T16:15:06+00:00",
+ "generated": "2026-11-15T16:43:13+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 47,
  "ads": [
+  {
+   "id": "3541481474",
+   "t": "⭐ TOP ANGEBOT ⭐ INTEL CORE ULTRA 7 265K ⭐ 20 KERNE ⭐",
+   "p": "239 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/554a01bf-824c-4ac6-a75f-e3f15dcbfea5?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39c18880-92e1-4805-828d-4e9bbe8db226?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-14",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 19:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
+  },
+  {
+   "id": "3541475597",
+   "t": "⭐ Samsung 990 PRO 1TB NVMe M.2 SSD PCIe 4.0 ⭐",
+   "p": "179 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1721ca5-dc83-4097-9262-44cad776f97e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17ebeb20-fa8d-47ea-841f-3ae168960f71?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-14",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
+  },
   {
    "id": "3570719722",
    "t": "Apple iPad Air 11\" M2 | 128 GB | Top Zustand |",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-14",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 08:53",
+   "d": "Gestern, 08:53",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-11-m2-128-gb-top-zustand-/3570719722-285-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-11-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 15:15",
+   "d": "13.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-13w-2-in-1-gen-3-i5-16gb-ram-512gb-wie-neu-ovp/3570212315-278-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-11-13",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 10:29",
+   "d": "13.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409"
   },
   {
@@ -198,21 +228,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-watch-ultra-3-49-mm-saphirglas-mit-ovp-top-zustand/3564260232-405-3409"
-  },
-  {
-   "id": "3564150152",
-   "t": "DJI Osmo Pocket 3 | 4K Gimbal-Kamera mit Tasche & Zubehör",
-   "p": "249 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc826f4f-3e2d-42ef-8c74-1c40bd2ac071?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc826f4f-3e2d-42ef-8c74-1c40bd2ac071?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e2ae0c0-4f15-40ea-9f0a-3eec17438d1c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1e5d5cd-812c-4dad-8481-1932da077f42?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-07",
-   "loc": "12099 Tempelhof",
-   "d": "07.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-osmo-pocket-3-4k-gimbal-kamera-mit-tasche-zubehoer/3564150152-245-3409"
   },
   {
    "id": "3534580778",
@@ -683,36 +698,6 @@
    "loc": "12099 Tempelhof",
    "d": "19.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
-  },
-  {
-   "id": "3541481474",
-   "t": "⭐ TOP ANGEBOT ⭐ INTEL CORE ULTRA 7 265K ⭐ 20 KERNE ⭐",
-   "p": "239 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d2065f-4c2f-44d9-a35d-6ae05d5cc107?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/554a01bf-824c-4ac6-a75f-e3f15dcbfea5?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39c18880-92e1-4805-828d-4e9bbe8db226?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
-  },
-  {
-   "id": "3541475597",
-   "t": "⭐ Samsung 990 PRO 1TB NVMe M.2 SSD PCIe 4.0 ⭐",
-   "p": "179 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfee37b5-7ec4-4966-82b3-89f1d618c0e4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1721ca5-dc83-4097-9262-44cad776f97e?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17ebeb20-fa8d-47ea-841f-3ae168960f71?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
   }
  ]
 }
