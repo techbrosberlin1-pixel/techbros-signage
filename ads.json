@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-15T16:43:13+00:00",
+ "generated": "2026-11-16T19:57:03+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 47,
+ "count": 49,
  "ads": [
+  {
+   "id": "3573020173",
+   "t": "⭐ TOP ANGEBOT ⭐ GIGABYTE G5 KF5 2024 ⭐ RTX 4060 ⭐",
+   "p": "779 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/367f9417-ace0-4338-aed4-c3ab87ecc111?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/367f9417-ace0-4338-aed4-c3ab87ecc111?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e757fd73-e66c-430b-b8eb-e39eb54300cf?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33427e19-0f4c-4791-b018-9b16cdf1d104?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-15",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 20:32",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-gigabyte-g5-kf5-2024-rtx-4060-/3573020173-278-3409"
+  },
+  {
+   "id": "3573015350",
+   "t": "⭐ Sony PlayStation 5 Pro 2 TB | 2 Controller | Ladestation ⭐",
+   "p": "1.099 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/558ec3ea-c9ed-4c53-af8b-1ca401e22090?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/558ec3ea-c9ed-4c53-af8b-1ca401e22090?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/610f59f8-b55b-4241-b378-63fde104a108?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f879428-4863-4e96-ab2a-63426f6ec1b1?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-15",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 20:28",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-sony-playstation-5-pro-2-tb-2-controller-ladestation-/3573015350-279-3409"
+  },
   {
    "id": "3541481474",
    "t": "⭐ TOP ANGEBOT ⭐ INTEL CORE ULTRA 7 265K ⭐ 20 KERNE ⭐",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-14",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 19:08",
+   "d": "14.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-intel-core-ultra-7-265k-20-kerne-/3541481474-225-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-11-14",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:08",
+   "d": "14.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-990-pro-1tb-nvme-m-2-ssd-pcie-4-0-/3541475597-225-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-11-14",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 08:53",
+   "d": "14.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-11-m2-128-gb-top-zustand-/3570719722-285-3409"
   },
   {
@@ -250,9 +280,7 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
