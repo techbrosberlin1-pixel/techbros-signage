@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-16T19:57:03+00:00",
+ "generated": "2026-11-17T18:53:43+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 49,
  "ads": [
+  {
+   "id": "3574618769",
+   "t": "⭐ iPhone 16 Pro Max 256 GB Titan Weiß | OVP | 94 % Akku",
+   "p": "649 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb83783d-11e6-4e59-aba0-92872cc47170?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb83783d-11e6-4e59-aba0-92872cc47170?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee93d86-40f9-43d5-86d7-4a527e63e876?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/820c5e7f-58a1-4a96-b88c-7286ef3bf490?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-17",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:13",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-max-256-gb-titan-weiss-ovp-94-akku/3574618769-173-3409"
+  },
   {
    "id": "3573020173",
    "t": "⭐ TOP ANGEBOT ⭐ GIGABYTE G5 KF5 2024 ⭐ RTX 4060 ⭐",
@@ -15,23 +30,23 @@
    ],
    "ts": "2026-11-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 20:32",
+   "d": "15.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-gigabyte-g5-kf5-2024-rtx-4060-/3573020173-278-3409"
   },
   {
    "id": "3573015350",
-   "t": "⭐ Sony PlayStation 5 Pro 2 TB | 2 Controller | Ladestation ⭐",
-   "p": "1.099 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/558ec3ea-c9ed-4c53-af8b-1ca401e22090?rule=$_59.AUTO",
+   "t": "⭐ PS5 Pro 2 TB | 2 Controller | Ladestation | OVP | inkl. GTA 6 ⭐",
+   "p": "1.199 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d54508c-df87-458a-b5e5-ed9f29bb5513?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/558ec3ea-c9ed-4c53-af8b-1ca401e22090?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d54508c-df87-458a-b5e5-ed9f29bb5513?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/610f59f8-b55b-4241-b378-63fde104a108?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f879428-4863-4e96-ab2a-63426f6ec1b1?rule=$_59.AUTO"
    ],
    "ts": "2026-11-15",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 20:28",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-sony-playstation-5-pro-2-tb-2-controller-ladestation-/3573015350-279-3409"
+   "d": "15.11.2026",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2-tb-2-controller-ladestation-ovp-inkl-gta-6-/3573015350-279-3409"
   },
   {
    "id": "3541481474",
@@ -280,7 +295,9 @@
    "p": "399 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52d7ee00-938c-45a2-a1ac-f223ffeced71?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70d4b979-052a-4897-a508-006a36d4a3c7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51a18b29-7602-43de-a22c-506821dd8ba4?rule=$_59.AUTO"
    ],
    "ts": "2026-11-07",
    "loc": "12099 Tempelhof",
@@ -331,21 +348,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-insta360-x6-essentials-bundle-neu-versiegelt-/3528806304-245-3409",
    "p_alt": "749 €",
    "p_seit": "2026-11-10"
-  },
-  {
-   "id": "3527883706",
-   "t": "⭐️ PlayStation 5 PRO 2TB + 2 CONTROLLER ⭐️ OVP ⭐️ inkl. GTA 6",
-   "p": "1.199 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e85ad1c-5f14-47ab-9ef6-0a3837621c44?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e85ad1c-5f14-47ab-9ef6-0a3837621c44?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1a1a2c9-03ba-436c-81b1-33407b776269?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0575b176-59fa-4251-b8f5-43a48e3ab2f0?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-31",
-   "loc": "12099 Tempelhof",
-   "d": "31.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-playstation-5-pro-2tb-2-controller-ovp-inkl-gta-6/3527883706-279-3409"
   },
   {
    "id": "3557212156",
