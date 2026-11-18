@@ -1,8 +1,68 @@
 {
- "generated": "2026-11-17T18:53:43+00:00",
+ "generated": "2026-11-18T18:31:38+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 49,
  "ads": [
+  {
+   "id": "3575670366",
+   "t": "⭐ TOP ANGEBOT ⭐ Apple AirPods Max 1. Generation | Creme",
+   "p": "219 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef9af2c4-84c2-4660-8124-3aedeb6afe4a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef9af2c4-84c2-4660-8124-3aedeb6afe4a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2c2033e5-ab6d-4c2a-9adf-4be59859c082?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3f75f5e-8f23-41ee-92c4-d62b3b26c485?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-18",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 18:11",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-apple-airpods-max-1-generation-creme/3575670366-172-3409"
+  },
+  {
+   "id": "3575637767",
+   "t": "⭐ GAMING PC ⭐ TOP ANGEBOT ⭐ AMD RYZEN 5 3600 | GTX 1650 | 16 GB",
+   "p": "399 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2c02d97-6a3b-48f0-bfee-990a547ff5b0?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2c02d97-6a3b-48f0-bfee-990a547ff5b0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4cfd9526-b7af-4ad6-b8f0-910109100588?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/4455838d-65a9-41af-abc6-3ab0e3fc930a?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-18",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:40",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-top-angebot-amd-ryzen-5-3600-gtx-1650-16-gb/3575637767-228-3409"
+  },
+  {
+   "id": "3575600488",
+   "t": "⭐ Gaming-PC | RTX 4070 12GB | i9-10900F | 32GB RAM | TOP ⭐",
+   "p": "829 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb43cc2-4aab-4a13-bab8-7eef7fa85a34?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb43cc2-4aab-4a13-bab8-7eef7fa85a34?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec13a801-b663-4fbd-9742-be3de64ec1ad?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4a793c6-a8c1-4d3a-99d9-88edef46d6cf?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-18",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-rtx-4070-12gb-i9-10900f-32gb-ram-top-/3575600488-228-3409"
+  },
+  {
+   "id": "3575586416",
+   "t": "⭐ Lenovo Legion 5 15IAX10 | Ultra 7 | RTX 5060 | OLED ⭐",
+   "p": "1.449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/947a1b51-3d66-4b75-afbd-870037cda147?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/947a1b51-3d66-4b75-afbd-870037cda147?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87f70829-3211-47b3-8852-1b9647a52fae?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a6e0929-ec19-4690-843a-b87aa8904bc9?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-18",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:55",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-legion-5-15iax10-ultra-7-rtx-5060-oled-/3575586416-278-3409"
+  },
   {
    "id": "3574618769",
    "t": "⭐ iPhone 16 Pro Max 256 GB Titan Weiß | OVP | 94 % Akku",
@@ -15,7 +75,7 @@
    ],
    "ts": "2026-11-17",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:13",
+   "d": "Gestern, 16:13",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-max-256-gb-titan-weiss-ovp-94-akku/3574618769-173-3409"
   },
   {
@@ -32,21 +92,6 @@
    "loc": "12099 Tempelhof",
    "d": "15.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-gigabyte-g5-kf5-2024-rtx-4060-/3573020173-278-3409"
-  },
-  {
-   "id": "3573015350",
-   "t": "⭐ PS5 Pro 2 TB | 2 Controller | Ladestation | OVP | inkl. GTA 6 ⭐",
-   "p": "1.199 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d54508c-df87-458a-b5e5-ed9f29bb5513?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d54508c-df87-458a-b5e5-ed9f29bb5513?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/610f59f8-b55b-4241-b378-63fde104a108?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f879428-4863-4e96-ab2a-63426f6ec1b1?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-15",
-   "loc": "12099 Tempelhof",
-   "d": "15.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-ps5-pro-2-tb-2-controller-ladestation-ovp-inkl-gta-6-/3573015350-279-3409"
   },
   {
    "id": "3541481474",
@@ -111,7 +156,7 @@
   {
    "id": "3569903575",
    "t": "Sony ZV-1F 20,1 MP 4K Vlogging-Kamera Schwarz",
-   "p": "339 €",
+   "p": "299 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
    "imgs": [
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
@@ -121,7 +166,9 @@
    "ts": "2026-11-13",
    "loc": "12099 Tempelhof",
    "d": "13.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409",
+   "p_alt": "339 €",
+   "p_seit": "2026-11-18"
   },
   {
    "id": "3484559555",
@@ -182,23 +229,6 @@
    "loc": "12099 Tempelhof",
    "d": "10.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-pro-max-256gb-cosmic-orange-mit-ovp-95-akku/3567337809-173-3409"
-  },
-  {
-   "id": "3509737780",
-   "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a058e329-5c0e-4c0d-9fa6-3995b3ef8f99?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e89e71e-6ab1-4caf-b7cf-14a6d6c04cbb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e4fb88-710e-455c-9e25-1ecd21144278?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3509737780-278-3409",
-   "p_alt": "1.049 €",
-   "p_seit": "2026-11-03"
   },
   {
    "id": "3536739477",
@@ -303,21 +333,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-thinkpad-e14-gen-3-ryzen-7-5700u-24gb-256gb-us-/3431737075-278-3409"
-  },
-  {
-   "id": "3533808456",
-   "t": "Apple MacBook Pro 14” M5 24GB 1TB ⭐ Wie Neu ⭐ OVP + Rechnung",
-   "p": "1.899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e80c14e0-b9e3-4c78-981d-1944c92bd648?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcdc67e1-84cd-4731-9cfc-d900de7653b4?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f7b417-2540-4666-af0f-1027e48a5774?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-06",
-   "loc": "12099 Tempelhof",
-   "d": "06.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-24gb-1tb-wie-neu-ovp-rechnung/3533808456-278-3409"
   },
   {
    "id": "3502131017",
@@ -702,32 +717,19 @@
   {
    "id": "3546520004",
    "t": "Apple MacBook Air 13” M5 | 16GB RAM | 512GB SSD | NEU & OVP",
-   "p": "1.199 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcef1b57-30f5-486a-8d6e-87564e1b6d5a?rule=$_59.AUTO",
+   "p": "1.149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcef1b57-30f5-486a-8d6e-87564e1b6d5a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93f8dd05-e702-4cb9-99e7-df62d154a376?rule=$_59.AUTO",
     "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9164857-6d9b-492e-a034-f14badcab422?rule=$_59.AUTO"
    ],
    "ts": "2026-10-20",
    "loc": "12099 Tempelhof",
    "d": "20.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409"
-  },
-  {
-   "id": "3415111307",
-   "t": "⭐️ Nintendo Switch 512GB Schwarz | HAC-001(-01) ⭐️",
-   "p": "139 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b365a21a-566b-4f3f-998e-e959a9c15359?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ad5b9be-c9b9-4fcf-90ef-6e36c7155adb?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/227f68a8-449a-449a-aaf0-4a9eff94c512?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-19",
-   "loc": "12099 Tempelhof",
-   "d": "19.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-nintendo-switch-512gb-schwarz-hac-001-01-/3415111307-279-3409"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409",
+   "p_alt": "1.199 €",
+   "p_seit": "2026-11-18"
   }
  ]
 }
