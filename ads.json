@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-18T18:31:38+00:00",
+ "generated": "2026-11-19T18:46:16+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 49,
+ "count": 50,
  "ads": [
+  {
+   "id": "3576418313",
+   "t": "RØDE PodMic USB Podcast-Mikrofon | Unbenutzt | OVP geöffnet",
+   "p": "149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9601e5e-025a-45c3-8d8f-76c91898b116?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9601e5e-025a-45c3-8d8f-76c91898b116?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51c14293-4b68-4a4c-9ad2-1475c96d1351?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a1cd28f-b524-4d2a-8aa0-2d8c6070cb42?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-19",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:14",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/r-de-podmic-usb-podcast-mikrofon-unbenutzt-ovp-geoeffnet/3576418313-172-3409"
+  },
+  {
+   "id": "3576409232",
+   "t": "⭐ LENOVO LEGION PRO 32UD-10 Gaming Monitor Wie Neu ⭐",
+   "p": "529 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd3caf5d-84eb-4662-b5ee-0cf2fe634ac7?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd3caf5d-84eb-4662-b5ee-0cf2fe634ac7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b67bd8b9-508f-4e4e-be09-bc0ecddec0b4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7327588-7b77-4617-95b8-c21361d925a9?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-19",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-legion-pro-32ud-10-gaming-monitor-wie-neu-/3576409232-225-3409"
+  },
+  {
+   "id": "3546520004",
+   "t": "Apple MacBook Air 13” M5 | 16GB RAM | 512GB SSD | NEU & OVP",
+   "p": "1.149 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93f8dd05-e702-4cb9-99e7-df62d154a376?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9164857-6d9b-492e-a034-f14badcab422?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-19",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 09:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409",
+   "p_alt": "1.199 €",
+   "p_seit": "2026-11-18"
+  },
   {
    "id": "3575670366",
    "t": "⭐ TOP ANGEBOT ⭐ Apple AirPods Max 1. Generation | Creme",
@@ -15,7 +62,7 @@
    ],
    "ts": "2026-11-18",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 18:11",
+   "d": "Gestern, 18:11",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-apple-airpods-max-1-generation-creme/3575670366-172-3409"
   },
   {
@@ -30,7 +77,7 @@
    ],
    "ts": "2026-11-18",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:40",
+   "d": "Gestern, 17:40",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-top-angebot-amd-ryzen-5-3600-gtx-1650-16-gb/3575637767-228-3409"
   },
   {
@@ -45,7 +92,7 @@
    ],
    "ts": "2026-11-18",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:08",
+   "d": "Gestern, 17:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-rtx-4070-12gb-i9-10900f-32gb-ram-top-/3575600488-228-3409"
   },
   {
@@ -60,7 +107,7 @@
    ],
    "ts": "2026-11-18",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:55",
+   "d": "Gestern, 16:55",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-legion-5-15iax10-ultra-7-rtx-5060-oled-/3575586416-278-3409"
   },
   {
@@ -75,7 +122,7 @@
    ],
    "ts": "2026-11-17",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:13",
+   "d": "17.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-16-pro-max-256-gb-titan-weiss-ovp-94-akku/3574618769-173-3409"
   },
   {
@@ -674,19 +721,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
   },
   {
-   "id": "3466906302",
-   "t": "DJI Drohnen Ankauf Berlin | Drone verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264cbdd6-4a47-45ae-bd55-7791b1003ac5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-drohnen-ankauf-berlin-drone-verkaufen/3466906302-245-3409"
-  },
-  {
    "id": "3466896994",
    "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
    "p": "VB",
@@ -713,23 +747,6 @@
    "loc": "12099 Tempelhof",
    "d": "20.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nintendo-switch-2-wie-neu-/3546614551-279-3409"
-  },
-  {
-   "id": "3546520004",
-   "t": "Apple MacBook Air 13” M5 | 16GB RAM | 512GB SSD | NEU & OVP",
-   "p": "1.149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd1d678f-684b-4ba6-b17b-881950868211?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93f8dd05-e702-4cb9-99e7-df62d154a376?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9164857-6d9b-492e-a034-f14badcab422?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409",
-   "p_alt": "1.199 €",
-   "p_seit": "2026-11-18"
   }
  ]
 }
