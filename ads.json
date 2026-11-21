@@ -1,8 +1,79 @@
 {
- "generated": "2026-11-20T18:08:47+00:00",
+ "generated": "2026-11-21T17:01:48+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 50,
+ "count": 49,
  "ads": [
+  {
+   "id": "3578243210",
+   "t": "⭐ iPhone 17 Pro Max 256GB Silber | OVP | 92% Akku ⭐",
+   "p": "879 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc971eaa-4178-4232-adbd-765f5ada3e9c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc971eaa-4178-4232-adbd-765f5ada3e9c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38c28348-f957-4b26-a40d-9829bb923b53?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3eb4b0ba-f865-46a8-a938-fb5715877d14?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:16",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-17-pro-max-256gb-silber-ovp-92-akku-/3578243210-173-3409"
+  },
+  {
+   "id": "3548800262",
+   "t": "DJI FPV Combo Komplettset – 1 Bat + 1 Cont. 1 Motion Controller",
+   "p": "599 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc68ccd-ac20-4de5-9085-da694092e2f7?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc68ccd-ac20-4de5-9085-da694092e2f7?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7ce3524-d447-4364-b16e-6e1fb2c24e68?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53698a60-05dd-43e2-ae8f-836a441e66d5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-fpv-combo-komplettset-1-bat-1-cont-1-motion-controller/3548800262-168-3409"
+  },
+  {
+   "id": "3578045107",
+   "t": "⭐ APPLE IPAD AIR 13″ M4 | 256 GB | POLARSTERN | 100 % AKKU | CASE",
+   "p": "839 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e52c4f0c-35ad-4418-b0f3-7c9d79519409?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e52c4f0c-35ad-4418-b0f3-7c9d79519409?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db55b8ee-def1-4b9f-83d9-d71d6e1e7838?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1e4345a-524c-4b9d-8a04-78217f5260ae?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:58",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-ipad-air-13-m4-256-gb-polarstern-100-akku-case/3578045107-285-3409"
+  },
+  {
+   "id": "3466899960",
+   "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
+  },
+  {
+   "id": "3466896994",
+   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 10:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
+  },
   {
    "id": "3577331844",
    "t": "⭐ ASUS TUF Gaming F17 | i7 | RTX 3060 | 16GB | 1TB | OVP ⭐",
@@ -15,7 +86,7 @@
    ],
    "ts": "2026-11-20",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:46",
+   "d": "Gestern, 16:46",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-tuf-gaming-f17-i7-rtx-3060-16gb-1tb-ovp-/3577331844-278-3409"
   },
   {
@@ -30,7 +101,7 @@
    ],
    "ts": "2026-11-20",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:37",
+   "d": "Gestern, 16:37",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-macbook-air-m2-8-gb-ram-256-gb-ssd-92-akku-/3577321359-278-3409"
   },
   {
@@ -45,7 +116,7 @@
    ],
    "ts": "2026-11-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 20:08",
+   "d": "19.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-nintendo-switch-2-wie-neu-/3546614551-279-3409"
   },
   {
@@ -60,7 +131,7 @@
    ],
    "ts": "2026-11-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:14",
+   "d": "19.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/r-de-podmic-usb-podcast-mikrofon-unbenutzt-ovp-geoeffnet/3576418313-172-3409"
   },
   {
@@ -75,7 +146,7 @@
    ],
    "ts": "2026-11-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:06",
+   "d": "19.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-legion-pro-32ud-10-gaming-monitor-wie-neu-/3576409232-225-3409"
   },
   {
@@ -90,7 +161,7 @@
    ],
    "ts": "2026-11-19",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 09:08",
+   "d": "19.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-air-13-m5-16gb-ram-512gb-ssd-neu-ovp/3546520004-278-3409",
    "p_alt": "1.199 €",
    "p_seit": "2026-11-18"
@@ -124,38 +195,6 @@
    "loc": "12099 Tempelhof",
    "d": "18.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-top-angebot-amd-ryzen-5-3600-gtx-1650-16-gb/3575637767-228-3409"
-  },
-  {
-   "id": "3575600488",
-   "t": "⭐ Gaming-PC | RTX 4070 12GB | i9-10900F | 32GB RAM | TOP ⭐",
-   "p": "829 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb43cc2-4aab-4a13-bab8-7eef7fa85a34?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb43cc2-4aab-4a13-bab8-7eef7fa85a34?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec13a801-b663-4fbd-9742-be3de64ec1ad?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4a793c6-a8c1-4d3a-99d9-88edef46d6cf?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-18",
-   "loc": "12099 Tempelhof",
-   "d": "18.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-gaming-pc-rtx-4070-12gb-i9-10900f-32gb-ram-top-/3575600488-228-3409"
-  },
-  {
-   "id": "3575586416",
-   "t": "⭐ Lenovo Legion 5 15IAX10 | Ultra 7 | RTX 5060 | OLED ⭐",
-   "p": "1.349 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/947a1b51-3d66-4b75-afbd-870037cda147?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/947a1b51-3d66-4b75-afbd-870037cda147?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87f70829-3211-47b3-8852-1b9647a52fae?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a6e0929-ec19-4690-843a-b87aa8904bc9?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-18",
-   "loc": "12099 Tempelhof",
-   "d": "18.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-legion-5-15iax10-ultra-7-rtx-5060-oled-/3575586416-278-3409",
-   "p_alt": "1.449 €",
-   "p_seit": "2026-11-20"
   },
   {
    "id": "3574618769",
@@ -554,9 +593,9 @@
    "id": "3497960027",
    "t": "iPhone Ankauf – Faire Preise für iPhone 17, 16, 15, 14 & Pro Max",
    "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0cf7ba2-97e4-49a6-86b6-86767f036c48?rule=$_59.AUTO",
    "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b16adfd5-492b-4bc3-b392-450098a98595?rule=$_59.AUTO"
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0cf7ba2-97e4-49a6-86b6-86767f036c48?rule=$_59.AUTO"
    ],
    "ts": "2026-10-28",
    "loc": "12099 Tempelhof",
@@ -695,62 +734,6 @@
    "loc": "12099 Tempelhof",
    "d": "22.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
-  },
-  {
-   "id": "3548800262",
-   "t": "DJI FPV Combo Komplettset – 1 Bat + 1 Cont. 1 Motion Controller",
-   "p": "599 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc68ccd-ac20-4de5-9085-da694092e2f7?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc68ccd-ac20-4de5-9085-da694092e2f7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7ce3524-d447-4364-b16e-6e1fb2c24e68?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53698a60-05dd-43e2-ae8f-836a441e66d5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dji-fpv-combo-komplettset-1-bat-1-cont-1-motion-controller/3548800262-168-3409"
-  },
-  {
-   "id": "3466822106",
-   "t": "⭐️ Lenovo IdeaPad 5 Pro 14\" i5-1240P 16GB 512GB OVP Laptop ⭐️",
-   "p": "419 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d735bf1-8b7a-4707-a5fa-60701b2396c7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1851cb3-0e54-40ae-825e-65817b0d4ecf?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/537b64b7-220e-4323-9644-713261c10907?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3466822106-278-3409"
-  },
-  {
-   "id": "3466899960",
-   "t": "Gaming Laptop Ankauf Berlin | RTX Notebook verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b66f5a-b72c-499f-9876-cb827a368dfb?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
-  },
-  {
-   "id": "3466896994",
-   "t": "MacBook verkaufen in Berlin | Faire Ankaufspreise",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7496605a-6729-4371-a055-2df591dccbc5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
   }
  ]
 }
