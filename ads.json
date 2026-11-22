@@ -1,8 +1,64 @@
 {
- "generated": "2026-11-21T17:01:48+00:00",
+ "generated": "2026-11-22T17:30:35+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
  "count": 49,
  "ads": [
+  {
+   "id": "3549333303",
+   "t": "⭐ NVIDIA RTX A4000 16GB DDR6 4x DP Grafikkarte",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cafa6f4a-42b1-4a16-8240-12af95833430?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cafa6f4a-42b1-4a16-8240-12af95833430?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3da5d4fe-4a3f-4071-9aa3-78f69010ceda?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ac500f7-305d-4860-8c0a-c90c6255f1e9?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
+  },
+  {
+   "id": "3467798668",
+   "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
+   "p": "249 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-22",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 17:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
+  },
+  {
+   "id": "3466932702",
+   "t": "iPhone 17 Ankauf Berlin | iPhone 17 Pro & Pro Max verkaufen",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 20:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-ankauf-berlin-iphone-17-pro-pro-max-verkaufen/3466932702-173-3409"
+  },
+  {
+   "id": "3466913005",
+   "t": "DJ Equipment Ankauf Berlin | Pioneer, Denon, Allen & Heath",
+   "p": "VB",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-21",
+   "loc": "12099 Tempelhof",
+   "d": "Gestern, 18:06",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
+  },
   {
    "id": "3578243210",
    "t": "⭐ iPhone 17 Pro Max 256GB Silber | OVP | 92% Akku ⭐",
@@ -15,7 +71,7 @@
    ],
    "ts": "2026-11-21",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:16",
+   "d": "Gestern, 15:16",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-17-pro-max-256gb-silber-ovp-92-akku-/3578243210-173-3409"
   },
   {
@@ -30,7 +86,7 @@
    ],
    "ts": "2026-11-21",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:09",
+   "d": "Gestern, 15:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-fpv-combo-komplettset-1-bat-1-cont-1-motion-controller/3548800262-168-3409"
   },
   {
@@ -45,7 +101,7 @@
    ],
    "ts": "2026-11-21",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:58",
+   "d": "Gestern, 12:58",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-ipad-air-13-m4-256-gb-polarstern-100-akku-case/3578045107-285-3409"
   },
   {
@@ -58,7 +114,7 @@
    ],
    "ts": "2026-11-21",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:06",
+   "d": "Gestern, 12:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-rtx-notebook-verkaufen/3466899960-278-3409"
   },
   {
@@ -71,7 +127,7 @@
    ],
    "ts": "2026-11-21",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 10:06",
+   "d": "Gestern, 10:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
   },
   {
@@ -86,7 +142,7 @@
    ],
    "ts": "2026-11-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:46",
+   "d": "20.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-tuf-gaming-f17-i7-rtx-3060-16gb-1tb-ovp-/3577331844-278-3409"
   },
   {
@@ -101,7 +157,7 @@
    ],
    "ts": "2026-11-20",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 16:37",
+   "d": "20.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-macbook-air-m2-8-gb-ram-256-gb-ssd-92-akku-/3577321359-278-3409"
   },
   {
@@ -585,9 +641,7 @@
    "ts": "2026-10-28",
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409",
-   "p_alt": "1.049 €",
-   "p_seit": "2026-10-31"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
   },
   {
    "id": "3497960027",
@@ -678,62 +732,6 @@
    "loc": "12099 Tempelhof",
    "d": "24.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-samsung-galaxy-s26-ultra-256gb-neu-versiegelt/3550565430-173-3409"
-  },
-  {
-   "id": "3467798668",
-   "t": "ACEMAGIC LX15 Pro 15,6\" Ryzen 3 16GB 512GB SSD Win11 Laptop",
-   "p": "249 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882e8d77-ba93-4809-90dc-2b156b4bf12c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49a7868a-2248-4f78-927d-d6871bd1b9c1?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683947f0-637e-4832-a55a-a23b61049411?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
-  },
-  {
-   "id": "3549333303",
-   "t": "⭐ NVIDIA RTX A4000 16GB DDR6 4x DP Grafikkarte",
-   "p": "999 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cafa6f4a-42b1-4a16-8240-12af95833430?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cafa6f4a-42b1-4a16-8240-12af95833430?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3da5d4fe-4a3f-4071-9aa3-78f69010ceda?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ac500f7-305d-4860-8c0a-c90c6255f1e9?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-23",
-   "loc": "12099 Tempelhof",
-   "d": "23.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
-  },
-  {
-   "id": "3466932702",
-   "t": "iPhone 17 Ankauf Berlin | iPhone 17 Pro & Pro Max verkaufen",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0be2e037-5818-4faa-a9d0-eda8a628a08b?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-ankauf-berlin-iphone-17-pro-pro-max-verkaufen/3466932702-173-3409"
-  },
-  {
-   "id": "3466913005",
-   "t": "DJ Equipment Ankauf Berlin | Pioneer, Denon, Allen & Heath",
-   "p": "VB",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6c010-7859-49da-9814-f1296cfdefb0?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-22",
-   "loc": "12099 Tempelhof",
-   "d": "22.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/dj-equipment-ankauf-berlin-pioneer-denon-allen-heath/3466913005-172-3409"
   }
  ]
 }
