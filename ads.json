@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-23T21:50:44+00:00",
+ "generated": "2026-11-24T20:27:13+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 49,
+ "count": 48,
  "ads": [
+  {
+   "id": "3581383578",
+   "t": "⭐ iPhone Duo 256GB | 100% Akku | W. NEU | 11/2027 | NIGHT SKY ⭐",
+   "p": "2.129 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8360bcb2-3b4f-44da-83eb-5158c1ff80f4?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8360bcb2-3b4f-44da-83eb-5158c1ff80f4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84e65ab5-acaf-431c-a1bf-5b407f6029c4?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41fff459-20e5-4e46-80ad-e4a7c302dbcb?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-24",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:41",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-duo-256gb-100-akku-w-neu-11-2027-night-sky-/3581383578-173-3409"
+  },
+  {
+   "id": "3581230996",
+   "t": "⭐️ TOP ANGEBOT ⭐️ HP ELITEBOOK 6 G1i 16” NOTEBOOK AI PC",
+   "p": "999 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06dc6515-f88a-4e12-8186-d3282bf428e3?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06dc6515-f88a-4e12-8186-d3282bf428e3?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45f814be-db1f-45ff-86ba-5e58eb804334?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4559319-b152-4875-ad4b-481885e96cb7?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-24",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:02",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3581230996-278-3409"
+  },
   {
    "id": "3550565430",
    "t": "⭐ TOP ANGEBOT ⭐ Samsung Galaxy S26 Ultra 256GB | NEU & VERSIEGELT",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-23",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 17:08",
+   "d": "Gestern, 17:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-samsung-galaxy-s26-ultra-256gb-neu-versiegelt/3550565430-173-3409"
   },
   {
@@ -30,7 +60,7 @@
    ],
    "ts": "2026-11-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:08",
+   "d": "22.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-nvidia-rtx-a4000-16gb-ddr6-4x-dp-grafikkarte/3549333303-225-3409"
   },
   {
@@ -45,7 +75,7 @@
    ],
    "ts": "2026-11-22",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:06",
+   "d": "22.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/acemagic-lx15-pro-15-6-ryzen-3-16gb-512gb-ssd-win11-laptop/3467798668-278-3409"
   },
   {
@@ -343,38 +373,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-ipad-air-11-m2-128-gb-top-zustand-/3570719722-285-3409"
   },
   {
-   "id": "3570212315",
-   "t": "Lenovo Thinkpad 13w 2-in-1 Gen 3|i5|16GB RAM|512GB|Wie neu|OVP",
-   "p": "699 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed53a4b-a9d0-4e09-bd1d-82c2669074b9?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed53a4b-a9d0-4e09-bd1d-82c2669074b9?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/077a1973-6aae-4cf7-a36a-d1caa5668b3f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b419c58-6328-47f8-a591-86c574377a2a?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-thinkpad-13w-2-in-1-gen-3-i5-16gb-ram-512gb-wie-neu-ovp/3570212315-278-3409"
-  },
-  {
-   "id": "3569903575",
-   "t": "Sony ZV-1F 20,1 MP 4K Vlogging-Kamera Schwarz",
-   "p": "299 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27aeb9d2-5a19-41d7-b102-512442e7d8ce?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42f4bbae-673d-4725-83e1-e583879d2cb6?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/539d2662-77af-40b5-b77c-34f56d3111e0?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-13",
-   "loc": "12099 Tempelhof",
-   "d": "13.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/sony-zv-1f-20-1-mp-4k-vlogging-kamera-schwarz/3569903575-245-3409",
-   "p_alt": "339 €",
-   "p_seit": "2026-11-18"
-  },
-  {
    "id": "3484559555",
    "t": "⚡ CORSAIR iCUE LINK H150i LCD ⚡ 360-MM-AIO-WASSERKÜHLUNG LCD",
    "p": "149 €",
@@ -492,23 +490,6 @@
    "loc": "12099 Tempelhof",
    "d": "07.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-watch-ultra-3-49-mm-saphirglas-mit-ovp-top-zustand/3564260232-405-3409"
-  },
-  {
-   "id": "3534580778",
-   "t": "⭐ TOP ANGEBOT ⭐ ASUS ROG Strix G17 Ryzen 9 RTX 3070 Ti 32GB 1TB",
-   "p": "939 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2bfd069-1e40-4f85-aa3a-0fe909debfea?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2bfd069-1e40-4f85-aa3a-0fe909debfea?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb701d90-d02c-4b05-bcdf-7f0e29991612?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a37aa451-9f1b-4d39-93cd-d5d550b7bb86?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-07",
-   "loc": "12099 Tempelhof",
-   "d": "07.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-asus-rog-strix-g17-ryzen-9-rtx-3070-ti-32gb-1tb/3534580778-278-3409",
-   "p_alt": "999 €",
-   "p_seit": "2026-11-20"
   },
   {
    "id": "3502131017",
