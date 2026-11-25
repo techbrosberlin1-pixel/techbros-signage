@@ -1,11 +1,88 @@
 {
- "generated": "2026-11-24T20:27:13+00:00",
+ "generated": "2026-11-25T19:41:27+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 48,
+ "count": 45,
  "ads": [
   {
+   "id": "3523720745",
+   "t": "⭐️ ASUS DUAL GEFORCE RTX 2060 EVO OC 6GB ⭐️",
+   "p": "169 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1b2831b-4b81-4640-9536-a058e1bb042a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4036afb-01fa-4712-a21d-e1b68941d1be?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-25",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 20:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
+  },
+  {
+   "id": "3523714790",
+   "t": "APPLE AIRPODS MAX ⚫ SPACE GRAU ⚫ LIGHTNING VERSION",
+   "p": "239 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20cbe2b2-3611-4822-932c-8d022bb3d2d0?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f75aebc9-18d0-4776-b533-678820f7ac74?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-25",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 19:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409",
+   "p_alt": "269 €",
+   "p_seit": "2026-11-12"
+  },
+  {
+   "id": "3582251123",
+   "t": "⭐️ TOP ANGEBOT ⭐️ APPLE WATCH ULTRA 2 ⭐️ ⚡ 49 MM | GPS + CELLULAR",
+   "p": "339 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2fc674e-178e-4265-aa42-a51338f0d18a?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2fc674e-178e-4265-aa42-a51338f0d18a?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7c13fcc6-a784-46b3-b6d3-93173a05c61d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f797221-4ab9-41a5-99dd-1d0fda58051b?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-25",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 15:09",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-apple-watch-ultra-2-49-mm-gps-cellular/3582251123-405-3409"
+  },
+  {
+   "id": "3582240596",
+   "t": "⭐️ Lenovo IdeaPad 5 Pro 14\" i5-1240P 16GB 512GB OVP Laptop ⭐️",
+   "p": "469 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f59c795c-baeb-4e0a-b362-badf1dacd77b?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f59c795c-baeb-4e0a-b362-badf1dacd77b?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/415bf95a-9140-4591-8def-ea6e4ff6bd9e?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e18094-7457-491d-b196-5e9aa044be86?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-25",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 14:59",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3582240596-278-3409"
+  },
+  {
+   "id": "3523741277",
+   "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
+   "p": "839 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffdd06be-147d-4483-987f-e437e479756d?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d58fd417-5fc0-4b3e-a132-473775e067e5?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-25",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 12:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
+  },
+  {
    "id": "3581383578",
-   "t": "⭐ iPhone Duo 256GB | 100% Akku | W. NEU | 11/2027 | NIGHT SKY ⭐",
+   "t": "⭐ iPhone Duo 256 GB Night Sky | 100% Akku | W. NEU | 11/2027 ⭐",
    "p": "2.129 €",
    "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8360bcb2-3b4f-44da-83eb-5158c1ff80f4?rule=$_59.AUTO",
    "imgs": [
@@ -15,8 +92,8 @@
    ],
    "ts": "2026-11-24",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:41",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-duo-256gb-100-akku-w-neu-11-2027-night-sky-/3581383578-173-3409"
+   "d": "Gestern, 14:41",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-duo-256-gb-night-sky-100-akku-w-neu-11-2027-/3581383578-173-3409"
   },
   {
    "id": "3581230996",
@@ -30,23 +107,8 @@
    ],
    "ts": "2026-11-24",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:02",
+   "d": "Gestern, 12:02",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3581230996-278-3409"
-  },
-  {
-   "id": "3550565430",
-   "t": "⭐ TOP ANGEBOT ⭐ Samsung Galaxy S26 Ultra 256GB | NEU & VERSIEGELT",
-   "p": "899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4fc822-ad6e-41eb-94df-f053612b7b4f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9f5627f-8ec7-43ec-a023-bd639b965543?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdec08ad-ded9-4833-b54b-faa73460c088?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-23",
-   "loc": "12099 Tempelhof",
-   "d": "Gestern, 17:08",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-samsung-galaxy-s26-ultra-256gb-neu-versiegelt/3550565430-173-3409"
   },
   {
    "id": "3549333303",
@@ -174,21 +236,6 @@
    "loc": "12099 Tempelhof",
    "d": "21.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-verkaufen-in-berlin-faire-ankaufspreise/3466896994-278-3409"
-  },
-  {
-   "id": "3577331844",
-   "t": "⭐ ASUS TUF Gaming F17 | i7 | RTX 3060 | 16GB | 1TB | OVP ⭐",
-   "p": "679 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad3eb80d-a572-4772-8a0e-7dec525337a7?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad3eb80d-a572-4772-8a0e-7dec525337a7?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/fffea244-0010-4206-a621-1976060ec4aa?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55171f65-b315-4b99-8670-6d8745e268a1?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-20",
-   "loc": "12099 Tempelhof",
-   "d": "20.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-tuf-gaming-f17-i7-rtx-3060-16gb-1tb-ovp-/3577331844-278-3409"
   },
   {
    "id": "3577321359",
@@ -388,36 +435,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-corsair-icue-link-h150i-lcd-360-mm-aio-wasserkuehlung-lcd/3484559555-225-3409"
   },
   {
-   "id": "3568316768",
-   "t": "⚡ TOP ANGEBOT ⚡ Anker SOLIX C300X Portable Power Station ⚡",
-   "p": "149 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd77bb90-b07d-4b92-87e3-f8f9213d520f?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd77bb90-b07d-4b92-87e3-f8f9213d520f?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd3292ee-e5cb-4919-9e8b-2a942854f37c?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c11ee76f-8726-4029-a817-f093e3e7f7be?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-11",
-   "loc": "12099 Tempelhof",
-   "d": "11.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-anker-solix-c300x-portable-power-station-/3568316768-230-3409"
-  },
-  {
-   "id": "3567337809",
-   "t": "iPhone 17 Pro Max 256GB Cosmic Orange mit OVP | 95% Akku",
-   "p": "899 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dc3861f-ec5f-4686-97e4-1c4985682311?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dc3861f-ec5f-4686-97e4-1c4985682311?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd146d98-99e8-43ee-9199-8cd78fffbfbe?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27a5d0be-87bc-45cb-a899-5739553493c6?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-10",
-   "loc": "12099 Tempelhof",
-   "d": "10.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-17-pro-max-256gb-cosmic-orange-mit-ovp-95-akku/3567337809-173-3409"
-  },
-  {
    "id": "3536739477",
    "t": "Sony PlayStation Portal Remote Player PS5 Weiß ⭐ Ohne OVP",
    "p": "179 €",
@@ -552,21 +569,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
   },
   {
-   "id": "3497576676",
-   "t": "Gaming-PC MSI MAG Infinite S3 i5 RTX 5060 16GB 1TB NEU OVP",
-   "p": "949 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a83c756-69f2-429b-a975-9a1a26ce1b25?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81544a44-26cb-4247-862d-158d5d94d546?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96dcf852-b3bc-41b5-8858-b4002a73645f?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-msi-mag-infinite-s3-i5-rtx-5060-16gb-1tb-neu-ovp/3497576676-228-3409"
-  },
-  {
    "id": "3497963217",
    "t": "Gaming Laptop Ankauf Berlin – Gaming Notebook verkaufen | Sofort",
    "p": "VB",
@@ -592,9 +594,7 @@
    "ts": "2026-10-28",
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409",
-   "p_alt": "2.249 €",
-   "p_seit": "2026-11-03"
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409"
   },
   {
    "id": "3554879225",
@@ -666,53 +666,6 @@
    "loc": "12099 Tempelhof",
    "d": "27.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
-  },
-  {
-   "id": "3523720745",
-   "t": "⭐️ ASUS DUAL GEFORCE RTX 2060 EVO OC 6GB ⭐️",
-   "p": "169 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b5c79-e9d7-4f71-a038-287862bafc6b?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1b2831b-4b81-4640-9536-a058e1bb042a?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4036afb-01fa-4712-a21d-e1b68941d1be?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
-  },
-  {
-   "id": "3523714790",
-   "t": "APPLE AIRPODS MAX ⚫ SPACE GRAU ⚫ LIGHTNING VERSION",
-   "p": "239 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8828b56-45f1-4a8e-b278-b920f179db60?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20cbe2b2-3611-4822-932c-8d022bb3d2d0?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f75aebc9-18d0-4776-b533-678820f7ac74?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409",
-   "p_alt": "269 €",
-   "p_seit": "2026-11-12"
-  },
-  {
-   "id": "3523741277",
-   "t": "⭐️ SHURE PSM 300 P3TERA K3E – PROFI IN-EAR MONITORING ⭐️",
-   "p": "839 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dea6968e-b5f1-4fc2-b88d-391b4543be97?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffdd06be-147d-4483-987f-e437e479756d?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d58fd417-5fc0-4b3e-a132-473775e067e5?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-26",
-   "loc": "12099 Tempelhof",
-   "d": "26.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   }
  ]
 }
