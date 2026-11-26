@@ -1,8 +1,23 @@
 {
- "generated": "2026-11-25T19:41:27+00:00",
+ "generated": "2026-11-26T19:21:37+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 45,
+ "count": 43,
  "ads": [
+  {
+   "id": "3554091252",
+   "t": "Apple MacBook Pro 14″ M5 16GB 512GB OVP | Apple-Schutz 02/27",
+   "p": "1.449 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e00c2a-81e2-4e84-8373-a25a58a4fb48?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6637861f-d608-4e37-b10c-bc1a03a142c0?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-26",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 18:08",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
+  },
   {
    "id": "3523720745",
    "t": "⭐️ ASUS DUAL GEFORCE RTX 2060 EVO OC 6GB ⭐️",
@@ -15,7 +30,7 @@
    ],
    "ts": "2026-11-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 20:07",
+   "d": "Gestern, 20:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-asus-dual-geforce-rtx-2060-evo-oc-6gb-/3523720745-225-3409"
   },
   {
@@ -30,7 +45,7 @@
    ],
    "ts": "2026-11-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 19:07",
+   "d": "Gestern, 19:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-airpods-max-space-grau-lightning-version/3523714790-172-3409",
    "p_alt": "269 €",
    "p_seit": "2026-11-12"
@@ -47,7 +62,7 @@
    ],
    "ts": "2026-11-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 15:09",
+   "d": "Gestern, 15:09",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-apple-watch-ultra-2-49-mm-gps-cellular/3582251123-405-3409"
   },
   {
@@ -62,7 +77,7 @@
    ],
    "ts": "2026-11-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:59",
+   "d": "Gestern, 14:59",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-lenovo-ideapad-5-pro-14-i5-1240p-16gb-512gb-ovp-laptop-/3582240596-278-3409"
   },
   {
@@ -77,7 +92,7 @@
    ],
    "ts": "2026-11-25",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:07",
+   "d": "Gestern, 12:07",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-shure-psm-300-p3tera-k3e-profi-in-ear-monitoring-/3523741277-172-3409"
   },
   {
@@ -92,7 +107,7 @@
    ],
    "ts": "2026-11-24",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 14:41",
+   "d": "24.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-iphone-duo-256-gb-night-sky-100-akku-w-neu-11-2027-/3581383578-173-3409"
   },
   {
@@ -107,7 +122,7 @@
    ],
    "ts": "2026-11-24",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 12:02",
+   "d": "24.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-top-angebot-hp-elitebook-6-g1i-16-notebook-ai-pc/3581230996-278-3409"
   },
   {
@@ -195,21 +210,6 @@
    "loc": "12099 Tempelhof",
    "d": "21.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/dji-fpv-combo-komplettset-1-bat-1-cont-1-motion-controller/3548800262-168-3409"
-  },
-  {
-   "id": "3578045107",
-   "t": "⭐ APPLE IPAD AIR 13″ M4 | 256 GB | POLARSTERN | 100 % AKKU | CASE",
-   "p": "839 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e52c4f0c-35ad-4418-b0f3-7c9d79519409?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e52c4f0c-35ad-4418-b0f3-7c9d79519409?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db55b8ee-def1-4b9f-83d9-d71d6e1e7838?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1e4345a-524c-4b9d-8a04-78217f5260ae?rule=$_59.AUTO"
-   ],
-   "ts": "2026-11-21",
-   "loc": "12099 Tempelhof",
-   "d": "21.11.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-apple-ipad-air-13-m4-256-gb-polarstern-100-akku-case/3578045107-285-3409"
   },
   {
    "id": "3466899960",
@@ -597,21 +597,6 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409"
   },
   {
-   "id": "3554879225",
-   "t": "⚡ ACER Predator Orion 3000 | i5-14400F | RTX 4060 | 16GB | 512 ⚡",
-   "p": "729 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac71421-5789-4499-90e4-a866b79ce5bd?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac71421-5789-4499-90e4-a866b79ce5bd?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09d39bfe-c834-4346-9ad9-8c2d1bf3d329?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62b60cbd-d4bc-4adb-a505-47b26b8341ba?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-28",
-   "loc": "12099 Tempelhof",
-   "d": "28.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-acer-predator-orion-3000-i5-14400f-rtx-4060-16gb-512-/3554879225-228-3409"
-  },
-  {
    "id": "3497961759",
    "t": "MacBook Ankauf Berlin – MacBook verkaufen | Sofort Bargeld",
    "p": "VB",
@@ -651,21 +636,6 @@
    "loc": "12099 Tempelhof",
    "d": "28.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
-  },
-  {
-   "id": "3554091252",
-   "t": "Apple MacBook Pro 14″ M5 16GB 512GB OVP | Apple-Schutz 02/27",
-   "p": "1.449 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a5b7e5-c7d6-4605-b445-58f9068d2688?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1e00c2a-81e2-4e84-8373-a25a58a4fb48?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6637861f-d608-4e37-b10c-bc1a03a142c0?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-27",
-   "loc": "12099 Tempelhof",
-   "d": "27.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
   }
  ]
 }
