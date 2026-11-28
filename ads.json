@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-27T19:16:12+00:00",
+ "generated": "2026-11-28T17:53:18+00:00",
  "source": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=150382420",
- "count": 44,
+ "count": 45,
  "ads": [
+  {
+   "id": "3526473270",
+   "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
+   "p": "129 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62fdd086-7294-425e-8475-78ee53e86919?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33a0e6b9-8c6c-4ab3-96e4-b7e0fe73e6cc?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 16:07",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
+  },
+  {
+   "id": "3584634167",
+   "t": "Captiva Gaming-PC RTX 4090 | Ryzen 9 5950X | 32GB | 2TB | Wie neu",
+   "p": "3.499 €",
+   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/855a7615-0b5b-485e-a5c0-b17e745e6cfe?rule=$_59.AUTO",
+   "imgs": [
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/855a7615-0b5b-485e-a5c0-b17e745e6cfe?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ccb15ee-a364-4867-9125-c4a62ca96259?rule=$_59.AUTO",
+    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd9399d0-08ae-4a2b-826d-4b13466c3a76?rule=$_59.AUTO"
+   ],
+   "ts": "2026-11-28",
+   "loc": "12099 Tempelhof",
+   "d": "Heute, 13:05",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/captiva-gaming-pc-rtx-4090-ryzen-9-5950x-32gb-2tb-wie-neu/3584634167-228-3409"
+  },
   {
    "id": "3554927971",
    "t": "⭐ 2x Pioneer DJ CDJ-2000NXS ⭐ mit Transport-Case ⭐",
@@ -15,7 +45,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 18:08",
+   "d": "Gestern, 18:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-2x-pioneer-dj-cdj-2000nxs-mit-transport-case-/3554927971-172-3409"
   },
   {
@@ -28,7 +58,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 16:06",
+   "d": "Gestern, 16:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-laptop-ankauf-berlin-gaming-notebook-verkaufen-sofort-/3497963217-278-3409"
   },
   {
@@ -41,7 +71,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 14:06",
+   "d": "Gestern, 14:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/macbook-ankauf-berlin-macbook-verkaufen-sofort-bargeld/3497961759-278-3409"
   },
   {
@@ -56,7 +86,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 12:06",
+   "d": "Gestern, 12:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-fiio-k19-high-end-dac-kopfhoererverstaerker-mit-ovp-/3497742902-172-3409"
   },
   {
@@ -69,7 +99,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 11:06",
+   "d": "Gestern, 11:06",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-ankauf-faire-preise-fuer-iphone-17-16-15-14-pro-max/3497960027-173-3409"
   },
   {
@@ -84,7 +114,7 @@
    ],
    "ts": "2026-11-27",
    "loc": "12099 Tempelhof",
-   "d": "Heute, 09:08",
+   "d": "Gestern, 09:08",
    "url": "https://www.kleinanzeigen.de/s-anzeige/-acer-predator-orion-3000-i5-14400f-rtx-4060-16gb-512-/3554879225-228-3409"
   },
   {
@@ -99,7 +129,7 @@
    ],
    "ts": "2026-11-26",
    "loc": "12099 Tempelhof",
-   "d": "Gestern, 18:08",
+   "d": "26.11.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/apple-macbook-pro-14-m5-16gb-512gb-ovp-apple-schutz-02-27/3554091252-278-3409"
   },
   {
@@ -636,21 +666,6 @@
    "loc": "12099 Tempelhof",
    "d": "31.10.2026",
    "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-16-pro-max-256gb-sehr-guter-zustand-ovp-/3557212156-173-3409"
-  },
-  {
-   "id": "3526473270",
-   "t": "⭐️ SAMSUNG GALAXY WATCH6 CLASSIC 47MM ⭐️ NEU & VERSIEGELT ⭐️",
-   "p": "129 €",
-   "i": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
-   "imgs": [
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd21e20-77dd-40f8-89d1-7e71f3dcf1fc?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62fdd086-7294-425e-8475-78ee53e86919?rule=$_59.AUTO",
-    "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33a0e6b9-8c6c-4ab3-96e4-b7e0fe73e6cc?rule=$_59.AUTO"
-   ],
-   "ts": "2026-10-29",
-   "loc": "12099 Tempelhof",
-   "d": "29.10.2026",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-watch6-classic-47mm-neu-versiegelt-/3526473270-405-3409"
   }
  ]
 }
